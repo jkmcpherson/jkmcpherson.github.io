@@ -18,6 +18,7 @@ The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
 
 
+
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,3 +42,5 @@ The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jkmcpherson/jkmcpherson/master)
 [![jkmcpherson StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/17821268/)](https://stackoverflow.com/users/17821268/jkmcpherson)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jkmcpherson)](https://github.com/LordDashMe/github-contribution-stats/)
