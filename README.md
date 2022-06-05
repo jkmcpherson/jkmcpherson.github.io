@@ -9,9 +9,7 @@ Additional resources:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 
-![Profile views](https://gpvc.arturio.dev/jkmcpherson)
-[![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
-
+![Profile views](https://gpvc.arturio.dev/jkmcpherson) [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
 
 
