@@ -10,14 +10,13 @@ The **bookdown** book: https://bookdown.org/yihui/bookdown/
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
+[![jkmcpherson StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/17821268/)](https://stackoverflow.com/users/17821268/jkmcpherson)
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
 [![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
 
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
-
-
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,9 +37,7 @@ The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jkmcpherson/jkmcpherson/master)
-[![jkmcpherson StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/17821268/)](https://stackoverflow.com/users/17821268/jkmcpherson)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jkmcpherson)](https://github.com/LordDashMe/github-contribution-stats/)
