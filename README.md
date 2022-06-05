@@ -10,6 +10,7 @@ The **bookdown** book: https://bookdown.org/yihui/bookdown/
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
+
 [![jkmcpherson StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/17821268/)](https://stackoverflow.com/users/17821268/jkmcpherson)
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
