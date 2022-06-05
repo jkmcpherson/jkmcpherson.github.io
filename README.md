@@ -9,10 +9,11 @@ Additional resources:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 
-![Profile views](https://gpvc.arturio.dev/Naereen)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
-![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
-[![Twitter Followers](https://badgen.net/twitter/follow/javascript)](https://twitter.com/javascript)
+![Profile views](https://gpvc.arturio.dev/jkmcpherson)
+[![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
+
+[![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
+
 
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
