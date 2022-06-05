@@ -8,3 +8,5 @@ The contents inside the .Rmd files provide some pointers to help you get started
 Additional resources:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
