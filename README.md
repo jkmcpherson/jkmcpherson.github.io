@@ -4,7 +4,7 @@ You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi
 
 I keep an organized [**Gitbook**](https://jkmcpherson.netlify.app/) where I write and link other users helpful resources.
 
-This is an example of a [**bookdown**](https://github.com/rstudio/bookdown) based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
+This is an example of a [**Bookdown**](https://github.com/rstudio/bookdown) book based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
 
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
