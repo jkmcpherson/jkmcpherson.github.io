@@ -2,11 +2,9 @@
 
 You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945).
 
-I keep an organized [Gitbook](https://jkmcpherson.netlify.app/) where I write and link other users helpful resources.
+I keep an organized [**Gitbook**](https://jkmcpherson.netlify.app/) where I write and link other users helpful resources.
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
-This template provides a skeleton file structure that you can edit to create your book. 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
+This is an example of a [**bookdown**](https://github.com/rstudio/bookdown) based on [**R Markdown**](https://github.com/rstudio/rmarkdown)
 
 Additional resources:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
