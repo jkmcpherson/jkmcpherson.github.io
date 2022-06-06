@@ -1,14 +1,10 @@
 ### Welcome to my [README](https://jkmcpherson.github.io/jkmcpherson/)
 
-You can find my publications at [**PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID**](https://orcid.org/0000-0001-5486-4945).
+You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [**Google Scholar**](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [**ResearchGate**](https://www.researchgate.net/profile/Jacob-Mcpherson), [**SCOPUS**](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [**ORCID**](https://orcid.org/0000-0001-5486-4945).
 
 I keep an organized [**Gitbook**](https://jkmcpherson.netlify.app/) where I write and link other users helpful resources.
 
-This is an example of a [**bookdown**](https://github.com/rstudio/bookdown) based on [**R Markdown**](https://github.com/rstudio/rmarkdown)
-
-Additional resources:
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+This is an example of a [**bookdown**](https://github.com/rstudio/bookdown) based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
 
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
