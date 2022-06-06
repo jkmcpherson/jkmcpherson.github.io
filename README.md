@@ -9,19 +9,8 @@ Additional resources:
 The **bookdown** book: https://bookdown.org/yihui/bookdown/
 The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 
-
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
-[![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
-[![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
-
-
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
-[![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
-
-
-
-
 
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -56,6 +45,11 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/dplyr)](https://cran.r-project.org/package=dplyr)
 [![R-CMD-check](https://github.com/tidyverse/dplyr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tidyverse/dplyr/actions/workflows/R-CMD-check.yaml)
+
+[![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
+[![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
+[![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
 [![Codecov test coverage](https://codecov.io/gh/tidyverse/dplyr/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/dplyr?branch=main)
 <!-- badges: end -->
 <a href="https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/thumbnails/data-transformation-cheatsheet-thumbs.png" width="630" height="252"/></a>
