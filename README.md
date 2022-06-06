@@ -17,12 +17,12 @@ The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 
 
 ### Languages, Tools, and Skills 🛠
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VSCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.ubuntu.com)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -52,12 +52,16 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/dplyr)](https://cran.r-project.org/package=dplyr)
 [![R-CMD-check](https://github.com/tidyverse/dplyr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tidyverse/dplyr/actions/workflows/R-CMD-check.yaml)
-
-[![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
-[![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
 [![Codecov test coverage](https://codecov.io/gh/tidyverse/dplyr/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/dplyr?branch=main)
 <!-- badges: end -->
 <a href="https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/thumbnails/data-transformation-cheatsheet-thumbs.png" width="630" height="252"/></a>
 
+[![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
+[![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
+
+<!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/rmarkdown)](https://cran.r-project.org/package=rmarkdown)
+<!-- badges: end -->
+<a href="https://github.com/rstudio/cheatsheets/blob/main/rmarkdown-2.0.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/rmarkdown.png" width="630" height="252"/></a>
