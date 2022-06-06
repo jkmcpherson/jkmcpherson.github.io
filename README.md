@@ -1,6 +1,6 @@
 ### Welcome to my [README](https://jkmcpherson.github.io/jkmcpherson/)
 
-You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945).
+You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945).
 
 I keep an organized [Gitbook](https://jkmcpherson.netlify.app/) where I write and link other users helpful resources.
 
