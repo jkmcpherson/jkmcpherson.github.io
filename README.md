@@ -1,4 +1,4 @@
-Welcome to my [README](https://jkmcpherson.github.io/jkmcpherson/)!
+### Welcome to my [README](https://jkmcpherson.github.io/jkmcpherson/)
 
 You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945).
 
@@ -15,7 +15,11 @@ The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
 
+
+### Languages, Tools, and Skills 🛠
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VSCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.ubuntu.com)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -29,9 +33,9 @@ The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jkmcpherson)](https://github.com/LordDashMe/github-contribution-stats/)
