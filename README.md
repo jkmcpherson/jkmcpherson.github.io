@@ -45,17 +45,11 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 <a href="https://github.com/rstudio/cheatsheets/blob/master/data-visualization.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/master/pngs/thumbnails/data-visualization-cheatsheet-thumbs.png" width="630" height="252"/></a>
 
 <!-- badges: start -->
-[![CRAN status](https://www.r-pkg.org/badges/version/dplyr)](https://cran.r-project.org/package=dplyr)
-[![R-CMD-check](https://github.com/tidyverse/dplyr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tidyverse/dplyr/actions/workflows/R-CMD-check.yaml)
-[![Codecov test coverage](https://codecov.io/gh/tidyverse/dplyr/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/dplyr?branch=main)
+[![CRAN status](https://www.r-pkg.org/badges/version/dplyr)](https://cran.r-project.org/package=purrr)
+[![R-CMD-check](https://github.com/tidyverse/purrr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tidyverse/purrr/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/tidyverse/purrr/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/purrr?branch=main)
 <!-- badges: end -->
 <a href="https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/thumbnails/purrr-cheatsheet-thumbs.png" width="630" height="252"/></a>
-
-<!-- badges: start -->
-[![CRAN status](https://www.r-pkg.org/badges/version/purrr)](https://cran.r-project.org/package=purrr)
-[![R-CMD-check](https://github.com/tidyverse/purrr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tidyverse/purrr/actions/workflows/R-CMD-check.yaml)
-<!-- badges: end -->
-<a href="https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/thumbnails/purrr.png" width="630" height="252"/></a>
 
 
 [![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
