@@ -67,24 +67,31 @@ My Favorite Scientific Journals
 [*Biology Methods and Protocols*](https://academic.oup.com/biomethods) and 
 [Springer|Nature Experiments](https://experiments.springernature.com/)
 
-[**Bioinformatics of genomics, metagenomics, transcriptomics, proteomics, and metabolomics (in Python)**]()
+[**Scientific Programming: Bioinformatics & Computational Biology**
 ---
+  of genomics, metagenomics, transcriptomics, proteomics, and metabolomics [in Python](https://www.python.org/) using the [BioPython](https://biopython.org/) library
+
   [Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
     
   [National Center for Biotechnology and Information (NCBI)](https://ncbiinsights.ncbi.nlm.nih.gov/)
     
   [European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
 
-[**Statistical programming and data visualization (in R)**]() in the *Nature* collections [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance), [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm)
+[**Statistical programming and data visualization (in R)**]() 
 ---
+in the *Nature* collections [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance), [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm)
+
+
 [**Artificial intelligence, machine learning, and deep learning (in Python, R)**]()
 ---
-[**Computer science communities:**]() [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Tidyverse](https://www.tidyverse.org/) [Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/) , [Julia](https://julialang.org/), [Docker](https://www.docker.com/), [Git](https://git-scm.com/), [LaTeX](https://www.latex-project.org/), [VSCode](https://code.visualstudio.com/), [AWS](https://aws.amazon.com/), [Ubuntu](https://www.ubuntu.com)
+
+
+[**Computer science communities:**]()
 ---
+[R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Tidyverse](https://www.tidyverse.org/) [Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/) , [Julia](https://julialang.org/), [Docker](https://www.docker.com/), [Git](https://git-scm.com/), [LaTeX](https://www.latex-project.org/), [VSCode](https://code.visualstudio.com/), [AWS](https://aws.amazon.com/), [Ubuntu](https://www.ubuntu.com)
+
 
 This is an example of a [**Bookdown**](https://github.com/rstudio/bookdown) book based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
-
-
 
 
 
