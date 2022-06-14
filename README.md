@@ -13,6 +13,7 @@ My Favorite Scientific Journals
 **Academic and clinical journals** such as 
  [*Nature*](https://www.nature.com/), 
  [*Science*](https://www.science.org/), 
+ [*Cell*](https://www.cell.com/), 
  [*Nature Medicine*](https://www.nature.com/nm/), 
  [*Science Translational Medicine*](https://www.science.org/journal/stm), 
  [*The Lancet*](https://www.thelancet.com/), 
@@ -23,9 +24,9 @@ My Favorite Scientific Journals
 **Cellular, Molecular, and Structural Biology** in 
 [*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), 
 [*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/), 
-[*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/)
-[*Science Signaling*](https://www.science.org/journal/signaling), and
-[*Cell*](https://www.cell.com/)
+[*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/), and
+[*Science Signaling*](https://www.science.org/journal/signaling)
+
 
 **Pharmacology of receptor theory** in 
 [*Pharmacological Reviews*](https://pharmrev.aspetjournals.org/), 
