@@ -21,7 +21,7 @@ My Favorite Scientific Journals
  [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
  [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
 
-**Cellular, Molecular, and Structural Biology** in 
+**Cellular, molecular, and structural biology** in 
 [*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), 
 [*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/), 
 [*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/), and
@@ -34,7 +34,7 @@ My Favorite Scientific Journals
 [*British Journal of Pharmacology* (BPJ)](https://bpspubs.onlinelibrary.wiley.com/journal/14765381), and the 
 [*Journal of Pharmacology and Experimental Therapeutics* (JPET)](https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics) 
 
-**Clinical Microbiology, metagenomics and microbial ecology (microbiome sciences)** in 
+**Clinical microbiology, metagenomics and microbial ecology (microbiome sciences)** in 
 [*Nature Reviews Microbiology*](https://www.nature.com/nrmicro/), 
 [*Clinical Microbiology Reviews*](https://journals.asm.org/journal/cmr), 
 [*Journal of Clinical Microbiology* (J Clin Micro)](https://journals.asm.org/journal/jcm), 
