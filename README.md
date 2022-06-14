@@ -98,7 +98,7 @@ My Favorite Scientific Journals and Books
 
 [**Statistical programming and data visualization (in R)**]()
 ---
-in the *Nature* collections [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance), [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm)
+see the statistics primers towards the bottom of the *Nature* collection [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and the sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
 [Antoine Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/what-statistical-test-should-i-do/) and clicking the in-picture end-node links. 
 
