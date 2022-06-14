@@ -13,7 +13,7 @@ I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate
  [*Science*](https://www.science.org/),
  [*Nature Medicine*](https://www.nature.com/nm/), 
  [*Science Translational Medicine*](https://www.science.org/journal/stm), 
- [*The Lancet*](https://www.thelancet.com/), the
+ [*The Lancet*](https://www.thelancet.com/),
  [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
  [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
  [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
