@@ -49,12 +49,6 @@ My Favorite Scientific Journals and Books
 [*Nature* subject/Metagenomics](https://www.nature.com/subjects/metagenomics/nature), and the ecology & evolution journals
 [*Annual Review of Ecology, Evolution and Systematics*](https://www.annualreviews.org/journal/ecolsys), and 
 [*Nature Ecology and Evolution*](https://www.nature.com/natecolevol/)
-
-**Immunology** in 
-[*Nature Immunology*](https://www.nature.com/ni/), 
-[*Nature Reviews Immunology*](https://www.nature.com/nri/), 
-[*Science Immunology*](https://www.science.org/toc/sciimmunol/current), and 
-[*Mucosal Immunology*](https://www.nature.com/mi/)
  
 **Infectious Diseases and antimicrobial stewardship pharmacy practice** in 
 [*Antimicrobial Agents and Chemotherapy* (AAC)](https://journals.asm.org/journal/aac), 
@@ -72,6 +66,12 @@ My Favorite Scientific Journals and Books
 [*Nucleic Acids Research*](https://academic.oup.com/nar/), the 
 [*Annual Review of Genetics*](https://www.annualreviews.org/journal/genet), and the 
 [*Annual Review of Genomics and Human Genetics*](https://www.annualreviews.org/journal/genom) 
+
+**Immunology** in 
+[*Nature Immunology*](https://www.nature.com/ni/), 
+[*Nature Reviews Immunology*](https://www.nature.com/nri/), 
+[*Science Immunology*](https://www.science.org/toc/sciimmunol/current), and 
+[*Mucosal Immunology*](https://www.nature.com/mi/)
 
 **Laboratory methods** in 
 [*Nature Methods*](https://www.nature.com/nmeth/), 
