@@ -88,9 +88,11 @@ My Favorite Scientific Journals and Books
     
   [National Center for Biotechnology and Information (NCBI)](https://ncbiinsights.ncbi.nlm.nih.gov/)
   
-  [The Bacterial and Viral Bioinformatics Resource Center](https://www.bv-brc.org/) and (QIAGEN Digital Insights](https://digitalinsights.qiagen.com/)
+  [The Bacterial and Viral Bioinformatics Resource Center](https://www.bv-brc.org/)
     
   [European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
+  
+  The commercial [QIAGEN Digital Insights](https://digitalinsights.qiagen.com/)
 
 [**Statistical programming and data visualization (in R)**]()
 ---
