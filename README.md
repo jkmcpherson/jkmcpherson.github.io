@@ -4,19 +4,19 @@ You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi
 
 I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources about: 
 
-[**The scientific literature**]()
+[**The clinical literature**]() in [*Nature*](https://www.nature.com/), [*Nature Medicine*](https://www.nature.com/nm/) [*Science*](https://www.science.org/), [*Science Translational Medicine*](https://www.science.org/journal/stm), [*The Lancet*](https://www.thelancet.com/), [*New England Journal of Medicine*](https://www.nejm.org/), 
 
-   [*Nature*](https://www.nature.com/) 
-  
-   [*Science*](https://www.science.org/) 
+[**Clinical Microbiology and Microbiome Sciences**]() in [*Nature Reviews Microbiology*](https://www.nature.com/nrmicro/), [*Clinical Microbiology Reviews*](https://journals.asm.org/journal/cmr), [*Journal of Clinical Microbiology* (J Clin Micro)](https://journals.asm.org/journal/jcm) [*Nature Microbiology*](https://www.nature.com/nmicrobiol/), [*Cell Host & Microbe*](https://www.cell.com/cell-host-microbe/), [*Nature* subject/Microbiology](https://www.nature.com/subjects/microbiology/nature) including the more narrow subjects [*Nature* subject/Microbiome](https://www.nature.com/subjects/microbiome/nature), [*Nature* subject/Communities](https://www.nature.com/subjects/communities/nature),  [*Nature* subject/Metagenomics](https://www.nature.com/subjects/metagenomics/nature), 
+
+[**Immunology**]() in [*Nature Immunology*](https://www.nature.com/ni/), [*Nature Reviews Immunology*](https://www.nature.com/nri/), [*Science Immunology*](https://www.science.org/toc/sciimmunol/current)
+
+[**Cellular and Molecular Biology**]() in [*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), [*Cell*](https://www.cell.com/), [*eLife*](https://elifesciences.org/), [*Science Signaling*](https://www.science.org/journal/signaling)
+
+[**Pathophysiology**]()] in [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
  
-[**Infectious Diseases and antimicrobial stewardship pharmacy practice**]()
+[**Infectious Diseases and antimicrobial stewardship pharmacy practice**]() in [*Clinical Infectious Diseases* (CID)](https://academic.oup.com/cid), [*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home, [*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease),  [*Antimicrobial Agents and Chemotherapy* (AAC)](https://journals.asm.org/journal/aac), [*Nature* subject/Antimicrobials](https://www.nature.com/subjects/antimicrobials/nature)
 
-   [*The Lancet*](https://www.thelancet.com/)
-   
-   [*New England Journal of Medicine*](https://www.nejm.org/)
-
-[**Pharmacology of receptor theory, cell theory, structural biology**]()
+[**Pharmacology of receptor theory, cell theory, structural biology**]() in [*Nature Reviews Drug Discovery*](https://www.nature.com/nrd/), the [*British Journal of Pharmacology* (BPJ)](https://bpspubs.onlinelibrary.wiley.com/journal/14765381), the [*Journal of Pharmacology and Experimental Therapeutics* (JPET)](https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics) and [*Pharmacological Reviews*](https://pharmrev.aspetjournals.org/)
 
 [**Bioinformatics (most often of the GI microbiome) of genomics, metagenomics, transcriptomics, proteomics, and metabolomics (in Python)**]()
 
