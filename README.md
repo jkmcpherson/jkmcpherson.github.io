@@ -29,7 +29,7 @@ My Favorite Scientific Journals and Books
 [*Science Signaling*](https://www.science.org/journal/signaling)
 
 **Pharmacology of receptor theory** in 
-['A Pharmacology Primer'](https://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer), 
+[Terry Kenakin's 'A Pharmacology Primer'](https://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer), 
 [*Pharmacological Reviews*](https://pharmrev.aspetjournals.org/), 
 [*Nature Reviews Drug Discovery*](https://www.nature.com/nrd/), the 
 [*British Journal of Pharmacology* (BPJ)](https://bpspubs.onlinelibrary.wiley.com/journal/14765381), and the 
@@ -64,7 +64,7 @@ My Favorite Scientific Journals and Books
 [*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease)
 
 **Nucleic acids research** in 
-[Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins](https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/)
+[Baxevanis, Bader & Wishart's 'Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins'](https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/), 
 [*Bioinformatics*](https://academic.oup.com/bioinformatics/), 
 [*Nature Genetics*](https://www.nature.com/ng/), 
 [*Nature Reviews Genetics*](https://www.nature.com/nrg/), 
