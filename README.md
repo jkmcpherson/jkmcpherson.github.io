@@ -34,7 +34,7 @@ My Favorite Scientific Journals
 [*British Journal of Pharmacology* (BPJ)](https://bpspubs.onlinelibrary.wiley.com/journal/14765381), and the 
 [*Journal of Pharmacology and Experimental Therapeutics* (JPET)](https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics) 
 
-**Clinical Microbiology, genomics/metagenomics, and microbial ecology (microbiome sciences)** in 
+**Clinical Microbiology, metagenomics and microbial ecology (microbiome sciences)** in 
 [*Nature Reviews Microbiology*](https://www.nature.com/nrmicro/), 
 [*Clinical Microbiology Reviews*](https://journals.asm.org/journal/cmr), 
 [*Journal of Clinical Microbiology* (J Clin Micro)](https://journals.asm.org/journal/jcm), 
@@ -80,6 +80,8 @@ My Favorite Scientific Journals
 [**Statistical programming and data visualization (in R)**]() 
 ---
 in the *Nature* collections [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance), [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm)
+
+[Antoine Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) 
 
 
 [**Artificial intelligence, machine learning, and deep learning (in Python, R)**]()
