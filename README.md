@@ -87,6 +87,8 @@ My Favorite Scientific Journals and Books
   [Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
     
   [National Center for Biotechnology and Information (NCBI)](https://ncbiinsights.ncbi.nlm.nih.gov/)
+  
+  [The Bacterial and Viral Bioinformatics Resource Center](https://www.bv-brc.org/)
     
   [European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
 
