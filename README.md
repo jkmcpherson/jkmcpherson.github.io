@@ -2,30 +2,71 @@
 
 You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [**Google Scholar**](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [**ResearchGate**](https://www.researchgate.net/profile/Jacob-Mcpherson), [**SCOPUS**](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [**ORCID**](https://orcid.org/0000-0001-5486-4945).
 
-I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources about: 
+[![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
+[![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
 
-**The clinical literature** in [*Nature*](https://www.nature.com/), [*Nature Medicine*](https://www.nature.com/nm/), [*Science*](https://www.science.org/), [*Science Translational Medicine*](https://www.science.org/journal/stm), [*The Lancet*](https://www.thelancet.com/), the [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
+I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources from: 
 
-**Cellular, Molecular, and Structural Biology** in [*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), [*Cell*](https://www.cell.com/), [*eLife*](https://elifesciences.org/), [*Science Signaling*](https://www.science.org/journal/signaling), [*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/), and [*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/)
+**My Favorite Scientific Journals** 
+---
+ [*Nature*](https://www.nature.com/),
+ [*Science*](https://www.science.org/),
+ [*Nature Medicine*](https://www.nature.com/nm/), 
+ [*Science Translational Medicine*](https://www.science.org/journal/stm), 
+ [*The Lancet*](https://www.thelancet.com/), the
+ [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
+ [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
+ [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
 
-**Pharmacology of receptor theory** in [*Pharmacological Reviews*](https://pharmrev.aspetjournals.org/), [*Nature Reviews Drug Discovery*](https://www.nature.com/nrd/), the [*British Journal of Pharmacology* (BPJ)](https://bpspubs.onlinelibrary.wiley.com/journal/14765381), and the [*Journal of Pharmacology and Experimental Therapeutics* (JPET)](https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics) 
+**Cellular, Molecular, and Structural Biology** in 
+[*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), 
+[*Cell*](https://www.cell.com/), 
+[*eLife*](https://elifesciences.org/), 
+[*Science Signaling*](https://www.science.org/journal/signaling), 
+[*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/), and 
+[*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/)
 
-**Clinical Microbiology, genomics/metagenomics, and microbial ecology (microbiome sciences)** in [*Nature Reviews Microbiology*](https://www.nature.com/nrmicro/), [*Clinical Microbiology Reviews*](https://journals.asm.org/journal/cmr), [*Journal of Clinical Microbiology* (J Clin Micro)](https://journals.asm.org/journal/jcm), [*Nature Microbiology*](https://www.nature.com/nmicrobiol/), [*Cell Host & Microbe*](https://www.cell.com/cell-host-microbe/), [*Nature* subject/Microbiology](https://www.nature.com/subjects/microbiology/nature) including the more narrow subjects [*Nature* subject/Microbiome](https://www.nature.com/subjects/microbiome/nature), [*Nature* subject/Communities](https://www.nature.com/subjects/communities/nature),  [*Nature* subject/Metagenomics](https://www.nature.com/subjects/metagenomics/nature), [*Annual Review of Ecology, Evolution and Systematics*](https://www.annualreviews.org/journal/ecolsys)
+**Pharmacology of receptor theory** in 
+[*Pharmacological Reviews*](https://pharmrev.aspetjournals.org/), 
+[*Nature Reviews Drug Discovery*](https://www.nature.com/nrd/), the 
+[*British Journal of Pharmacology* (BPJ)](https://bpspubs.onlinelibrary.wiley.com/journal/14765381), and the 
+[*Journal of Pharmacology and Experimental Therapeutics* (JPET)](https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics) 
+
+**Clinical Microbiology, genomics/metagenomics, and microbial ecology (microbiome sciences)** in 
+[*Nature Reviews Microbiology*](https://www.nature.com/nrmicro/), 
+[*Clinical Microbiology Reviews*](https://journals.asm.org/journal/cmr), 
+[*Journal of Clinical Microbiology* (J Clin Micro)](https://journals.asm.org/journal/jcm), 
+[*Nature Microbiology*](https://www.nature.com/nmicrobiol/), 
+[*Cell Host & Microbe*](https://www.cell.com/cell-host-microbe/), the
+[*Nature* subject/Microbiology](https://www.nature.com/subjects/microbiology/nature) which includes the more narrow subjects 
+[*Nature* subject/Microbiome](https://www.nature.com/subjects/microbiome/nature), 
+[*Nature* subject/Communities](https://www.nature.com/subjects/communities/nature),  
+[*Nature* subject/Metagenomics](https://www.nature.com/subjects/metagenomics/nature), and the ecology & evolution journals
+[*Annual Review of Ecology, Evolution and Systematics*](https://www.annualreviews.org/journal/ecolsys), and 
+[*Nature Ecology and Evolution*](https://www.nature.com/natecolevol/)
 
 **Immunology** in [*Nature Immunology*](https://www.nature.com/ni/), [*Nature Reviews Immunology*](https://www.nature.com/nri/), [*Science Immunology*](https://www.science.org/toc/sciimmunol/current), [*Mucosal Immunology*](https://www.nature.com/mi/)
  
 **Infectious Diseases and antimicrobial stewardship pharmacy practice** in [*Clinical Infectious Diseases* (CID)](https://academic.oup.com/cid), [*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home), [*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease),  [*Antimicrobial Agents and Chemotherapy* (AAC)](https://journals.asm.org/journal/aac), [*Nature* subject/Antimicrobials](https://www.nature.com/subjects/antimicrobials/nature)
 
-**Nucleic acids research** in [*Nature Genetics*](https://www.nature.com/ng/), [*Nature Reviews Genetics*](https://www.nature.com/nrg/), [*Genome Biology*](https://genomebiology.biomedcentral.com/), [*Nucleic Acids Research*](https://academic.oup.com/nar/), the [*Annual Reviews of Genetics*](https://www.annualreviews.org/journal/genet), and the [*Annual Review of Genomics and Human Genetics*](https://www.annualreviews.org/journal/genom) 
+**Nucleic acids research** in 
+[*Bioinformatics*](https://academic.oup.com/bioinformatics/)
+[*Nature Genetics*](https://www.nature.com/ng/), 
+[*Nature Reviews Genetics*](https://www.nature.com/nrg/), 
+[*Genome Biology*](https://genomebiology.biomedcentral.com/), 
+[*Nucleic Acids Research*](https://academic.oup.com/nar/), the 
+[*Annual Review of Genetics*](https://www.annualreviews.org/journal/genet), and the 
+[*Annual Review of Genomics and Human Genetics*](https://www.annualreviews.org/journal/genom) 
 
-**Ecology and evolution** in [*Nature Ecology and Evolution*](https://www.nature.com/natecolevol/), 
-
-**Structural biology** in [*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/)
-
-**Laboratory methods** in [*Nature Methods*](https://www.nature.com/nmeth/), [*Nature Protocols*](https://www.nature.com/nprot/), and [Springer|Nature Experiments](https://experiments.springernature.com/)
+**Laboratory methods** in 
+[*Nature Methods*](https://www.nature.com/nmeth/), 
+[*Nature Protocols*](https://www.nature.com/nprot/), 
+[**Current Protocols - Wiley Online Library**](https://currentprotocols.onlinelibrary.wiley.com/), 
+[*Biology Methods and Protocols*](https://academic.oup.com/biomethods) and 
+[Springer|Nature Experiments](https://experiments.springernature.com/)
 
 [**Bioinformatics (most often of the GI microbiome) of genomics, metagenomics, transcriptomics, proteomics, and metabolomics (in Python)**]()
-
+---
   [Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
     
   [National Center for Biotechnology and Information (NCBI)](https://ncbiinsights.ncbi.nlm.nih.gov/)
@@ -33,19 +74,20 @@ I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate
   [European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
 
 [**Statistical programming and data visualization (in R)**]() in the *Nature* collections [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance), [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm)
-
+---
 [**Artificial intelligence, machine learning, and deep learning (in Python, R)**]()
-
+---
 [**Computer science communities:**]() [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Tidyverse](https://www.tidyverse.org/) [Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/) , [Julia](https://julialang.org/), [Docker](https://www.docker.com/), [Git](https://git-scm.com/), [LaTeX](https://www.latex-project.org/), [VSCode](https://code.visualstudio.com/), [AWS](https://aws.amazon.com/), [Ubuntu](https://www.ubuntu.com)
-    
+---
 
 This is an example of a [**Bookdown**](https://github.com/rstudio/bookdown) book based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
 
-[![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
-[![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
+
+
 
 
 ### Languages, Tools, and Skills 🛠
+---
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
