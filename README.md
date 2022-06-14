@@ -7,7 +7,7 @@ You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi
 
 I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources from: 
 
-My Favorite Scientific Journals
+My Favorite Scientific Journals and Books
 ---
 
 **Academic and clinical journals** such as 
@@ -29,6 +29,7 @@ My Favorite Scientific Journals
 
 
 **Pharmacology of receptor theory** in 
+[Kenakin's 'A Pharmacology Primer'](https://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer), 
 [*Pharmacological Reviews*](https://pharmrev.aspetjournals.org/), 
 [*Nature Reviews Drug Discovery*](https://www.nature.com/nrd/), the 
 [*British Journal of Pharmacology* (BPJ)](https://bpspubs.onlinelibrary.wiley.com/journal/14765381), and the 
