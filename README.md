@@ -14,7 +14,7 @@ I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate
 
 [**Artificial intelligence, machine learning, and deep learning (in Python, R)**]()
 
-[**Computer science communities: R, Python, Julia**]()
+[**Computer science communities:**]() R, Python, Julia, Docker, Git, VSCode, AWS, Ubuntu
     
     
 
