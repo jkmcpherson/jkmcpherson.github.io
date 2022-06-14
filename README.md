@@ -11,22 +11,21 @@ My Favorite Scientific Journals
 ---
 
 **Academic and clinical journals** such as 
- [*Nature*](https://www.nature.com/),
- [*Science*](https://www.science.org/),
+ [*Nature*](https://www.nature.com/), 
+ [*Science*](https://www.science.org/), 
  [*Nature Medicine*](https://www.nature.com/nm/), 
  [*Science Translational Medicine*](https://www.science.org/journal/stm), 
- [*The Lancet*](https://www.thelancet.com/),
+ [*The Lancet*](https://www.thelancet.com/), 
  [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
  [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
  [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
 
 **Cellular, Molecular, and Structural Biology** in 
 [*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), 
-[*Cell*](https://www.cell.com/), 
-[*eLife*](https://elifesciences.org/), 
-[*Science Signaling*](https://www.science.org/journal/signaling), 
-[*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/), and 
-[*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/)
+[*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/), 
+[*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/)
+[*Science Signaling*](https://www.science.org/journal/signaling), and
+[*Cell*](https://www.cell.com/)
 
 **Pharmacology of receptor theory** in 
 [*Pharmacological Reviews*](https://pharmrev.aspetjournals.org/), 
@@ -42,7 +41,7 @@ My Favorite Scientific Journals
 [*Cell Host & Microbe*](https://www.cell.com/cell-host-microbe/), the
 [*Nature* subject/Microbiology](https://www.nature.com/subjects/microbiology/nature) which includes the more narrow subjects 
 [*Nature* subject/Microbiome](https://www.nature.com/subjects/microbiome/nature), 
-[*Nature* subject/Communities](https://www.nature.com/subjects/communities/nature),  
+[*Nature* subject/Communities](https://www.nature.com/subjects/communities/nature), 
 [*Nature* subject/Metagenomics](https://www.nature.com/subjects/metagenomics/nature), and the ecology & evolution journals
 [*Annual Review of Ecology, Evolution and Systematics*](https://www.annualreviews.org/journal/ecolsys), and 
 [*Nature Ecology and Evolution*](https://www.nature.com/natecolevol/)
@@ -52,7 +51,7 @@ My Favorite Scientific Journals
 **Infectious Diseases and antimicrobial stewardship pharmacy practice** in [*Clinical Infectious Diseases* (CID)](https://academic.oup.com/cid), [*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home), [*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease),  [*Antimicrobial Agents and Chemotherapy* (AAC)](https://journals.asm.org/journal/aac), [*Nature* subject/Antimicrobials](https://www.nature.com/subjects/antimicrobials/nature)
 
 **Nucleic acids research** in 
-[*Bioinformatics*](https://academic.oup.com/bioinformatics/)
+[*Bioinformatics*](https://academic.oup.com/bioinformatics/), 
 [*Nature Genetics*](https://www.nature.com/ng/), 
 [*Nature Reviews Genetics*](https://www.nature.com/nrg/), 
 [*Genome Biology*](https://genomebiology.biomedcentral.com/), 
