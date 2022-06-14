@@ -4,17 +4,41 @@ You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi
 
 I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources about: 
 
+[**The scientific literature**]()
+
+   [*Nature*](https://www.nature.com/) 
+   
+   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nature)](https://twitter.com/Nature) 
+   
+   [*Science*](https://www.science.org/) 
+   
+   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sciencemagazine)](https://twitter.com/ScienceMagazine)
+   
+
+   
 [**Infectious Diseases and antimicrobial stewardship pharmacy practice**]()
+
+   [*The Lancet*](https://www.thelancet.com/)
+   
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=thelancet)](https://twitter.com/TheLancet) [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=thelancetInfDis)](https://twitter.com/TheLancetInfDis)
+   
+   [*New England Journal of Medicine*](https://www.nejm.org/)
 
 [**Pharmacology of receptor theory, cell theory, structural biology**]()
 
 [**Bioinformatics (most often of the GI microbiome) of genomics, metagenomics, transcriptomics, proteomics, and metabolomics (in Python)**]()
 
+  [Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
+    
+  [National Center for Biotechnology and Information (NCBI)](https://ncbiinsights.ncbi.nlm.nih.gov/)
+    
+  [European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
+
 [**Statistical programming and data visualization (in R)**]()
 
 [**Artificial intelligence, machine learning, and deep learning (in Python, R)**]()
 
-[**Computer science communities:**]() R, Python, Julia, Docker, Git, VSCode, AWS, Ubuntu
+[**Computer science communities:**]() [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Tidyverse](https://www.tidyverse.org/) [Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/) , [Julia](https://julialang.org/), [Docker](https://www.docker.com/), [Git](https://git-scm.com/), [LaTeX](https://www.latex-project.org/), [VSCode](https://code.visualstudio.com/), [AWS](https://aws.amazon.com/), [Ubuntu](https://www.ubuntu.com)
     
     
 
