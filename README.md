@@ -7,8 +7,10 @@ You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi
 
 I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources from: 
 
-**My Favorite Scientific Journals** 
+My Favorite Scientific Journals
 ---
+
+**Academic and clinical journals** such as 
  [*Nature*](https://www.nature.com/),
  [*Science*](https://www.science.org/),
  [*Nature Medicine*](https://www.nature.com/nm/), 
@@ -65,7 +67,7 @@ I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate
 [*Biology Methods and Protocols*](https://academic.oup.com/biomethods) and 
 [Springer|Nature Experiments](https://experiments.springernature.com/)
 
-[**Bioinformatics (most often of the GI microbiome) of genomics, metagenomics, transcriptomics, proteomics, and metabolomics (in Python)**]()
+[**Bioinformatics of genomics, metagenomics, transcriptomics, proteomics, and metabolomics (in Python)**]()
 ---
   [Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
     
