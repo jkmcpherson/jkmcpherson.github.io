@@ -14,7 +14,7 @@ I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate
 
 **Immunology** in [*Nature Immunology*](https://www.nature.com/ni/), [*Nature Reviews Immunology*](https://www.nature.com/nri/), [*Science Immunology*](https://www.science.org/toc/sciimmunol/current), [*Mucosal Immunology*](https://www.nature.com/mi/)
  
-[**Infectious Diseases and antimicrobial stewardship pharmacy practice**]() in [*Clinical Infectious Diseases* (CID)](https://academic.oup.com/cid), [*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home), [*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease),  [*Antimicrobial Agents and Chemotherapy* (AAC)](https://journals.asm.org/journal/aac), [*Nature* subject/Antimicrobials](https://www.nature.com/subjects/antimicrobials/nature)
+**Infectious Diseases and antimicrobial stewardship pharmacy practice** in [*Clinical Infectious Diseases* (CID)](https://academic.oup.com/cid), [*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home), [*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease),  [*Antimicrobial Agents and Chemotherapy* (AAC)](https://journals.asm.org/journal/aac), [*Nature* subject/Antimicrobials](https://www.nature.com/subjects/antimicrobials/nature)
 
 **Nucleic acids research** in [*Nature Genetics*](https://www.nature.com/ng/), [*Nature Reviews Genetics*](https://www.nature.com/nrg/), [*Genome Biology*](https://genomebiology.biomedcentral.com/), [*Nucleic Acids Research*](https://academic.oup.com/nar/), the [*Annual Reviews of Genetics*](https://www.annualreviews.org/journal/genet), and the [*Annual Review of Genomics and Human Genetics*](https://www.annualreviews.org/journal/genom) 
 
