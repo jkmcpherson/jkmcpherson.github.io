@@ -81,7 +81,7 @@ My Favorite Scientific Journals
 ---
 in the *Nature* collections [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance), [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm)
 
-[Antoine Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with the ['What statistical test should I do?'](https://statsandr.com/blog/what-statistical-test-should-i-do/) and using the end-node links. 
+[Antoine Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/what-statistical-test-should-i-do/) and using the end-node links. 
 
 
 [**Artificial intelligence, machine learning, and deep learning (in Python, R)**]()
