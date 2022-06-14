@@ -22,20 +22,22 @@ My Favorite Scientific Journals and Books
  [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
 
 **Cellular, molecular, and structural biology** in 
+[Bruce Albert's 'Molecular Biology of the Cell'](https://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/)
 [*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), 
 [*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/), 
 [*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/), and
 [*Science Signaling*](https://www.science.org/journal/signaling)
 
-
 **Pharmacology of receptor theory** in 
-[Kenakin's 'A Pharmacology Primer'](https://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer), 
+['A Pharmacology Primer'](https://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer), 
 [*Pharmacological Reviews*](https://pharmrev.aspetjournals.org/), 
 [*Nature Reviews Drug Discovery*](https://www.nature.com/nrd/), the 
 [*British Journal of Pharmacology* (BPJ)](https://bpspubs.onlinelibrary.wiley.com/journal/14765381), and the 
 [*Journal of Pharmacology and Experimental Therapeutics* (JPET)](https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics) 
 
 **Clinical microbiology, metagenomics and microbial ecology (microbiome sciences)** in 
+[Manual of Clinical Microbiology](https://www.amazon.com/Clinical-Microbiology-Twelfth-Michael-Pfaller/dp/1555819834)
+[Principles of Virology](https://www.amazon.com/Principles-Virology-Multi-ASM-Books/dp/1683670329/)
 [*Nature Reviews Microbiology*](https://www.nature.com/nrmicro/), 
 [*Clinical Microbiology Reviews*](https://journals.asm.org/journal/cmr), 
 [*Journal of Clinical Microbiology* (J Clin Micro)](https://journals.asm.org/journal/jcm), 
@@ -48,11 +50,21 @@ My Favorite Scientific Journals and Books
 [*Annual Review of Ecology, Evolution and Systematics*](https://www.annualreviews.org/journal/ecolsys), and 
 [*Nature Ecology and Evolution*](https://www.nature.com/natecolevol/)
 
-**Immunology** in [*Nature Immunology*](https://www.nature.com/ni/), [*Nature Reviews Immunology*](https://www.nature.com/nri/), [*Science Immunology*](https://www.science.org/toc/sciimmunol/current), [*Mucosal Immunology*](https://www.nature.com/mi/)
+**Immunology** in 
+[*Nature Immunology*](https://www.nature.com/ni/), 
+[*Nature Reviews Immunology*](https://www.nature.com/nri/), 
+[*Science Immunology*](https://www.science.org/toc/sciimmunol/current), and 
+[*Mucosal Immunology*](https://www.nature.com/mi/)
  
-**Infectious Diseases and antimicrobial stewardship pharmacy practice** in [*Clinical Infectious Diseases* (CID)](https://academic.oup.com/cid), [*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home), [*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease),  [*Antimicrobial Agents and Chemotherapy* (AAC)](https://journals.asm.org/journal/aac), [*Nature* subject/Antimicrobials](https://www.nature.com/subjects/antimicrobials/nature)
+**Infectious Diseases and antimicrobial stewardship pharmacy practice** in 
+[*Antimicrobial Agents and Chemotherapy* (AAC)](https://journals.asm.org/journal/aac), 
+[*Nature* subject/Antimicrobials](https://www.nature.com/subjects/antimicrobials/nature), 
+[*Clinical Infectious Diseases* (CID)](https://academic.oup.com/cid), 
+[*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home), 
+[*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease)
 
 **Nucleic acids research** in 
+[Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins](https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/)
 [*Bioinformatics*](https://academic.oup.com/bioinformatics/), 
 [*Nature Genetics*](https://www.nature.com/ng/), 
 [*Nature Reviews Genetics*](https://www.nature.com/nrg/), 
