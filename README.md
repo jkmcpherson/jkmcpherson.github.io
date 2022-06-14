@@ -2,7 +2,12 @@
 
 You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [**Google Scholar**](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [**ResearchGate**](https://www.researchgate.net/profile/Jacob-Mcpherson), [**SCOPUS**](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [**ORCID**](https://orcid.org/0000-0001-5486-4945).
 
-I keep an organized [**Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources.
+I keep an [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources about
+    * Infectious Diseases and antimicrobial stewardship pharmacy practice
+    * Pharmacology of receptor theory, cell theory, structural biology of antimicrobials
+    * Bioinformatics (most often of the GI microbiome) of genomics, metagenomics, transcriptomics, proteomics, and metabolomics (in Python)
+    * Artificial Intelligence, machine learning, and deep learning (in Python, R)
+    * Statistical programming and data visualization (in R)
 
 This is an example of a [**Bookdown**](https://github.com/rstudio/bookdown) book based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
 
