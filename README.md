@@ -92,7 +92,9 @@ My Favorite Scientific Journals and Books
     
   [European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
   
-  The commercial [QIAGEN Digital Insights](https://digitalinsights.qiagen.com/)
+  The commercial [QIAGEN Digital Insights](https://digitalinsights.qiagen.com/) and [Schrodinger](https://www.schrodinger.com/)
+  
+  The microbial [QIIME2](https://qiime2.org/), [PICRUST2](https://github.com/picrust/picrust2), and the [interactive Human Microbiome Project (iHMP)](https://portal.hmpdacc.org/)
 
 [**Statistical programming and data visualization (in R)**]()
 ---
