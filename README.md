@@ -96,18 +96,24 @@ My Favorite Scientific Journals and Books
 [*International Journal of Computer Vision*](https://www.springer.com/journal/11263), and the journal
 [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
 
-[**Microscopy**]()
+[**Microscopy, Imaging, and Structural Biology**] 
 ---
+
+3/4 provided by the [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) housing a [Confocal microscope](https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-sted/) with [knowledge center](https://www.leica-microsystems.com/science-lab/science-lab-home), [NMR](https://www.jeolusa.com/PRODUCTS/Nuclear-Magnetic-Resonance/JNM-ECZL-series-FT-NMR), an [LCMS](https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-system), [ddPCR](https://www.bio-rad.com/en-us/life-science/digital-pcr/qx200-ddpcr-system-with-automated-droplet-generator), [chromatography](https://www.bionity.com/en/products/128437/aekta-pure-flexible-and-intuitive-protein-purification-system.html), and a label-free, probe-free real-time [biolayer interferometer](https://www.sartorius.com/en/products/protein-analysis/octet-bli-detection/octet-label-free-detection-systems)
 
 [**Confocal fluorescence microscopy**]()
 
 [**Cryogenic electronic microscopy (CryoEM)**]() that [Yale CryoEM](https://cryoem.yale.edu/cryo-em/workshops-and-online-courses) and [UNC CryoEM Core](https://www.med.unc.edu/cryo-em/) lists [resources available](https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/), such as those by [Grant Jensen, CalTech](https://cryo-em-course.caltech.edu/), the [NIGMS National Resource for Automated Molecular Microscopy (NRAMM)](https://nramm.nysbc.org/workshops-and-courses/), and [Thermo Fisher's EM-Learning](https://em-learning.com/) and [CryoEM Learning Center](https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html)
 
+Nuclear Magnetic Resonance Imaging (NMR)
 
+Liquid Chromatography Mass Spectrometry (LCMS)
 
 [**Structural Biology**]()
 ---
 The [Theoretical and Computational Biophysics Group (TCBG)]() provides [tutorial-based training](https://www.ks.uiuc.edu/Training/Tutorials/) and a database of software for 3D molecular [building](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=3), [dynamics](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=2) and [visualization](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=1)
+
+Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/training/search-results?query=structural-biology), Stanford
 
 
 [**]()
