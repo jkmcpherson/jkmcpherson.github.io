@@ -139,10 +139,6 @@ The [*Handbook of Statistical Analyses Using R* (HSAUR)](https://rdrr.io/cran/HS
 [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Tidyverse](https://www.tidyverse.org/), [Bookdown](https://bookdown.org/), [Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/) , [Julia](https://julialang.org/), [Docker](https://www.docker.com/), [Git](https://git-scm.com/), [LaTeX](https://www.latex-project.org/), [VSCode](https://code.visualstudio.com/), [AWS](https://aws.amazon.com/), [Ubuntu](https://www.ubuntu.com)
 
 
-This is an example of a [**Bookdown**](https://github.com/rstudio/bookdown) book based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
-
-
-
 ### Languages, Tools, and Skills 🛠
 ---
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -193,3 +189,5 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nature)](https://twitter.com/Nature) 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=thelancet)](https://twitter.com/TheLancet) 
+
+This is an example of a [**Bookdown**](https://github.com/rstudio/bookdown) book based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
