@@ -115,9 +115,6 @@ The [Theoretical and Computational Biophysics Group (TCBG)]() provides [tutorial
 
 Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/training/search-results?query=structural-biology), Stanford
 
-
-[**]()
-
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
   
