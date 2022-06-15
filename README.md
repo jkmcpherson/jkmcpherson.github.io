@@ -77,7 +77,7 @@ My Favorite Scientific Journals and Books
 [*Mucosal Immunology*](https://www.nature.com/mi/)
 
 **Laboratory methods** in 
-[*Nature Methods*](https://www.nature.com/nmeth/), 
+[***Nature Methods***](https://www.nature.com/nmeth/), 
 [*Nature Protocols*](https://www.nature.com/nprot/), and 
 [Springer|Nature Experiments](https://experiments.springernature.com/)
 
