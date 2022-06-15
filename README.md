@@ -104,6 +104,14 @@ My Favorite Scientific Journals and Books
 [**Cryogenic electronic microscopy (CryoEM)**]() that [Yale CryoEM](https://cryoem.yale.edu/cryo-em/workshops-and-online-courses) and [UNC CryoEM Core](https://www.med.unc.edu/cryo-em/) lists [resources available](https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/), such as those by [Grant Jensen, CalTech](https://cryo-em-course.caltech.edu/), the [NIGMS National Resource for Automated Molecular Microscopy (NRAMM)](https://nramm.nysbc.org/workshops-and-courses/), and [Thermo Fisher's EM-Learning](https://em-learning.com/) and [CryoEM Learning Center](https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html)
 
 
+
+[**Structural Biology**]()
+---
+The [Theoretical and Computational Biophysics Group (TCBG)]() provides [tutorial-based training](https://www.ks.uiuc.edu/Training/Tutorials/) and a database of software for 3D molecular [building](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=3), [dynamics](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=2) and [visualization](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=1)
+
+
+[**]()
+
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
   
