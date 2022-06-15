@@ -90,7 +90,7 @@ My Favorite Scientific Journals and Books
 [*Information Sciences*](https://www.journals.elsevier.com/information-sciences), the 
 [*Physics of Life Review*](https://www.sciencedirect.com/journal/physics-of-life-reviews), 
 [*Artificial Intelligence Review*](https://www.springer.com/journal/10462), 
-[*Knowledge-Based Systems*](https://www.journals.elsevier.com/knowledge-based-systems), the 
+[*Knowledge-Based Systems*](https://www.journals.elsevier.com/knowledge-based-systems), 
 [*Neural Networks*](https://www.journals.elsevier.com/neural-networks),
 [*Neural Computing and Applications*](https://www.springer.com/journal/521), the 
 [*International Journal of Computer Vision*](https://www.springer.com/journal/11263), and the journal
