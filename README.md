@@ -10,7 +10,8 @@ I keep a [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate 
 My Favorite Scientific Journals and Books
 ---
 
-**Academic and clinical journals** such as 
+**Academic and clinical journals** typically starting with the most reliable and relevant search engine, 
+ [**SCOUPS**](https://www.scopus.com/) that usually pulls publications from 
  [*Nature*](https://www.nature.com/), 
  [*Science*](https://www.science.org/), 
  [*Cell*](https://www.cell.com/), 
