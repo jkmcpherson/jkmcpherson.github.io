@@ -96,23 +96,34 @@ My Favorite Scientific Journals and Books
 [*International Journal of Computer Vision*](https://www.springer.com/journal/11263), and the journal
 [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
 
+[**Microscopy**]()
+---
+
+[Light microscopy]()
+
+[Confocal fluorescence microscopy]()
+
+[Scanning electron microscopy (SEM)]()
+
+[Cryogenic electronic microscopy (CryoEM)]() that [Yale CryoEM](https://cryoem.yale.edu/cryo-em/workshops-and-online-courses) and [UNC CryoEM Core](https://www.med.unc.edu/cryo-em/) [lists](https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/) resources available, such as those by [Grant Jensen, CalTech](https://cryo-em-course.caltech.edu/), the [NIGMS National Resource for Automated Molecular Microscopy (NRAMM)](https://nramm.nysbc.org/workshops-and-courses/), and [Thermo Fisher's EM-Learning](https://em-learning.com/) and [CryoEM Learning Center](https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html)
 
 
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
-  of genomics, metagenomics, transcriptomics, proteomics, and metabolomics [in Python](https://www.python.org/) using the [BioPython](https://biopython.org/) library
+  
+Genomics, metagenomics, transcriptomics, proteomics, and metabolomics [in Python](https://www.python.org/) using the [BioPython](https://biopython.org/) library
 
-  [Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
+[Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
     
-  [National Center for Biotechnology and Information (NCBI)](https://ncbiinsights.ncbi.nlm.nih.gov/)
+[National Center for Biotechnology and Information (NCBI)](https://ncbiinsights.ncbi.nlm.nih.gov/)
   
-  [The Bacterial and Viral Bioinformatics Resource Center (BVBRC)](https://www.bv-brc.org/)
+[The Bacterial and Viral Bioinformatics Resource Center (BVBRC)](https://www.bv-brc.org/)
     
-  [European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
+[European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
   
-  The commercial [QIAGEN Digital Insights](https://digitalinsights.qiagen.com/) and [Schrodinger](https://www.schrodinger.com/)
+The commercial [QIAGEN Digital Insights](https://digitalinsights.qiagen.com/) and [Schrodinger](https://www.schrodinger.com/)
   
-  The microbial [QIIME2](https://qiime2.org/), [PICRUST2](https://github.com/picrust/picrust2), and the [interactive Human Microbiome Project (iHMP)](https://portal.hmpdacc.org/)
+The microbial [QIIME2](https://qiime2.org/), [PICRUST2](https://github.com/picrust/picrust2), and the [interactive Human Microbiome Project (iHMP)](https://portal.hmpdacc.org/)
 
 [**Statistical programming and data visualization (in R)**]()
 ---
