@@ -96,7 +96,7 @@ My Favorite Scientific Journals and Books
 [*International Journal of Computer Vision*](https://www.springer.com/journal/11263), and the journal
 [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
 
-[**Microscopy, Chemistry, and Structural Biology**] 
+[**Microscopy, Chemistry, and Structural Biology**]()
 ---
 
 The [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) houses a [Confocal](https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-sted/) with , [NMR](https://www.jeolusa.com/PRODUCTS/Nuclear-Magnetic-Resonance/JNM-ECZL-series-FT-NMR), an [LCMS](https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-system), [ddPCR](https://www.bio-rad.com/en-us/life-science/digital-pcr/qx200-ddpcr-system-with-automated-droplet-generator), [chromatography](https://www.bionity.com/en/products/128437/aekta-pure-flexible-and-intuitive-protein-purification-system.html), and a label-free, probe-free real-time [biolayer interferometer](https://www.sartorius.com/en/products/protein-analysis/octet-bli-detection/octet-label-free-detection-systems)
