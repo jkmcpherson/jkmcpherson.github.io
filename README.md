@@ -55,7 +55,8 @@ My Favorite Scientific Journals and Books
 [*Nature* subject/Antimicrobials](https://www.nature.com/subjects/antimicrobials/nature), 
 [*Clinical Infectious Diseases* (CID)](https://academic.oup.com/cid), 
 [*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home), 
-[*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease)
+[*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease), the 
+[*Morbidity and Mortality Weekly Report* (MMWR)](https://www.cdc.gov/mmwr/)
 
 **Nucleic acids research** in 
 [Baxevanis, Bader & Wishart's 'Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins'](https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/), 
@@ -79,6 +80,23 @@ My Favorite Scientific Journals and Books
 [Current Protocols - Wiley Online Library](https://currentprotocols.onlinelibrary.wiley.com/), 
 [*Biology Methods and Protocols*](https://academic.oup.com/biomethods) and 
 [Springer|Nature Experiments](https://experiments.springernature.com/)
+
+**Artificial Intelligence** in 
+[*Nature Machine Intelligence*](https://www.nature.com/natmachintell/), 
+[*Science Robototics*](https://www.science.org/journal/scirobotics), the 
+[*IEEE Transactions on **Pattern Analysis and Machine Intelligence***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34),
+[*IEEE Transactions on **Neural Networks and Learning Systems***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), the 
+[*International Journal of Intelligent Systems*](https://onlinelibrary.wiley.com/journal/1098111x)
+[*Information Sciences*](https://www.journals.elsevier.com/information-sciences), the 
+[*Physics of Life Review*](https://www.sciencedirect.com/journal/physics-of-life-reviews), 
+[*Artificial Intelligence Review*](https://www.springer.com/journal/10462), 
+[*Knowledge-Based Systems*](https://www.journals.elsevier.com/knowledge-based-systems), the 
+[*Neural Networks*](https://www.journals.elsevier.com/neural-networks),
+[*Neural Computing and Applications*](https://www.springer.com/journal/521), the 
+[*International Journal of Computer Vision*](https://www.springer.com/journal/11263), and the journal
+[*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
+
+
 
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
