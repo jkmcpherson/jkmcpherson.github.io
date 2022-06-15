@@ -43,6 +43,7 @@ My Favorite Scientific Journals and Books
 [*Clinical Microbiology Reviews*](https://journals.asm.org/journal/cmr), 
 [*Journal of Clinical Microbiology* (J Clin Micro)](https://journals.asm.org/journal/jcm), 
 [*Nature Microbiology*](https://www.nature.com/nmicrobiol/), 
+[*International Society for Microbial Ecology Journal* (ISMEJ)](https://www.nature.com/ismej/), 
 [*Cell Host & Microbe*](https://www.cell.com/cell-host-microbe/), the
 [*Nature* subject/Microbiology](https://www.nature.com/subjects/microbiology/nature) which includes the more narrow subjects 
 [*Nature* subject/Microbiome](https://www.nature.com/subjects/microbiome/nature), 
