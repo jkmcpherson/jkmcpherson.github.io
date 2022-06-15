@@ -105,7 +105,7 @@ My Favorite Scientific Journals and Books
 
 [Scanning electron microscopy (SEM)]()
 
-[Cryogenic electronic microscopy (CryoEM)]() that [Yale CryoEM](https://cryoem.yale.edu/cryo-em/workshops-and-online-courses) and [UNC CryoEM Core](https://www.med.unc.edu/cryo-em/) [lists](https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/) resources available, such as those by [Grant Jensen, CalTech](https://cryo-em-course.caltech.edu/), the [NIGMS National Resource for Automated Molecular Microscopy (NRAMM)](https://nramm.nysbc.org/workshops-and-courses/), and [Thermo Fisher's EM-Learning](https://em-learning.com/) and [CryoEM Learning Center](https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html)
+[Cryogenic electronic microscopy (CryoEM)]() that [Yale CryoEM](https://cryoem.yale.edu/cryo-em/workshops-and-online-courses) and [UNC CryoEM Core](https://www.med.unc.edu/cryo-em/) lists [resources available](https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/), such as those by [Grant Jensen, CalTech](https://cryo-em-course.caltech.edu/), the [NIGMS National Resource for Automated Molecular Microscopy (NRAMM)](https://nramm.nysbc.org/workshops-and-courses/), and [Thermo Fisher's EM-Learning](https://em-learning.com/) and [CryoEM Learning Center](https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html)
 
 
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
