@@ -77,8 +77,7 @@ My Favorite Scientific Journals and Books
 
 **Laboratory methods** in 
 [*Nature Methods*](https://www.nature.com/nmeth/), 
-[*Nature Protocols*](https://www.nature.com/nprot/), 
-[*Biology Methods and Protocols*](https://academic.oup.com/biomethods) and 
+[*Nature Protocols*](https://www.nature.com/nprot/), and 
 [Springer|Nature Experiments](https://experiments.springernature.com/)
 
 **Artificial Intelligence** in 
