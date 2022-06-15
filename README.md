@@ -12,12 +12,12 @@ My Favorite Scientific Journals and Books
 
 **Academic and clinical journals** typically starting with the most reliable and relevant search engine, 
  [**SCOUPS**](https://www.scopus.com/) that usually pulls publications from 
- [*Nature*](https://www.nature.com/), 
+ [***Nature***](https://www.nature.com/), 
  [*Science*](https://www.science.org/), 
  [*Cell*](https://www.cell.com/), 
  [*Nature Medicine*](https://www.nature.com/nm/), 
  [*Science Translational Medicine*](https://www.science.org/journal/stm), 
- [*The Lancet*](https://www.thelancet.com/), 
+ [***The Lancet***](https://www.thelancet.com/), 
  [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
  [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
  [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
