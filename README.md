@@ -184,6 +184,5 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 [![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1126/science.1058040)](https://juleskreuer.eu/projekte/citation-badge/)
 
-   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nature)](https://twitter.com/Nature) 
-   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sciencemagazine)](https://twitter.com/ScienceMagazine)
-   [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=thelancet)](https://twitter.com/TheLancet) 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nature)](https://twitter.com/Nature) 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=thelancet)](https://twitter.com/TheLancet) 
