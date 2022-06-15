@@ -78,7 +78,6 @@ My Favorite Scientific Journals and Books
 **Laboratory methods** in 
 [*Nature Methods*](https://www.nature.com/nmeth/), 
 [*Nature Protocols*](https://www.nature.com/nprot/), 
-[Current Protocols - Wiley Online Library](https://currentprotocols.onlinelibrary.wiley.com/), 
 [*Biology Methods and Protocols*](https://academic.oup.com/biomethods) and 
 [Springer|Nature Experiments](https://experiments.springernature.com/)
 
