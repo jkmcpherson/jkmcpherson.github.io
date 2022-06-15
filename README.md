@@ -58,7 +58,7 @@ My Favorite Scientific Journals and Books
 [*The Lancet Infectious Diseases*](https://www.thelancet.com/journals/laninf/home), 
 [*NEJM Infectious Diseases*](https://www.nejm.org/infectious-disease), and the CDC's 
 [*Morbidity and Mortality Weekly Report* (MMWR)](https://www.cdc.gov/mmwr/) and
-[*Emerging Infectious Diseases*](https://wwwnc.cdc.gov/eid/)
+[*Emerging Infectious Diseases* (EID)](https://wwwnc.cdc.gov/eid/)
 
 **Nucleic acids research** in 
 [Baxevanis, Bader & Wishart's 'Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins'](https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/), 
