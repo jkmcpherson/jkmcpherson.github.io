@@ -1,6 +1,6 @@
 ### Welcome to my [README](https://jkmcpherson.github.io/jkmcpherson/)
 
-You can find my publications at [**PubMed**](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [**Google Scholar**](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [**ResearchGate**](https://www.researchgate.net/profile/Jacob-Mcpherson), [**SCOPUS**](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [**ORCID**](https://orcid.org/0000-0001-5486-4945).
+You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945).
 
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
@@ -11,13 +11,13 @@ My Favorite Scientific Journals and Books
 ---
 
 **Academic and clinical journals** typically starting with the most reliable and relevant search engine, 
- [**SCOUPS**](https://www.scopus.com/) that usually pulls publications from 
- [***Nature***](https://www.nature.com/), 
+ [SCOUPS](https://www.scopus.com/) that usually pulls publications from 
+ [*Nature*](https://www.nature.com/), 
  [*Science*](https://www.science.org/), 
  [*Cell*](https://www.cell.com/), 
  [*Nature Medicine*](https://www.nature.com/nm/), 
  [*Science Translational Medicine*](https://www.science.org/journal/stm), 
- [***The Lancet***](https://www.thelancet.com/), 
+ [*The Lancet*](https://www.thelancet.com/), 
  [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
  [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
  [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
@@ -85,8 +85,8 @@ My Favorite Scientific Journals and Books
 **Artificial Intelligence** in 
 [*Nature Machine Intelligence*](https://www.nature.com/natmachintell/), 
 [*Science Robototics*](https://www.science.org/journal/scirobotics), the 
-[*IEEE Transactions on **Pattern Analysis and Machine Intelligence***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34),
-[*IEEE Transactions on **Neural Networks and Learning Systems***](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), the 
+[*IEEE Transactions on Pattern Analysis and Machine Intelligence*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34),
+[*IEEE Transactions on Neural Networks and Learning Systems*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), the 
 [*International Journal of Intelligent Systems*](https://onlinelibrary.wiley.com/journal/1098111x)
 [*Information Sciences*](https://www.journals.elsevier.com/information-sciences), the 
 [*Physics of Life Review*](https://www.sciencedirect.com/journal/physics-of-life-reviews), 
@@ -100,7 +100,7 @@ My Favorite Scientific Journals and Books
 [**Microscopy, Chemistry, and Structural Biology**]()
 ---
 
-The [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) houses a [Confocal](https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-sted/), [NMR](https://www.jeolusa.com/PRODUCTS/Nuclear-Magnetic-Resonance/JNM-ECZL-series-FT-NMR), [LCMS](https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-system), [ddPCR](https://www.bio-rad.com/en-us/life-science/digital-pcr/qx200-ddpcr-system-with-automated-droplet-generator), [chromatography](https://www.bionity.com/en/products/128437/aekta-pure-flexible-and-intuitive-protein-purification-system.html), and a [biolayer interferometer](https://www.sartorius.com/en/products/protein-analysis/octet-bli-detection/octet-label-free-detection-systems)
+The [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) houses a [Confocal](https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-sted/), [NMR](https://www.jeolusa.com/PRODUCTS/Nuclear-Magnetic-Resonance/JNM-ECZL-series-FT-NMR), [LCMS](https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-system), [ddPCR](https://www.bio-rad.com/en-us/life-science/digital-pcr/qx200-ddpcr-system-with-automated-droplet-generator), [chromatography](https://www.bionity.com/en/products/128437/aekta-pure-flexible-andintuitive-protein-purification-system.html), and a [biolayer interferometer](https://www.sartorius.com/en/products/protein-analysis/octet-bli-detection/octet-label-free-detection-systems)
 
 [**Confocal fluorescence microscopy**]() including the [Leica learning resources](https://www.leica-microsystems.com/science-lab/science-lab-home)
 
