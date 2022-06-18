@@ -100,13 +100,13 @@ My Favorite Scientific Journals and Books
 
 [**Pharmacy Practice and Clinical Guidelines**]()
 ---
-[APhA](https://www.pharmacist.com/) & [JAPhA](https://www.japha.org/), 
-[ASHP](https://www.ashp.org/) & [AJHP](https://academic.oup.com/ajhp),
-[ACCP](https://www.accp.com/) & [*Pharmacotherapy*](https://accpjournals.onlinelibrary.wiley.com/journal/18759114), 
-[KDIGO](https://kdigo.org/guidelines/)
+[APhA](https://www.pharmacist.com/): [JAPhA](https://www.japha.org/), 
+[ASHP](https://www.ashp.org/): [AJHP](https://academic.oup.com/ajhp),
+[ACCP](https://www.accp.com/): [*Pharmacotherapy*](https://accpjournals.onlinelibrary.wiley.com/journal/18759114), 
+[KDIGO](https://kdigo.org/guidelines/),
 [IDSA](https://www.idsociety.org/practice-guideline/alphabetical-guidelines/), 
 [ACC](https://www.acc.org/guidelines),
-[ACOG](https://www.acog.org/clinical/clinical-guidance/practice-bulletin)
+[ACOG](https://www.acog.org/clinical/clinical-guidance/practice-bulletin), 
 [ASH](https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines)
 [ADA](https://diabetesjournals.org/care/issue/45/Supplement_1),
 [ACG](https://gi.org/guidelines/),
@@ -117,7 +117,8 @@ My Favorite Scientific Journals and Books
 [CHEST](https://journal.chestnet.org/guidelines),
 [ATS](https://www.thoracic.org/statements/index.php),
 [ACR](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines)
-[HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines)
+[HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines), 
+[UpToDate](https://www.uptodate.com/) & [LexiComp](https://online.lexi.com/)
 
 [**Microscopy and Imaging Techniques**]()
 ---
