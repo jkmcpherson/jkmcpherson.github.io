@@ -143,6 +143,8 @@ The *Nature* collection [*Statistics for Biologists*](https://www.nature.com/col
 
 [Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) and clicking the in-picture end-node links. 
 
+[*Handbook of Statistical Analyses Using R* (HSAUR) 3rd ed.](https://rdrr.io/cran/HSAUR3/) entirely available online as individual chapter PDFs, with the associated [HSAUR3](https://cran.r-project.org/web/packages/HSAUR3/index.html) package in CRAN with Vignettes and official documentation [reference manual](https://cran.r-project.org/web/packages/HSAUR3/HSAUR3.pdf) 
+
 I recommend learning R in this order: 
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
 [The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf), 
@@ -154,8 +156,11 @@ I recommend learning R in this order:
 
 **Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
 
+[Oksanen's *vegan*](https://github.com/vegandevs/vegan) [rdocumentation](https://rdocumentation.org/packages/vegan) and [CRAN](https://cran.r-project.org/web/packages/vegan/index.html)
+
+
 The RMarkdown and Bookdown readings: 
-[Xie, Dervieux & Riederer's *'R Markdown Cookbook'*] and [Xie, Allaire & Grolemund's R Markdown: '*The Definitive Guide'*](https://bookdown.org/yihui/rmarkdown/), 
+[Xie, Dervieux & Riederer's *'R Markdown Cookbook'*](https://bookdown.org/yihui/rmarkdown-cookbook/) and [Xie, Allaire & Grolemund's R Markdown: '*The Definitive Guide'*](https://bookdown.org/yihui/rmarkdown/), 
 [Xie's *'bookdown'*](https://bookdown.org/yihui/bookdown/) & [*'blogdown'*](https://bookdown.org/yihui/blogdown/)
 
 (Optional) excellent R Bookdowns to read include: 
@@ -165,8 +170,6 @@ The RMarkdown and Bookdown readings:
 [Fay et al.'s *'Engineering Production-Grade Shiny Apps'*](https://engineering-shiny.org/)
 
 
-
-[*Handbook of Statistical Analyses Using R* (HSAUR) 3rd ed.](https://rdrr.io/cran/HSAUR3/) entirely available online as individual chapter PDFs, with the associated [HSAUR3](https://cran.r-project.org/web/packages/HSAUR3/index.html) package in CRAN with Vignettes and official documentation [reference manual](https://cran.r-project.org/web/packages/HSAUR3/HSAUR3.pdf) 
 
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
