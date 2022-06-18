@@ -139,11 +139,11 @@ My Favorite Scientific Journals and Books
 
 [**Statistical programming and data visualization (in R)**]()
 ---
-See the statistics primers towards the bottom of the *Nature* collection [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and the sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
+The *Nature* collection [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and the sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
 [Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) and clicking the in-picture end-node links. 
 
-I recommend the natural progression of learning R as follows: 
+I recommend learning R in this order: 
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
 [The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf), 
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
@@ -152,7 +152,7 @@ I recommend the natural progression of learning R as follows:
 [Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
 [Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/)
 
-**Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) for automatically doing statistics in a ggplot2 object
+**Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
 
 The RMarkdown and Bookdown readings: 
 [Xie, Dervieux & Riederer's *'R Markdown Cookbook'*] and [Xie, Allaire & Grolemund's R Markdown: '*The Definitive Guide'*](https://bookdown.org/yihui/rmarkdown/), 
