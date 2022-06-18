@@ -100,9 +100,9 @@ My Favorite Scientific Journals and Books
 
 [**Pharmacy Practice and Clinical Guidelines**]()
 ---
-[APhA](https://www.pharmacist.com/) and their journal - [JAPhA](https://www.japha.org/), 
-[ASHP](https://www.ashp.org/) and their journal - [AJHP](https://academic.oup.com/ajhp),
-[ACCP](https://www.accp.com/) and their journal - [*Pharmacotherapy*](https://accpjournals.onlinelibrary.wiley.com/journal/18759114), 
+[APhA](https://www.pharmacist.com/) & [JAPhA](https://www.japha.org/), 
+[ASHP](https://www.ashp.org/) & [AJHP](https://academic.oup.com/ajhp),
+[ACCP](https://www.accp.com/) & [*Pharmacotherapy*](https://accpjournals.onlinelibrary.wiley.com/journal/18759114), 
 [KDIGO](https://kdigo.org/guidelines/)
 [IDSA](https://www.idsociety.org/practice-guideline/alphabetical-guidelines/), 
 [ACC](https://www.acc.org/guidelines),
