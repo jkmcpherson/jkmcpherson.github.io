@@ -149,7 +149,7 @@ I recommend the natural progression of learning R as follows:
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
 [Hadley Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
-and **definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://indrajeetpatil.github.io/ggstatsplot/), Kassambara's [ggpubr](https://github.com/kassambara/ggpubr/)
+and **definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/), Kassambara's [ggpubr](https://github.com/kassambara/ggpubr/)
 [Claus Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
 [Winston Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/), 
 
