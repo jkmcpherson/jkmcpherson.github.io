@@ -191,15 +191,19 @@ Other readings can include the RMarkdown and Bookdown readings:
 [Education Connect](https://www.thermofisher.com/us/en/home/digital-science/thermo-fisher-connect.html), 
 [Illumina](https://www.illumina.com/science/education.html),
 
-[16s rRNA gene sequencing with Illumina](https://www.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/16s-rrna-sequencing.html), 
+[16s rRNA gene sequencing with Illumina](https://www.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/16s-rrna-sequencing.html), which feeds into either the current gold-standard open-source tool 
+[QIIME2](https://qiime2.org/), the somewhat outdated (C++) gold-standard tool, 
+[Mothur](https://github.com/mothur/mothur) by 
+[Schloss *et al.* 2009](https://journals.asm.org/doi/10.1128/AEM.01541-09), which has a 
+[16S rRNA gene sequencing tutorial](https://training.galaxyproject.org/archive/2021-10-01/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html), 
 
-which feeds into either the current gold-standard open-source tool [QIIME2](https://qiime2.org/), the somewhat outdated (C++) gold-standard tool, [Mothur](https://github.com/mothur/mothur) by [Schloss *et al.* 2009](https://journals.asm.org/doi/10.1128/AEM.01541-09), which has a [16S rRNA gene sequencing tutorial](https://training.galaxyproject.org/archive/2021-10-01/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html), 
+[16s rRNA gene sequencing with CLC](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Introduction_Metagenomics.html) with 
+[associated white paper](https://digitalinsights.qiagen.com/wp-content/uploads/2016/05/Characterizing-the-Microbiome-through-Targeted-Sequencing-of-Bacterial-16S-rRNA-and-Fungal-ITS-Regions_White-Paper_QIAGEN-Bioinformatics_0518_ww.pdf). 
 
-[16s rRNA gene sequencing with CLC](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Introduction_Metagenomics.html) with [associated white paper](https://digitalinsights.qiagen.com/wp-content/uploads/2016/05/Characterizing-the-Microbiome-through-Targeted-Sequencing-of-Bacterial-16S-rRNA-and-Fungal-ITS-Regions_White-Paper_QIAGEN-Bioinformatics_0518_ww.pdf). 
+The CLC workflow for 16S follows an 
+[amplicon-based OTU clustering workflow](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Amplicon_based_OTU_clustering.html) that uses 
 
-The CLC workflow for 16S follows an [amplicon-based OTU clustering workflow](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Amplicon_based_OTU_clustering.html) that uses 
-
-[read trimming]() using [](),
+[read trimming]() using their ['clc_quality_trim' program](https://resources.qiagenbioinformatics.com/manuals/clcassemblycell/400/index.php?manual=Quality_trimming.html), but I would rather use [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)  by [Bolger, Lihse & Usadel, 2014](https://pubmed.ncbi.nlm.nih.gov/24695404/)
 
 [filtering samples based on the number of reads](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Filter_Samples_Based_on_Number_Reads.html),
 
