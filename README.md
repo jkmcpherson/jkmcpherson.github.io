@@ -17,10 +17,7 @@ My Favorite Scientific Journals and Books
  [*Cell*](https://www.cell.com/), 
  [*Nature Medicine*](https://www.nature.com/nm/), 
  [*Science Translational Medicine*](https://www.science.org/journal/stm), 
- [*The Lancet*](https://www.thelancet.com/), 
- [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
- [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
- [*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
+ 
 
 **Cellular, molecular, and structural biology** in 
 [Bruce Albert's 'Molecular Biology of the Cell'](https://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/)
@@ -118,7 +115,13 @@ My Favorite Scientific Journals and Books
 [ATS](https://www.thoracic.org/statements/index.php),
 [ACR](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines)
 [HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines), 
-[UpToDate](https://www.uptodate.com/login) & [LexiComp](https://online.lexi.com/lco/action/home)
+the [Sanford Guide](https://www.sanfordguide.com/), 
+[UpToDate](https://www.uptodate.com/login) & 
+[LexiComp](https://online.lexi.com/lco/action/home),
+[*The Lancet*](https://www.thelancet.com/), 
+[*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
+[*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
+[*Physiological Reviews*](https://journals.physiology.org/journal/physrev)
 
 
 [**Computer science communities:**]()
