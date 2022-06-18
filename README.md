@@ -229,6 +229,8 @@ Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/
 
 [**Artificial intelligence, Machine Learning, and Deep Learning (in Python, R)**]()
 ---
+[DeepMind](https://github.com/deepmind) is an excellent gold-standard for the capability of deep-learning in the biological sciences, [AlphaFold](https://github.com/deepmind/alphafold) and the other [amazing discoveries](https://github.com/deepmind/deepmind-research) at DeepMind. It's also worth noting their [Sonnet](https://github.com/deepmind/sonnet) library built on TensorFlow2. The [AlphaFold Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) is also freely available as a simplified implementation. 
+
 
 [AWS SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html) is best IMO for reasons of hardware scalability; requires knowledge of [AWS Data Science](https://github.com/data-science-on-aws/data-science-on-aws), review of [Sagemaker Workshop](https://github.com/awslabs/amazon-sagemaker-workshop) and [SageMaker Examples](https://github.com/aws/amazon-sagemaker-examples)
 
