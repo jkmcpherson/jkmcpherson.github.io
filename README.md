@@ -143,13 +143,13 @@ My Favorite Scientific Journals and Books
 I've found [W. Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html) the best single-page introductions for R
 
 For a more advanced, serious education of R, I recommend learning in this order: 
-[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
-[Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
+[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
 [Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
 [Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/)
+[Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
 
 **Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
 
