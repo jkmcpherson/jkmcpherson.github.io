@@ -184,8 +184,12 @@ Other readings can include the RMarkdown and Bookdown readings:
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
 
-
 [Genomics]()
+
+[QIAGEN's Knowledge Hub](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub), [Bench Guide](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide) and [Digital Insights](https://digitalinsights.qiagen.com/) , 
+[Thermo Fisher's Learning Centers](https://www.thermofisher.com/us/en/home/technical-resources/learning-centers.html) and 
+[Education Connect](https://www.thermofisher.com/us/en/home/digital-science/thermo-fisher-connect.html), 
+[Illumina](https://www.illumina.com/science/education.html),
 
 [Metagenomics]()
 
@@ -203,7 +207,7 @@ Other readings can include the RMarkdown and Bookdown readings:
     
 [European Molecular Biology Laboratories (EMBL)](https://www.embl.org/) [European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/research)
   
-The commercial [QIAGEN Digital Insights](https://digitalinsights.qiagen.com/) and [Schrodinger](https://www.schrodinger.com/)
+The commercial and [Schrodinger](https://www.schrodinger.com/)
   
 The microbial [QIIME2](https://qiime2.org/), [PICRUST2](https://github.com/picrust/picrust2), and the [interactive Human Microbiome Project (iHMP)](https://portal.hmpdacc.org/)
 
