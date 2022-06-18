@@ -120,29 +120,45 @@ My Favorite Scientific Journals and Books
 [HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines), 
 [UpToDate](https://www.uptodate.com/login) & [LexiComp](https://online.lexi.com/lco/action/home)
 
-[**Microscopy and Imaging Techniques**]()
+
+[**Computer science communities:**]()
 ---
+[R](https://www.r-project.org/), 
+[RStudio](https://www.rstudio.com/), 
+[Tidyverse](https://www.tidyverse.org/), 
+[Bookdown](https://bookdown.org/), 
+[Python](https://www.python.org/), 
+[Anaconda](https://www.anaconda.com/) , 
+[Julia](https://julialang.org/), 
+[Docker](https://www.docker.com/), 
+[Git](https://git-scm.com/), 
+[LaTeX](https://www.latex-project.org/), 
+[VSCode](https://code.visualstudio.com/), 
+[AWS](https://aws.amazon.com/), 
+[Ubuntu](https://www.ubuntu.com)
 
-The [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) houses a [Confocal](https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-sted/), [NMR](https://www.jeolusa.com/PRODUCTS/Nuclear-Magnetic-Resonance/JNM-ECZL-series-FT-NMR), [LCMS](https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-system), [ddPCR](https://www.bio-rad.com/en-us/life-science/digital-pcr/qx200-ddpcr-system-with-automated-droplet-generator), [chromatography](https://www.bionity.com/en/products/128437/aekta-pure-flexible-andintuitive-protein-purification-system.html), and a [biolayer interferometer](https://www.sartorius.com/en/products/protein-analysis/octet-bli-detection/octet-label-free-detection-systems)
-
-[Confocal fluorescence microscopy]() including the [Leica learning resources](https://www.leica-microsystems.com/science-lab/science-lab-home)
-
-[Cryogenic electronic microscopy (CryoEM)]() that [Yale CryoEM](https://cryoem.yale.edu/cryo-em/workshops-and-online-courses) and [UNC CryoEM Core](https://www.med.unc.edu/cryo-em/) lists [resources available](https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/), such as those by [Grant Jensen, CalTech](https://cryo-em-course.caltech.edu/), the [NIGMS National Resource for Automated Molecular Microscopy (NRAMM)](https://nramm.nysbc.org/workshops-and-courses/), and [Thermo Fisher's EM-Learning](https://em-learning.com/) and [CryoEM Learning Center](https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html)
-
-Nuclear Magnetic Resonance Imaging (NMR)
-
-Liquid Chromatography Mass Spectrometry (LCMS)
-
-[**Structural Biology**]()
+[**Statistical programming and data visualization (in R)**]()
 ---
-The [Theoretical and Computational Biophysics Group (TCBG)]() provides [tutorial-based training](https://www.ks.uiuc.edu/Training/Tutorials/) and a database of software for 3D molecular [building](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=3), [dynamics](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=2) and [visualization](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=1)
+see the statistics primers towards the bottom of the *Nature* collection [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and the sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
-Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/training/search-results?query=structural-biology), Stanford
+[Antoine Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/what-statistical-test-should-i-do/) and clicking the in-picture end-node links. 
+
+The [*Handbook of Statistical Analyses Using R* (HSAUR)](https://rdrr.io/cran/HSAUR/)
 
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
-  
-Genomics, metagenomics, transcriptomics, proteomics, and metabolomics [in Python](https://www.python.org/) using the [BioPython](https://biopython.org/) library
+
+[Python](https://www.python.org/) using the [BioPython](https://biopython.org/) library
+
+[Genomics]()
+
+[Metagenomics]()
+
+[Transcriptomics]()
+
+[Proteomics]()
+
+[metabolomics]()
 
 [Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
     
@@ -156,22 +172,34 @@ The commercial [QIAGEN Digital Insights](https://digitalinsights.qiagen.com/) an
   
 The microbial [QIIME2](https://qiime2.org/), [PICRUST2](https://github.com/picrust/picrust2), and the [interactive Human Microbiome Project (iHMP)](https://portal.hmpdacc.org/)
 
-[**Statistical programming and data visualization (in R)**]()
----
-see the statistics primers towards the bottom of the *Nature* collection [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and the sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
-[Antoine Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/what-statistical-test-should-i-do/) and clicking the in-picture end-node links. 
-
-The [*Handbook of Statistical Analyses Using R* (HSAUR)](https://rdrr.io/cran/HSAUR/)
-
-
-[**Artificial intelligence, machine learning, and deep learning (in Python, R)**]()
+[**Microscopy and Imaging Techniques**]()
 ---
 
+The [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) houses a [Confocal](https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-sted/), [NMR](https://www.jeolusa.com/PRODUCTS/Nuclear-Magnetic-Resonance/JNM-ECZL-series-FT-NMR), [LCMS](https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-system), [ddPCR](https://www.bio-rad.com/en-us/life-science/digital-pcr/qx200-ddpcr-system-with-automated-droplet-generator), [chromatography](https://www.bionity.com/en/products/128437/aekta-pure-flexible-andintuitive-protein-purification-system.html), and a [biolayer interferometer](https://www.sartorius.com/en/products/protein-analysis/octet-bli-detection/octet-label-free-detection-systems)
 
-[**Computer science communities:**]()
+[Confocal fluorescence microscopy]() including the [Leica learning resources](https://www.leica-microsystems.com/science-lab/science-lab-home)
+
+[Cryogenic electronic microscopy (CryoEM)]() that [Yale CryoEM](https://cryoem.yale.edu/cryo-em/workshops-and-online-courses) and [UNC CryoEM Core](https://www.med.unc.edu/cryo-em/) lists [resources available](https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/), such as those by [Grant Jensen, CalTech](https://cryo-em-course.caltech.edu/), the [NIGMS National Resource for Automated Molecular Microscopy (NRAMM)](https://nramm.nysbc.org/workshops-and-courses/), and [Thermo Fisher's EM-Learning](https://em-learning.com/) and [CryoEM Learning Center](https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html)
+
+Nuclear Magnetic Resonance Imaging (NMR)
+
+Liquid Chromatography Mass Spectrometry (LCMS)
+
+[**Structural Biology and Protein Modelling**]()
 ---
-[R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Tidyverse](https://www.tidyverse.org/), [Bookdown](https://bookdown.org/), [Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/) , [Julia](https://julialang.org/), [Docker](https://www.docker.com/), [Git](https://git-scm.com/), [LaTeX](https://www.latex-project.org/), [VSCode](https://code.visualstudio.com/), [AWS](https://aws.amazon.com/), [Ubuntu](https://www.ubuntu.com)
+The [Theoretical and Computational Biophysics Group (TCBG)]() provides [tutorial-based training](https://www.ks.uiuc.edu/Training/Tutorials/) and a database of software for 3D molecular [building](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=3), [dynamics](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=2) and [visualization](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=1)
+
+Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/training/search-results?query=structural-biology), Stanford
+
+
+
+
+[**Artificial intelligence, Machine Learning, and Deep Learning (in Python, R)**]()
+---
+
+
+
 
 
 ### Languages, Tools, and Skills 🛠
