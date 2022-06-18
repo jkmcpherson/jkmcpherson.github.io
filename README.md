@@ -143,7 +143,29 @@ See the statistics primers towards the bottom of the *Nature* collection [*Stati
 
 [Antoine Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/what-statistical-test-should-i-do/) and clicking the in-picture end-node links. 
 
-The [*Handbook of Statistical Analyses Using R* (HSAUR)](https://rdrr.io/cran/HSAUR/)
+I recommend the natural progression of learning R as follows: 
+[Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
+[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf), 
+[Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
+[Hadley Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
+[Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
+and **definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://indrajeetpatil.github.io/ggstatsplot/), Kassambara's [ggpubr](https://github.com/kassambara/ggpubr/)
+[Claus Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
+[Winston Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/), 
+
+The RMarkdown and Bookdown readings: 
+[Xie, Dervieux & Riederer's *'R Markdown Cookbook'*] and [Xie, Allaire & Grolemund's R Markdown: '*The Definitive Guide'*](https://bookdown.org/yihui/rmarkdown/), 
+[Yihui Xie's *'bookdown'*](https://bookdown.org/yihui/bookdown/) & [*'blogdown'*](https://bookdown.org/yihui/blogdown/)
+
+(Optional) excellent R Bookdowns to read include: 
+[Lovelace, Nowosad & Muenchow's *'Geocomputation in R'*](https://geocompr.robinlovelace.net/), 
+[Wickham & Bryan's *'R Packages'*](https://r-pkgs.org/), 
+[Jeroen Janssens's *'DS at the CL'*](https://www.datascienceatthecommandline.com/1e/), 
+[Fay et al.'s *'Engineering Production-Grade Shiny Apps'*](https://engineering-shiny.org/)
+
+
+
+[*Handbook of Statistical Analyses Using R* (HSAUR) 3rd ed.](https://rdrr.io/cran/HSAUR3/) entirely available online as individual chapter PDFs, with the associated [HSAUR3](https://cran.r-project.org/web/packages/HSAUR3/index.html) package in CRAN with Vignettes and official documentation [reference manual](https://cran.r-project.org/web/packages/HSAUR3/HSAUR3.pdf) 
 
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
@@ -198,7 +220,8 @@ Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/
 [**Artificial intelligence, Machine Learning, and Deep Learning (in Python, R)**]()
 ---
 
-
+[*'An Intro to Statistical Learning'*](https://www.statlearning.com/)
+[*'Deep learning with R'* 2nd ed.](https://livebook.manning.com/book/deep-learning-with-r-second-edition/welcome/v-1/1)
 
 
 
