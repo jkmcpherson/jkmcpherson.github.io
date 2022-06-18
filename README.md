@@ -141,7 +141,7 @@ My Favorite Scientific Journals and Books
 ---
 See the statistics primers towards the bottom of the *Nature* collection [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and the sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
-[Antoine Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/what-statistical-test-should-i-do/) and clicking the in-picture end-node links. 
+[Swoeney's](https://antoinesoetewey.com/) excellent [Blogdown](https://github.com/rstudio/blogdown) titled ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/what-statistical-test-should-i-do/) and clicking the in-picture end-node links. 
 
 I recommend the natural progression of learning R as follows: 
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
@@ -150,7 +150,7 @@ I recommend the natural progression of learning R as follows:
 [Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
 [Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
-[Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/), 
+[Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/)
 
 **Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) for automatically doing statistics in a ggplot2 object
 
