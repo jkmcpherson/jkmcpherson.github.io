@@ -139,17 +139,12 @@ My Favorite Scientific Journals and Books
 
 [**Statistical programming and data visualization (in R)**]()
 ---
-The *Nature* collection [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and the sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
-[Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) and clicking the in-picture end-node links. 
+I've found these [Winston Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html) the best single-page introductions for R
 
-[Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html)
-
-[*Handbook of Statistical Analyses Using R* (HSAUR) 3rd ed.](https://rdrr.io/cran/HSAUR3/) entirely available online as individual chapter PDFs, with the associated [HSAUR3](https://cran.r-project.org/web/packages/HSAUR3/index.html) package in CRAN with Vignettes and official documentation [reference manual](https://cran.r-project.org/web/packages/HSAUR3/HSAUR3.pdf) 
-
-I recommend learning R in this order: 
+For a more advanced, serious education of R, I recommend learning in this order: 
+[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
-[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf), 
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
 [Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
@@ -158,11 +153,17 @@ I recommend learning R in this order:
 
 **Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
 
-[Oksanen's *vegan*](https://github.com/vegandevs/vegan) [rdocumentation](https://rdocumentation.org/packages/vegan) and [CRAN](https://cran.r-project.org/web/packages/vegan/index.html)
+Once you learn R and want a blend of R and statistical theory, [Antoine Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R Blogdown'](https://github.com/AntoineSoetewey/statsandr) provides a PDF in ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) that users click the end-node links to follow. 
 
-[Borg & Groenen's '*Modern Multidmensional Scaling'*](https://link.springer.com/book/10.1007/0-387-28981-X)
+More theory can be found at [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and its sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
-The RMarkdown and Bookdown readings: 
+[*Handbook of Statistical Analyses Using R* (HSAUR) 3rd ed.](https://rdrr.io/cran/HSAUR3/) entirely available online as individual chapter PDFs, with the associated [HSAUR3](https://cran.r-project.org/web/packages/HSAUR3/index.html) package in CRAN with Vignettes and official documentation [reference manual](https://cran.r-project.org/web/packages/HSAUR3/HSAUR3.pdf) 
+
+Ecology statistics with [Oksanen's *vegan*](https://github.com/vegandevs/vegan) [rdocumentation](https://rdocumentation.org/packages/vegan) and [CRAN](https://cran.r-project.org/web/packages/vegan/index.html)
+
+High dimensional statistics can be learned from [Borg & Groenen's '*Modern Multidmensional Scaling'*](https://link.springer.com/book/10.1007/0-387-28981-X)
+
+Other readings can include the RMarkdown and Bookdown readings: 
 [Xie, Dervieux & Riederer's *'R Markdown Cookbook'*](https://bookdown.org/yihui/rmarkdown-cookbook/) and [Xie, Allaire & Grolemund's R Markdown: '*The Definitive Guide'*](https://bookdown.org/yihui/rmarkdown/), 
 [Xie's *'bookdown'*](https://bookdown.org/yihui/bookdown/) & [*'blogdown'*](https://bookdown.org/yihui/blogdown/)
 
@@ -171,6 +172,8 @@ The RMarkdown and Bookdown readings:
 [Wickham & Bryan's *'R Packages'*](https://r-pkgs.org/), 
 [Jeroen Janssens's *'DS at the CL'*](https://www.datascienceatthecommandline.com/1e/), 
 [Fay et al.'s *'Engineering Production-Grade Shiny Apps'*](https://engineering-shiny.org/)
+
+
 
 
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
