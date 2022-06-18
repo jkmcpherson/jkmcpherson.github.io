@@ -149,9 +149,10 @@ I recommend the natural progression of learning R as follows:
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
 [Hadley Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
-and **definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/), Kassambara's [ggpubr](https://github.com/kassambara/ggpubr/)
 [Claus Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
 [Winston Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/), 
+
+**Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) for automatically doing statistics in a ggplot2 object
 
 The RMarkdown and Bookdown readings: 
 [Xie, Dervieux & Riederer's *'R Markdown Cookbook'*] and [Xie, Allaire & Grolemund's R Markdown: '*The Definitive Guide'*](https://bookdown.org/yihui/rmarkdown/), 
