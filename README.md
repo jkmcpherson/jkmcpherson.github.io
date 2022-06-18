@@ -211,7 +211,7 @@ In CLC, whole metagenome shotgun sequencing [functional analysis](https://resour
 
 [metabolomics]()
 
-[Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/)
+[Swiss Institute for Bioinformatics (SIB)](https://www.sib.swiss/) which [Geert van Geest](https://github.com/GeertvanGeest) introduced me to the SIB's [AWS-Docker](https://github.com/sib-swiss/AWS-docker) for getting RStudio Server, Jupyter and VSCode running on an AWS EC2 using Docker
     
 [National Center for Biotechnology and Information (NCBI)](https://ncbiinsights.ncbi.nlm.nih.gov/)
   
