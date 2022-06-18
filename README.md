@@ -10,7 +10,7 @@ I keep a [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate 
 My Favorite Scientific Journals and Books
 ---
 
-**Academic and clinical journals** typically starting with the most reliable and relevant search engine, 
+**Academic Journals** typically starting with the most reliable and relevant search engine, 
  [SCOUPS](https://www.scopus.com/) that usually pulls publications from 
  [*Nature*](https://www.nature.com/), 
  [*Science*](https://www.science.org/), 
@@ -19,7 +19,7 @@ My Favorite Scientific Journals and Books
  [*Science Translational Medicine*](https://www.science.org/journal/stm), 
  
 
-**Cellular, molecular, and structural biology** in 
+**Cellular, Molecular Biology** in 
 [Bruce Albert's 'Molecular Biology of the Cell'](https://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/)
 [*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), 
 [*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/), 
