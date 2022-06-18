@@ -97,7 +97,29 @@ My Favorite Scientific Journals and Books
 [*International Journal of Computer Vision*](https://www.springer.com/journal/11263), and the journal
 [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
 
-[**Microscopy, Chemistry, and Structural Biology**]()
+
+[**Pharmacy Practice and Clinical Guidelines**]()
+---
+[APhA](https://www.pharmacist.com/) and their journal - [JAPhA](https://www.japha.org/), 
+[ASHP](https://www.ashp.org/) and their journal - [AJHP](https://academic.oup.com/ajhp),
+[ACCP](https://www.accp.com/) and their journal - [*Pharmacotherapy*](https://accpjournals.onlinelibrary.wiley.com/journal/18759114), 
+[KDIGO](https://kdigo.org/guidelines/)
+[IDSA](https://www.idsociety.org/practice-guideline/alphabetical-guidelines/), 
+[ACC](https://www.acc.org/guidelines),
+[ACOG](https://www.acog.org/clinical/clinical-guidance/practice-bulletin)
+[ASH](https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines)
+[ADA](https://diabetesjournals.org/care/issue/45/Supplement_1),
+[ACG](https://gi.org/guidelines/),
+[AAN](https://www.aan.com/practice/guidelines),
+[APA](https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines),
+[ASCO](https://www.asco.org/practice-patients/guidelines),
+[NCCN](https://www.nccn.org/guidelines/category_1),
+[CHEST](https://journal.chestnet.org/guidelines),
+[ATS](https://www.thoracic.org/statements/index.php),
+[ACR](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines)
+[HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines)
+
+[**Microscopy and Imaging Techniques**]()
 ---
 
 The [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) houses a [Confocal](https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-sted/), [NMR](https://www.jeolusa.com/PRODUCTS/Nuclear-Magnetic-Resonance/JNM-ECZL-series-FT-NMR), [LCMS](https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-system), [ddPCR](https://www.bio-rad.com/en-us/life-science/digital-pcr/qx200-ddpcr-system-with-automated-droplet-generator), [chromatography](https://www.bionity.com/en/products/128437/aekta-pure-flexible-andintuitive-protein-purification-system.html), and a [biolayer interferometer](https://www.sartorius.com/en/products/protein-analysis/octet-bli-detection/octet-label-free-detection-systems)
