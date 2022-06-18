@@ -145,7 +145,7 @@ I've found [W. Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's 
 For a more advanced, serious education of R, I recommend learning in this order: 
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
-[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  
+[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.html), 
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
 [Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
 [Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/)
