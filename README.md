@@ -230,10 +230,16 @@ Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/
 [**Artificial intelligence, Machine Learning, and Deep Learning (in Python, R)**]()
 ---
 
+[AWS SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html) is best IMO for reasons of hardware scalability; requires knowledge of [AWS Data Science](https://github.com/data-science-on-aws/data-science-on-aws), review of [Sagemaker Workshop](https://github.com/awslabs/amazon-sagemaker-workshop) and [SageMaker Examples](https://github.com/aws/amazon-sagemaker-examples)
+
+[Keras](https://github.com/keras-team/keras), [TensorFlow](https://github.com/tensorflow/tensorflow), [Scikit-Learn](https://github.com/scikit-learn/scikit-learn), []()
+
 [*'An Intro to Statistical Learning'*](https://www.statlearning.com/)
+[A. Geron's *Hands-On Machine-Learning*, 3rd ed.](https://github.com/ageron/handson-ml3)
+[F. Chollet's *Deep-Learning with Python*](https://github.com/fchollet/deep-learning-with-python-notebooks) 
+[Nvidia's 'Deep-Learning Examples' in Python](https://github.com/NVIDIA/DeepLearningExamples)
+[*Machine Learning with R*](https://machinelearningmastery.com/machine-learning-with-r/)
 [*'Deep learning with R'* 2nd ed.](https://livebook.manning.com/book/deep-learning-with-r-second-edition/welcome/v-1/1)
-
-
 
 ### Languages, Tools, and Skills 🛠
 ---
