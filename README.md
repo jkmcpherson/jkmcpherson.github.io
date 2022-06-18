@@ -158,6 +158,7 @@ I recommend learning R in this order:
 
 [Oksanen's *vegan*](https://github.com/vegandevs/vegan) [rdocumentation](https://rdocumentation.org/packages/vegan) and [CRAN](https://cran.r-project.org/web/packages/vegan/index.html)
 
+[Borg & Groenen's '*Modern Multidmensional Scaling'*](https://link.springer.com/book/10.1007/0-387-28981-X)
 
 The RMarkdown and Bookdown readings: 
 [Xie, Dervieux & Riederer's *'R Markdown Cookbook'*](https://bookdown.org/yihui/rmarkdown-cookbook/) and [Xie, Allaire & Grolemund's R Markdown: '*The Definitive Guide'*](https://bookdown.org/yihui/rmarkdown/), 
@@ -168,7 +169,6 @@ The RMarkdown and Bookdown readings:
 [Wickham & Bryan's *'R Packages'*](https://r-pkgs.org/), 
 [Jeroen Janssens's *'DS at the CL'*](https://www.datascienceatthecommandline.com/1e/), 
 [Fay et al.'s *'Engineering Production-Grade Shiny Apps'*](https://engineering-shiny.org/)
-
 
 
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
