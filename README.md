@@ -154,7 +154,7 @@ Data visualization should use:
 [W. Chang's *'R Graphics Cookbook'* 2e](https://r-graphics.org/), and 
 **Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
 
-Once you learn R and want a blend of R and statistical theory, [A. Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R Blogdown'](https://github.com/AntoineSoetewey/statsandr) provides a PDF in ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) that users click the end-node links to follow. 
+Once you learn R and want a blend of R and statistical theory, [A. Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R' Blogdown](https://github.com/AntoineSoetewey/statsandr) provides a PDF in ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) that users click the end-node links to follow. 
 
 More theory can be found at [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and its sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
