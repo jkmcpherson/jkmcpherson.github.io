@@ -147,16 +147,16 @@ I recommend the natural progression of learning R as follows:
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
 [The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf), 
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
-[Hadley Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
+[Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
-[Claus Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
-[Winston Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/), 
+[Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
+[Chang's *'R Graphics Cookbook',* 2e](https://r-graphics.org/), 
 
 **Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) for automatically doing statistics in a ggplot2 object
 
 The RMarkdown and Bookdown readings: 
 [Xie, Dervieux & Riederer's *'R Markdown Cookbook'*] and [Xie, Allaire & Grolemund's R Markdown: '*The Definitive Guide'*](https://bookdown.org/yihui/rmarkdown/), 
-[Yihui Xie's *'bookdown'*](https://bookdown.org/yihui/bookdown/) & [*'blogdown'*](https://bookdown.org/yihui/blogdown/)
+[Xie's *'bookdown'*](https://bookdown.org/yihui/bookdown/) & [*'blogdown'*](https://bookdown.org/yihui/blogdown/)
 
 (Optional) excellent R Bookdowns to read include: 
 [Lovelace, Nowosad & Muenchow's *'Geocomputation in R'*](https://geocompr.robinlovelace.net/), 
