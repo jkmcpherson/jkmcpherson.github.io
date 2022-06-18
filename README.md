@@ -14,7 +14,6 @@ My Favorite Scientific Journals and Books
  [SCOUPS](https://www.scopus.com/) that usually pulls publications from 
  [*Nature*](https://www.nature.com/), 
  [*Science*](https://www.science.org/), 
- [*Cell*](https://www.cell.com/), 
  [*Nature Medicine*](https://www.nature.com/nm/), 
  [*Science Translational Medicine*](https://www.science.org/journal/stm), 
  
@@ -22,6 +21,7 @@ My Favorite Scientific Journals and Books
 **Cellular, Molecular Biology** in 
 [Bruce Albert's 'Molecular Biology of the Cell'](https://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/)
 [*Nature Reviews Molecular Cell Biology*](https://www.nature.com/nrm/), 
+[*Cell Press*](https://www.cell.com/), 
 [*Nature Structural & Molecular Biology*](https://www.nature.com/nsmb/), 
 [*Signal Transduction and Targeted Therapy*](https://www.nature.com/sigtrans/), and
 [*Science Signaling*](https://www.science.org/journal/signaling)
