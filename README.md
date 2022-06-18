@@ -118,7 +118,7 @@ My Favorite Scientific Journals and Books
 [ATS](https://www.thoracic.org/statements/index.php),
 [ACR](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines)
 [HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines), 
-[UpToDate](https://www.uptodate.com/) & [LexiComp](https://online.lexi.com/)
+[UpToDate](https://www.uptodate.com/login) & [LexiComp](https://online.lexi.com/lco/action/home)
 
 [**Microscopy and Imaging Techniques**]()
 ---
