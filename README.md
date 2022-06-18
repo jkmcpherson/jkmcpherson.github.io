@@ -140,18 +140,18 @@ My Favorite Scientific Journals and Books
 [**Statistical programming and data visualization (in R)**]()
 ---
 
-I've found [W. Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html) the best single-page introductions for R
+I've found [W. Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html) the best single-page introduction for teaching R for statistics
 
 For a more advanced, serious education of R, I recommend learning in this order: 
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
-[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  
+[The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.html), 
 [Wickham's *'Advanced R'*](https://adv-r.hadley.nz/), 
 
 Data visualization should use: 
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
 [Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
-[Chang's *'R Graphics Cookbook'* 2e](https://r-graphics.org/), and 
+[W. Chang's *'R Graphics Cookbook'* 2e](https://r-graphics.org/), and 
 **Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
 
 Once you learn R and want a blend of R and statistical theory, [A. Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R Blogdown'](https://github.com/AntoineSoetewey/statsandr) provides a PDF in ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) that users click the end-node links to follow. 
