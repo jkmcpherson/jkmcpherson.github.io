@@ -186,12 +186,53 @@ Other readings can include the RMarkdown and Bookdown readings:
 
 [Genomics]()
 
-[QIAGEN's Knowledge Hub](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub), [Bench Guide](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide) and [Digital Insights](https://digitalinsights.qiagen.com/) , 
+[QIAGEN's Knowledge Hub](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub), [Bench Guide](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide) and [Digital Insights](https://digitalinsights.qiagen.com/), 
 [Thermo Fisher's Learning Centers](https://www.thermofisher.com/us/en/home/technical-resources/learning-centers.html) and 
 [Education Connect](https://www.thermofisher.com/us/en/home/digital-science/thermo-fisher-connect.html), 
 [Illumina](https://www.illumina.com/science/education.html),
 
+[16s rRNA gene sequencing with Illumina](https://www.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/16s-rrna-sequencing.html), 
+
+which feeds into either the current gold-standard open-source tool [QIIME2](https://qiime2.org/), the somewhat outdated (C++) gold-standard tool, [Mothur](https://github.com/mothur/mothur) by [Schloss *et al.* 2009](https://journals.asm.org/doi/10.1128/AEM.01541-09), which has a [16S rRNA gene sequencing tutorial](https://training.galaxyproject.org/archive/2021-10-01/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html), 
+
+[16s rRNA gene sequencing with CLC](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Introduction_Metagenomics.html) with [associated white paper](https://digitalinsights.qiagen.com/wp-content/uploads/2016/05/Characterizing-the-Microbiome-through-Targeted-Sequencing-of-Bacterial-16S-rRNA-and-Fungal-ITS-Regions_White-Paper_QIAGEN-Bioinformatics_0518_ww.pdf). 
+
+The CLC workflow for 16S follows an [amplicon-based OTU clustering workflow](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Amplicon_based_OTU_clustering.html) that uses 
+
+[read trimming]() using [](),
+
+[filtering samples based on the number of reads](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Filter_Samples_Based_on_Number_Reads.html),
+
+*de novo* or reference-based [OTU clustering](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=OTU_clustering_parameters.html)
+
+[removal of low abundance OTUs](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Remove_OTUs_with_Low_Abundance.html)
+
+[OTU abundance analysis](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Abundance_analysis.html) **but R is best at this**
+
+[OTU nucleotide alignment with MUSCLE](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Align_OTUs_with_MUSCLE.html) by [Edgar, 2004](https://academic.oup.com/nar/article/32/5/1792/2380623?login=true)
+
+to [generate a maximum likelihood phylogenetic tree](http://resources.qiagenbioinformatics.com/manuals/clcgenomicsworkbench/current/index.php?manual), input for the CL  
+[alpha- and beta-diversity workflow](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Estimate_Alpha_Beta_Diversities_workflow.html) **but [vegan](https://vegandevs.github.io/vegan/index.html) is best at this**
+
+
 [Metagenomics]()
+
+In CLC, whole metagenome shotgun sequencing [functional analysis](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Functional_analysis.html) first includes the user 
+ 
+[*de novo* assembling a metagenome](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=De_Novo_Assemble_Metagenome.html#sec:de_novo_assemble_metagenome), 
+
+followed by annotation of the coding sequence (CDS) track with 
+[BLAST](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Annotate_CDS_with_Best_BLAST_Hit.html#sec:annotate_cds_with_blast),  
+[Pfam domains](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Annotate_CDS_with_Pfam_Domains.html#sec:annotate_cds_with_pfam), and/or
+[Gene Ontology (GO)](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Download_GO_Database.html#sec:download_go). 
+
+Then you map the original reads back to the annotated contigs using the 'Map Reads to Reference' in the [Build Functional Profile](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Build_Functional_Profile.html#sec:functional_profile) tool 
+
+The resulting output can be visualized using stacked bar charts and sunburst plots in [Visualization of the OTU abundance table](https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Visualization_OTU_abundance_tables.html#sec:visualizationotu) **but R is still best at this**
+
+
+[Illumina SGS](https://www.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/shotgun-metagenomic-sequencing.html)
+
 
 [Transcriptomics]()
 
@@ -209,7 +250,7 @@ Other readings can include the RMarkdown and Bookdown readings:
   
 The commercial and [Schrodinger](https://www.schrodinger.com/)
   
-The microbial [QIIME2](https://qiime2.org/), [PICRUST2](https://github.com/picrust/picrust2), and the [interactive Human Microbiome Project (iHMP)](https://portal.hmpdacc.org/)
+The microbial , [PICRUST2](https://github.com/picrust/picrust2), and the [interactive Human Microbiome Project (iHMP)](https://portal.hmpdacc.org/)
 
 
 [**Microscopy and Imaging Techniques**]()
