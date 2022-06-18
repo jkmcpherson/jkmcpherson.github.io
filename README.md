@@ -152,7 +152,7 @@ Data visualization should use:
 [Wickham's '*ggplot2'*](https://ggplot2-book.org/), 
 [Wilke's *'Fundamentals of Data Visualization'*](https://clauswilke.com/dataviz/), 
 [W. Chang's *'R Graphics Cookbook'* 2e](https://r-graphics.org/), and 
-**Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
+**DEFINNITELY** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
 
 Once you learn R and want a blend of R and statistical theory, [A. Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R' Blogdown](https://github.com/AntoineSoetewey/statsandr) provides a PDF in ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) that users click the end-node links to follow. 
 
@@ -231,10 +231,12 @@ Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/
 ---
 [DeepMind](https://github.com/deepmind) is an excellent gold-standard for the capability of deep-learning in the biological sciences, [AlphaFold](https://github.com/deepmind/alphafold) and the other [amazing discoveries](https://github.com/deepmind/deepmind-research) at DeepMind. The [AlphaFold Colab](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) is also freely available as a simplified implementation. It's also worth noting their [Sonnet](https://github.com/deepmind/sonnet) library built on TensorFlow2. 
 
-[AWS SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html) is best IMO for reasons of hardware scalability; requires knowledge of [AWS Data Science](https://github.com/data-science-on-aws/data-science-on-aws), review of [Sagemaker Workshop](https://github.com/awslabs/amazon-sagemaker-workshop) and [SageMaker Examples](https://github.com/aws/amazon-sagemaker-examples)
+I think [AWS SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html) is best for its freedom of scalability; requires knowledge of [AWS Data Science](https://github.com/data-science-on-aws/data-science-on-aws), the review of [Sagemaker Workshop](https://github.com/awslabs/amazon-sagemaker-workshop) and [SageMaker Examples](https://github.com/aws/amazon-sagemaker-examples)
 
-[Keras](https://github.com/keras-team/keras), [TensorFlow](https://github.com/tensorflow/tensorflow), [Scikit-Learn](https://github.com/scikit-learn/scikit-learn), []()
-
+Further reading can be found at 
+[Keras](https://github.com/keras-team/keras), 
+[TensorFlow](https://github.com/tensorflow/tensorflow), 
+[Scikit-Learn](https://github.com/scikit-learn/scikit-learn), 
 [*'An Intro to Statistical Learning'*](https://www.statlearning.com/)
 [A. Geron's *Hands-On Machine-Learning*, 3rd ed.](https://github.com/ageron/handson-ml3)
 [F. Chollet's *Deep-Learning with Python*](https://github.com/fchollet/deep-learning-with-python-notebooks) 
