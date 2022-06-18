@@ -10,7 +10,7 @@ I keep a [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate 
 My Favorite Scientific Journals and Books
 ---
 
-**Academic Journals** typically starting with the most reliable and relevant search engine, 
+**Academic Journals** typically starting with
  [SCOUPS](https://www.scopus.com/) that usually pulls publications from 
  [*Nature*](https://www.nature.com/), 
  [*Science*](https://www.science.org/), 
