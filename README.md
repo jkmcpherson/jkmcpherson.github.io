@@ -10,12 +10,12 @@ I keep a [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate 
 My Favorite Scientific Journals and Books
 ---
 
-**Academic Journals** typically starting with
- [SCOUPS](https://www.scopus.com/) that usually pulls publications from 
+**Academic Journals** starting with
+ [SCOUPS](https://www.scopus.com/) that typically directs me to
  [*Nature*](https://www.nature.com/), 
  [*Science*](https://www.science.org/), 
  [*Nature Medicine*](https://www.nature.com/nm/), 
- [*Science Translational Medicine*](https://www.science.org/journal/stm), 
+ [*Science Translational Medicine*](https://www.science.org/journal/stm)
  
 
 **Cellular, Molecular Biology** in 
