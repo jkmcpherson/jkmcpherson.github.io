@@ -252,6 +252,8 @@ Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/
 
 I think [AWS SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html) is best for its freedom of scalability; requires knowledge of [AWS Data Science](https://github.com/data-science-on-aws/data-science-on-aws), and a review of the [Sagemaker Workshop](https://github.com/awslabs/amazon-sagemaker-workshop) and [Examples](https://github.com/aws/amazon-sagemaker-examples)
 
+The Microsoft [DoWhy](https://github.com/py-why/dowhy) library for [causal inference](https://www.microsoft.com/en-us/research/blog/dowhy-a-library-for-causal-inference/) recently popped on my radar
+
 Further reading can be found at 
 [Keras](https://github.com/keras-team/keras), 
 [TensorFlow](https://github.com/tensorflow/tensorflow), 
