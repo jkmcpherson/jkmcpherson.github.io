@@ -131,6 +131,7 @@ the [Sanford Guide](https://www.sanfordguide.com/),
 [Tidyverse](https://www.tidyverse.org/), 
 [Bookdown](https://bookdown.org/), 
 [Python](https://www.python.org/), 
+[BioPython](https://biopython.org/), 
 [Anaconda](https://www.anaconda.com/) , 
 [Julia](https://julialang.org/), 
 [Docker](https://www.docker.com/), 
@@ -183,7 +184,6 @@ Other readings can include the RMarkdown and Bookdown readings:
 [**Scientific Programming: Bioinformatics & Computational Biology**]()
 ---
 
-[Python](https://www.python.org/) using the [BioPython](https://biopython.org/) library
 
 [Genomics]()
 
