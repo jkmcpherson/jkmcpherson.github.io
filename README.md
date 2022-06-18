@@ -143,6 +143,8 @@ The *Nature* collection [*Statistics for Biologists*](https://www.nature.com/col
 
 [Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R'](https://github.com/AntoineSoetewey/statsandr) that I recommend starting with ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) and clicking the in-picture end-node links. 
 
+[Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html)
+
 [*Handbook of Statistical Analyses Using R* (HSAUR) 3rd ed.](https://rdrr.io/cran/HSAUR3/) entirely available online as individual chapter PDFs, with the associated [HSAUR3](https://cran.r-project.org/web/packages/HSAUR3/index.html) package in CRAN with Vignettes and official documentation [reference manual](https://cran.r-project.org/web/packages/HSAUR3/HSAUR3.pdf) 
 
 I recommend learning R in this order: 
