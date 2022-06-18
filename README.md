@@ -140,7 +140,7 @@ My Favorite Scientific Journals and Books
 [**Statistical programming and data visualization (in R)**]()
 ---
 
-I've found these [Winston Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html) the best single-page introductions for R
+I've found [W. Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html) the best single-page introductions for R
 
 For a more advanced, serious education of R, I recommend learning in this order: 
 [The official CRAN '*Intro2R'*](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  
@@ -153,7 +153,7 @@ For a more advanced, serious education of R, I recommend learning in this order:
 
 **Definitely** give the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) a peak, that I most highly recommend Patil's [*ggstatplot*](https://github.com/IndrajeetPatil/ggstatsplot/) 
 
-Once you learn R and want a blend of R and statistical theory, [Antoine Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R Blogdown'](https://github.com/AntoineSoetewey/statsandr) provides a PDF in ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) that users click the end-node links to follow. 
+Once you learn R and want a blend of R and statistical theory, [A. Swoeney's](https://antoinesoetewey.com/) excellent ['Stats and R Blogdown'](https://github.com/AntoineSoetewey/statsandr) provides a PDF in ['What statistical test should I do?'](https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf) that users click the end-node links to follow. 
 
 More theory can be found at [*Statistics for Biologists*](https://www.nature.com/collections/qghhqm) and its sub-page [*Points of Significance*](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 
