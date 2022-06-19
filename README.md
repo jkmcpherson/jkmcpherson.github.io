@@ -97,16 +97,16 @@ My Favorite Scientific Journals and Books
 
 [**Pharmacy Practice and Clinical Guidelines**]()
 ---
-[APhA](https://www.pharmacist.com/): [JAPhA](https://www.japha.org/), 
-[ASHP](https://www.ashp.org/): [AJHP](https://academic.oup.com/ajhp),
-[ACCP](https://www.accp.com/): [*Pharmacotherapy*](https://accpjournals.onlinelibrary.wiley.com/journal/18759114), 
-[KDIGO](https://kdigo.org/guidelines/),
+[APhA's](https://www.pharmacist.com/) [JAPhA](https://www.japha.org/), 
+[ASHP's](https://www.ashp.org/) [AJHP](https://academic.oup.com/ajhp),
+[ACCP's](https://www.accp.com/) [*Pharmacotherapy*](https://accpjournals.onlinelibrary.wiley.com/journal/18759114), 
 [IDSA](https://www.idsociety.org/practice-guideline/alphabetical-guidelines/), 
 [ACC](https://www.acc.org/guidelines),
 [ACOG](https://www.acog.org/clinical/clinical-guidance/practice-bulletin), 
 [ASH](https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines)
 [ADA](https://diabetesjournals.org/care/issue/45/Supplement_1),
 [ACG](https://gi.org/guidelines/),
+[KDIGO](https://kdigo.org/guidelines/),
 [AAN](https://www.aan.com/practice/guidelines),
 [APA](https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines),
 [ASCO](https://www.asco.org/practice-patients/guidelines),
@@ -115,9 +115,16 @@ My Favorite Scientific Journals and Books
 [ATS](https://www.thoracic.org/statements/index.php),
 [ACR](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines)
 [HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines), 
-the [Sanford Guide](https://www.sanfordguide.com/), 
+[TSHP](https://tshp.org/), 
+[TPA](https://www.texaspharmacy.org/), 
+[TSBP](https://www.pharmacy.texas.gov/), 
+[NABP](https://nabp.pharmacy/), 
+[Sanford Guide](https://www.sanfordguide.com/), 
 [UpToDate](https://www.uptodate.com/login) & 
 [LexiComp](https://online.lexi.com/lco/action/home),
+[DailyMed](https://dailymed.nlm.nih.gov/dailymed/index.cfm), 
+[ISMP](https://www.ismp.org/), 
+[ClinicalTrials.gov](https://beta.clinicaltrials.gov/)
 [*The Lancet*](https://www.thelancet.com/), 
 [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
 [*Nature Reviews Disease Primers* (NRDP)](https://www.nature.com/nrdp/), and 
