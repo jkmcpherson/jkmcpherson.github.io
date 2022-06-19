@@ -113,7 +113,7 @@ My Favorite Scientific Journals and Books
 [NCCN](https://www.nccn.org/guidelines/category_1),
 [CHEST](https://journal.chestnet.org/guidelines),
 [ATS](https://www.thoracic.org/statements/index.php),
-[ACR](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines)
+[ACR](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines), 
 [HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines), 
 [TSHP](https://tshp.org/), 
 [TPA](https://www.texaspharmacy.org/), 
