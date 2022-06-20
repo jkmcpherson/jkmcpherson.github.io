@@ -119,11 +119,14 @@ My Favorite Scientific Journals and Books
 [TPA](https://www.texaspharmacy.org/), 
 [TSBP](https://www.pharmacy.texas.gov/), 
 [NABP](https://nabp.pharmacy/), 
+[FDA](https://www.fda.gov/), 
+[CMS](https://www.cms.gov/), 
+[JCo](https://www.jointcommission.org/), 
+[ISMP](https://www.ismp.org/), 
 [Sanford Guide](https://www.sanfordguide.com/), 
 [UpToDate](https://www.uptodate.com/login) & 
 [LexiComp](https://online.lexi.com/lco/action/home),
 [DailyMed](https://dailymed.nlm.nih.gov/dailymed/index.cfm), 
-[ISMP](https://www.ismp.org/), 
 [ClinicalTrials.gov](https://beta.clinicaltrials.gov/)
 [*The Lancet*](https://www.thelancet.com/), 
 [*New England Journal of Medicine* (NEJM)](https://www.nejm.org/), 
