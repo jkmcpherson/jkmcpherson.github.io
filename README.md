@@ -152,6 +152,12 @@ My Favorite Scientific Journals and Books
 [AWS](https://aws.amazon.com/), 
 [Ubuntu](https://www.ubuntu.com)
 
+**Docker Learning Resources**
+[The Official Docker Labs](https://github.com/docker/labs) by [Docker](https://github.com/docker), 
+[The #1 Docker Labs](https://dockerlabs.collabnix.com/) and [Kubernetes Labs](https://collabnix.github.io/kubelabs/) by [Collabnix](https://github.com/collabnix/), 
+[Containerization Training](https://container.training/) by [J. Petazzo](https://github.com/jpetazzo/), 
+[The Docker *for beginniners* Curriculum](https://docker-curriculum.com/) by [P. Srivastav](https://github.com/prakhar1989/)
+
 [**Statistical programming and data visualization (in R)**]()
 ---
 
