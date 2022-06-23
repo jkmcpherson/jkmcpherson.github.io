@@ -146,6 +146,7 @@ My Favorite Scientific Journals and Books
 [Julia](https://julialang.org/), 
 [Docker](https://www.docker.com/), 
 [Git](https://git-scm.com/), 
+[GitHub **Co-pilot**](https://github.com/features/copilot), 
 [LaTeX](https://www.latex-project.org/), 
 [VSCode](https://code.visualstudio.com/), 
 [AWS](https://aws.amazon.com/), 
