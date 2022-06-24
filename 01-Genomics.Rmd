@@ -1,0 +1,15 @@
+# Genomics 
+
+## Bench-top Techniques
+
+### Microbiological Isolation {-}
+
+Starting here
+
+### DNA Extraction {-}
+
+Going there
+
+### Library Preparation {-}
+
+Ending here
