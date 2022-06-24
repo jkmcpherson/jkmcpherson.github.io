@@ -164,7 +164,7 @@ My Favorite Scientific Journals and Books
 
 **Academic Programming** 
 
-Read in [Zotero](https://github.com/zotero/zotero) and cite using [citr](https://github.com/crsh/citr) for RStudio; optional: VSCode using [Citation Picker](https://github.com/mblode/vscode-zotero) and [Better BibTeX](https://github.com/retorquere/zotero-better-bibtex))
+Read in [Zotero](https://github.com/zotero/zotero) and cite using [citr](https://github.com/crsh/citr) for RStudio; optional: VSCode using [Citation Picker](https://github.com/mblode/vscode-zotero) and [Better BibTeX](https://github.com/retorquere/zotero-better-bibtex)
 
 
 [**Statistical programming and data visualization (in R)**]()
