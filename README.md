@@ -5,7 +5,8 @@ You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1Xe
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
 
-I keep a [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) where I curate my favorite resources from: 
+I keep a [**Netlify Gitbook**](https://jkmcpherson.netlify.app/)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
 
 My Favorite Scientific Journals and Books
