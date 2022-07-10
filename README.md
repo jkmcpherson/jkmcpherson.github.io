@@ -259,7 +259,7 @@ The [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) houses a [Confocal]
 
 [Cryogenic electronic microscopy (CryoEM)]()  
 
-The NIH established the following [CryoEM Centers](https://www.cryoemcenters.org/cryoem-centers/) through [awards](https://www.nih.gov/news-events/news-releases/nih-funds-three-national-cryo-em-service-centers-training-new-microscopists) to institutions: **Three National Centers** including the
+The NIH established the following [CryoEM Centers](https://www.cryoemcenters.org/cryoem-centers/) through [awards](https://www.nih.gov/news-events/news-releases/nih-funds-three-national-cryo-em-service-centers-training-new-microscopists) to the
 [National Center for CryoEM Access and Training (NCCAT)](https://nccat.nysbc.org/) at the [New York Structural Biology Center (NYSBC)](https://nysbc.org/), the
 [Pacific Northwest Center for Cryo-EM](https://pncc.labworks.org/) at the [Pacific Northwest National Laboratory(PNNL)](https://www.pnnl.gov/), the 
 [Stanford-SLACC Cryo-EM Center](https://cryoem-s2c2.slac.stanford.edu/) at the [National Accelerator Laboratory](https://www6.slac.stanford.edu/)
