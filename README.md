@@ -250,14 +250,14 @@ The commercial and [Schrodinger](https://www.schrodinger.com/)
 The microbial , [PICRUST2](https://github.com/picrust/picrust2), and the [interactive Human Microbiome Project (iHMP)](https://portal.hmpdacc.org/)
 
 
-[**Microscopy and Imaging Techniques**]()
+[**Advanced Microscopy and Structural Biology**]()
 ---
 
 The [UHCOP Core](https://uh.edu/pharmacy/research/core-lab/) houses a [Confocal](https://www.leica-microsystems.com/products/confocal-microscopes/p/stellaris-sted/), [NMR](https://www.jeolusa.com/PRODUCTS/Nuclear-Magnetic-Resonance/JNM-ECZL-series-FT-NMR), [LCMS](https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-system), [ddPCR](https://www.bio-rad.com/en-us/life-science/digital-pcr/qx200-ddpcr-system-with-automated-droplet-generator), [chromatography](https://www.bionity.com/en/products/128437/aekta-pure-flexible-andintuitive-protein-purification-system.html), and a [biolayer interferometer](https://www.sartorius.com/en/products/protein-analysis/octet-bli-detection/octet-label-free-detection-systems)
 
 [Confocal fluorescence microscopy]() including the [Leica learning resources](https://www.leica-microsystems.com/science-lab/science-lab-home)
 
-[Cryogenic electronic microscopy (CryoEM)]()  
+Cryogenic electronic microscopy (CryoEM)
 
 The NIH established the following [CryoEM Centers](https://www.cryoemcenters.org/cryoem-centers/) through [awards](https://www.nih.gov/news-events/news-releases/nih-funds-three-national-cryo-em-service-centers-training-new-microscopists) to the
 [National Center for CryoEM Access and Training (NCCAT)](https://nccat.nysbc.org/) at the [New York Structural Biology Center (NYSBC)](https://nysbc.org/), the
@@ -273,20 +273,13 @@ The NIH established the following [CryoEM Centers](https://www.cryoemcenters.org
 [UNC CryoEM Core](https://www.med.unc.edu/cryo-em/) lists [resources available](https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/), and
 [NIGMS National Resource for Automated Molecular Microscopy (NRAMM)](https://nramm.nysbc.org/workshops-and-courses/)
 
-Otherwise, the NIH Common Fund awarded 
-
-
 Nuclear Magnetic Resonance Imaging (NMR)
 
 Liquid Chromatography Mass Spectrometry (LCMS)
 
-[**Structural Biology and Protein Modelling**]()
----
 The [Theoretical and Computational Biophysics Group (TCBG)]() provides [tutorial-based training](https://www.ks.uiuc.edu/Training/Tutorials/) and a database of software for 3D molecular [building](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=3), [dynamics](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=2) and [visualization](https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=1)
 
 Further resources can be found notably at the [EMBLI-EBI](https://www.ebi.ac.uk/training/search-results?query=structural-biology), Stanford
-
-
 
 
 [**Artificial intelligence, Machine Learning, and Deep Learning (in Python, R)**]()
