@@ -18,6 +18,10 @@ My Favorite Scientific Learning Resources
 [Illumina](https://www.illumina.com/science/education/resources-tools.html), 
 [CLC](https://tv.qiagenbioinformatics.com/)
 
+
+**I made a public [Zotero](https://www.zotero.org/groups/4734738/jacobs_public_papers/library)
+ for your reading enjoyment**
+
 My Favorite Scientific Journals and Books
 ---
 
