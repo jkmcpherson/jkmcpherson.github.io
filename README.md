@@ -9,6 +9,15 @@ My [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) organizes my resource
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
 
+
+My Favorite Scientific Learning Resources
+---
+[CRISPR/Cas](https://www.thermofisher.com/us/en/home/life-science/genome-editing/genome-editing-learning-center.html)
+[CryoEM](https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html), 
+[Nanopore](https://community.nanoporetech.com/nanopore-learning), 
+[Illumina](https://www.illumina.com/science/education/resources-tools.html), 
+[CLC](https://tv.qiagenbioinformatics.com/)
+
 My Favorite Scientific Journals and Books
 ---
 
