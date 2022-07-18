@@ -185,6 +185,9 @@ Read in [Zotero](https://github.com/zotero/zotero) and cite using [citr](https:/
 
 I've found [W. Chang's *'Cookbook for R'*](http://www.cookbook-r.com/), [UCLA's Intro to R](https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html), & [BU's Basic Statistical Analysis](https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html) the best single-page introduction for teaching R for statistics
 
+Regression: I've struggled to find reputable open-sourced pages of regression education, let alone incorporation in R, but the 
+[PSU STAT 501](https://online.stat.psu.edu/stat501/) has caught my attention
+
 For a more advanced, serious education of R, I recommend learning in this order: 
 [Wickham and Grolemund's *'R4DS'*](https://r4ds.had.co.nz/), 
 [Douglas et al.'s '*Intro2R'*](https://intro2r.com/), 
