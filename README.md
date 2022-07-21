@@ -11,7 +11,7 @@ such as my first first-author publication in the journal Antimicrobial Agents an
 
 My [**Gitbook**](https://jkmcpherson.netlify.app/) was made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui*](https://bookdown.org/yihui/bookdown/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
+[![**Gitbook**](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
 
 
 ### Languages, Tools, and Skills 🛠
