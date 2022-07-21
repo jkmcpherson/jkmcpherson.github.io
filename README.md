@@ -10,7 +10,6 @@ such as my first first-author publication in the journal Antimicrobial Agents an
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
 
 [**My Gitbook**](https://jkmcpherson.netlify.app/) was made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui*](https://bookdown.org/yihui/bookdown/)
-
 [![**Netlify Success**](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
 
 
