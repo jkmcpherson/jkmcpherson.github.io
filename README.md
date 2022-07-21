@@ -9,13 +9,11 @@ such as my first first-author publication in the journal Antimicrobial Agents an
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
 
-[**My Gitbook**](https://jkmcpherson.netlify.app/) was made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui*](https://bookdown.org/yihui/bookdown/)
-[![**Netlify Success**](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
+## Check out [**My Gitbook**](https://jkmcpherson.netlify.app/) [![**Netlify Success**](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
+---
+Made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui*](https://bookdown.org/yihui/bookdown/), this little gitbook serves as my first Netlify personal website
 
-
-
-
-### Languages, Tools, and Skills 🛠
+## Languages, Tools, and Skills 🛠
 ---
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
