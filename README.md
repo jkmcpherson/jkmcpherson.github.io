@@ -1,20 +1,20 @@
-### Welcome to my [README](https://jkmcpherson.github.io/jkmcpherson/)
-
-You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945)
-such as my first first-author publication in the journal Antimicrobial Agents and Chemotherapy [![DOI:10.1128/aac.02244-21](https://zenodo.org/badge/DOI/10.1128/aac.02244-21.svg)](https://doi.org/10.1128/aac.02244-21)
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1128/aac.02244-21)](https://juleskreuer.eu/projekte/citation-badge/)
+## Welcome to my [README](https://jkmcpherson.github.io/jkmcpherson/)
 
 [![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
 [![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
 
+You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945)
+such as my first first-author publication in the journal Antimicrobial Agents and Chemotherapy [![DOI:10.1128/aac.02244-21](https://zenodo.org/badge/DOI/10.1128/aac.02244-21.svg)](https://doi.org/10.1128/aac.02244-21)
+[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1128/aac.02244-21)](https://juleskreuer.eu/projekte/citation-badge/)
+
 ## Check out [**My Gitbook**](https://jkmcpherson.netlify.app/) [![**Netlify Success**](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
----
+
 Made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui*](https://bookdown.org/yihui/bookdown/), this little gitbook serves as my first Netlify personal website
 
 ## Languages, Tools, and Skills 🛠
----
+
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
