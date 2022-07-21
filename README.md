@@ -37,6 +37,8 @@ Made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
 
+[![SIB](https://yt3.ggpht.com/ytc/AKedOLSGzDFnhzBwo43eki4EttC5ILDftOVIMO1mD3ZJgQ=s88-c-k-c0x00ffffff-no-rj)](https://www.sib.swiss/)
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jkmcpherson)](https://github.com/LordDashMe/github-contribution-stats/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmcpherson&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
