@@ -2,5 +2,3 @@ about
 usage
 render-book
 preview-book
-genomics
-bench-top-techniques
