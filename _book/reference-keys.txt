@@ -14,6 +14,7 @@ scientific-programming-bioinformatics-computational-biology
 genomics-1
 metagenomics
 pharmacology
+receptor-theory
 favorite-journals
 pharmacy-practice
 pharmacy-practice-1
