@@ -2,3 +2,6 @@ about
 usage
 render-book
 preview-book
+statistics
+genomics
+pharmacology
