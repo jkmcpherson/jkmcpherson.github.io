@@ -4,10 +4,12 @@ You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1Xe
 such as my first first-author publication in the journal Antimicrobial Agents and Chemotherapy [![DOI:10.1128/aac.02244-21](https://zenodo.org/badge/DOI/10.1128/aac.02244-21.svg)](https://doi.org/10.1128/aac.02244-21)
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1128/aac.02244-21)](https://juleskreuer.eu/projekte/citation-badge/)
 
+[![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
+[![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
 [![Twitter Followers](https://badgen.net/twitter/follow/jk_mcpherson)](https://twitter.com/jk_mcpherson)
 
-My [**Netlify Gitbook**](https://jkmcpherson.netlify.app/) organizes my resources
+My [**Gitbook**](https://jkmcpherson.netlify.app/) was made with [**Bookdown**](https://github.com/rstudio/bookdown) created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
 
@@ -55,11 +57,6 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 <a href="https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/thumbnails/purrr-cheatsheet-thumbs.png" width="630" height="252"/></a>
 
 
-[![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
-[![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
-
-
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nature)](https://twitter.com/Nature) 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=thelancet)](https://twitter.com/TheLancet) 
 
-This is an example of a [**Bookdown**](https://github.com/rstudio/bookdown) book based on [**R Markdown**](https://github.com/rstudio/rmarkdown), created by by [*Yi Hui*](https://bookdown.org/yihui/bookdown/) with [*reference documentation*](https://pkgs.rstudio.com/bookdown)
