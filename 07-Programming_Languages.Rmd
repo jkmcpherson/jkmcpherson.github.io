@@ -1,0 +1,51 @@
+# Computer Science
+
+## Computer science communities
+
+[R]([https://www.r-project.org/),](https://www.r-project.org/),)
+
+[RStudio]([https://www.rstudio.com/),](https://www.rstudio.com/),)
+
+[Tidyverse]([https://www.tidyverse.org/),](https://www.tidyverse.org/),)
+
+[Bookdown]([https://bookdown.org/),](https://bookdown.org/),)
+
+[Python]([https://www.python.org/),](https://www.python.org/),)
+
+[BioPython]([https://biopython.org/),](https://biopython.org/),)
+
+[Anaconda]([https://www.anaconda.com/)](https://www.anaconda.com/)) ,
+
+[Julia]([https://julialang.org/),](https://julialang.org/),)
+
+[Docker]([https://www.docker.com/),](https://www.docker.com/),)
+
+[Git]([https://git-scm.com/),](https://git-scm.com/),)
+
+[GitHub \*\*Co-pilot\*\*]([https://github.com/features/copilot),](https://github.com/features/copilot),)
+
+[LaTeX]([https://www.latex-project.org/),](https://www.latex-project.org/),)
+
+[VSCode]([https://code.visualstudio.com/),](https://code.visualstudio.com/),)
+
+[AWS]([https://aws.amazon.com/),](https://aws.amazon.com/),)
+
+[Ubuntu]([https://www.ubuntu.com)](https://www.ubuntu.com))
+
+## Containerization Learning Resources
+
+[The Official Docker Labs]([https://github.com/docker/labs)](https://github.com/docker/labs)) by [Docker]([https://github.com/docker),](https://github.com/docker),)
+
+[The #1 Docker Labs]([https://dockerlabs.collabnix.com/)](https://dockerlabs.collabnix.com/)) and [Kubernetes Labs]([https://collabnix.github.io/kubelabs/)](https://collabnix.github.io/kubelabs/)) by [Collabnix]([https://github.com/collabnix/),](https://github.com/collabnix/),)
+
+[Containerization Training]([https://container.training/)](https://container.training/)) by [J. Petazzo]([https://github.com/jpetazzo/),](https://github.com/jpetazzo/),)
+
+[The Docker \*for beginniners\* Curriculum]([https://docker-curriculum.com/)](https://docker-curriculum.com/)) by [P. Srivastav]([https://github.com/prakhar1989/)](https://github.com/prakhar1989/))
+
+## \*\*Academic Programming\*\* 
+
+Read in [Zotero]([https://github.com/zotero/zotero)](https://github.com/zotero/zotero)) and cite using [citr]([https://github.com/crsh/citr)](https://github.com/crsh/citr)) for RStudio; optional: VSCode using [Citation Picker]([https://github.com/mblode/vscode-zotero)](https://github.com/mblode/vscode-zotero)) and [Better BibTeX]([https://github.com/retorquere/zotero-better-bibtex)](https://github.com/retorquere/zotero-better-bibtex))
+
+\*\*I made a public [Zotero]([https://www.zotero.org/groups/4734738/jacobs_public_papers/library)](https://www.zotero.org/groups/4734738/jacobs_public_papers/library))
+
+for your reading enjoyment\*\*

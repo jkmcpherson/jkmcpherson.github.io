@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 5 Favorite Journals | A Minimal Book Example</title>
+  <meta name="description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  <meta name="generator" content="bookdown 0.27.1 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 5 Favorite Journals | A Minimal Book Example" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 5 Favorite Journals | A Minimal Book Example" />
+  
+  <meta name="twitter:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  
+
+<meta name="author" content="John Doe" />
+
+
+<meta name="date" content="2022-07-20" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="pharmacology.html"/>
+<link rel="next" href="pharmacy-practice.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Minimal Book Example</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> About</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#usage"><i class="fa fa-check"></i><b>1.1</b> Usage</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#render-book"><i class="fa fa-check"></i><b>1.2</b> Render book</a></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#preview-book"><i class="fa fa-check"></i><b>1.3</b> Preview book</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="statistics.html"><a href="statistics.html"><i class="fa fa-check"></i><b>2</b> Statistics</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="statistics.html"><a href="statistics.html#introductory-r"><i class="fa fa-check"></i><b>2.1</b> Introductory R</a></li>
+<li class="chapter" data-level="2.2" data-path="statistics.html"><a href="statistics.html#advanced-r"><i class="fa fa-check"></i><b>2.2</b> Advanced R</a></li>
+<li class="chapter" data-level="2.3" data-path="statistics.html"><a href="statistics.html#introductory-statistical-programming"><i class="fa fa-check"></i><b>2.3</b> Introductory Statistical Programming</a></li>
+<li class="chapter" data-level="2.4" data-path="statistics.html"><a href="statistics.html#intermediate-statistical-programming"><i class="fa fa-check"></i><b>2.4</b> Intermediate Statistical Programming</a></li>
+<li class="chapter" data-level="2.5" data-path="statistics.html"><a href="statistics.html#advanced-statistical-programming"><i class="fa fa-check"></i><b>2.5</b> Advanced Statistical Programming</a></li>
+<li class="chapter" data-level="2.6" data-path="statistics.html"><a href="statistics.html#data-visualization"><i class="fa fa-check"></i><b>2.6</b> Data Visualization</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="genomics.html"><a href="genomics.html"><i class="fa fa-check"></i><b>3</b> Genomics</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="genomics.html"><a href="genomics.html#scientific-programming-bioinformatics-computational-biology"><i class="fa fa-check"></i><b>3.1</b> **Scientific Programming: Bioinformatics &amp; Computational Biology**</a>
+<ul>
+<li class="chapter" data-level="3.1.1" data-path="genomics.html"><a href="genomics.html#genomics-1"><i class="fa fa-check"></i><b>3.1.1</b> Genomics</a></li>
+<li class="chapter" data-level="3.1.2" data-path="genomics.html"><a href="genomics.html#metagenomics"><i class="fa fa-check"></i><b>3.1.2</b> Metagenomics</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="pharmacology.html"><a href="pharmacology.html"><i class="fa fa-check"></i><b>4</b> Pharmacology</a></li>
+<li class="chapter" data-level="5" data-path="favorite-journals.html"><a href="favorite-journals.html"><i class="fa fa-check"></i><b>5</b> Favorite Journals</a></li>
+<li class="chapter" data-level="6" data-path="pharmacy-practice.html"><a href="pharmacy-practice.html"><i class="fa fa-check"></i><b>6</b> Pharmacy Practice</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="pharmacy-practice.html"><a href="pharmacy-practice.html#pharmacy-practice-1"><i class="fa fa-check"></i><b>6.1</b> Pharmacy Practice</a></li>
+<li class="chapter" data-level="6.2" data-path="pharmacy-practice.html"><a href="pharmacy-practice.html#clinical-guidelines"><i class="fa fa-check"></i><b>6.2</b> Clinical Guidelines</a></li>
+<li class="chapter" data-level="6.3" data-path="pharmacy-practice.html"><a href="pharmacy-practice.html#top-clinical-journals"><i class="fa fa-check"></i><b>6.3</b> Top Clinical Journals</a></li>
+<li class="chapter" data-level="6.4" data-path="pharmacy-practice.html"><a href="pharmacy-practice.html#my-favorite-clinical-review-journals"><i class="fa fa-check"></i><b>6.4</b> My Favorite Clinical Review Journals</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="artificial-intelligence.html"><a href="artificial-intelligence.html"><i class="fa fa-check"></i><b>7</b> Artificial Intelligence</a></li>
+<li class="chapter" data-level="8" data-path="computer-science.html"><a href="computer-science.html"><i class="fa fa-check"></i><b>8</b> Computer Science</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="computer-science.html"><a href="computer-science.html#computer-science-communities"><i class="fa fa-check"></i><b>8.1</b> Computer science communities</a></li>
+<li class="chapter" data-level="8.2" data-path="computer-science.html"><a href="computer-science.html#containerization-learning-resources"><i class="fa fa-check"></i><b>8.2</b> Containerization Learning Resources</a></li>
+<li class="chapter" data-level="8.3" data-path="computer-science.html"><a href="computer-science.html#academic-programming"><i class="fa fa-check"></i><b>8.3</b> **Academic Programming**</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="structural-biology.html"><a href="structural-biology.html"><i class="fa fa-check"></i><b>9</b> Structural Biology</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="structural-biology.html"><a href="structural-biology.html#cryogenic-electronic-microscopy-cryoem"><i class="fa fa-check"></i><b>9.1</b> Cryogenic electronic microscopy (CryoEM)</a></li>
+<li class="chapter" data-level="9.2" data-path="structural-biology.html"><a href="structural-biology.html#x-ray-crystallography"><i class="fa fa-check"></i><b>9.2</b> X-Ray Crystallography</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="in-silico-docking.html"><a href="in-silico-docking.html"><i class="fa fa-check"></i><b>10</b> <em>In Silico</em> Docking</a></li>
+<li class="chapter" data-level="11" data-path="microscopy.html"><a href="microscopy.html"><i class="fa fa-check"></i><b>11</b> Microscopy</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">A Minimal Book Example</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="favorite-journals" class="section level1 hasAnchor" number="5">
+<h1><span class="header-section-number">Chapter 5</span> Favorite Journals<a href="favorite-journals.html#favorite-journals" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>**Academic Journals** starting with</p>
+<p><a href="%5Bhttps://www.scopus.com/">SCOUPS</a>](<a href="https://www.scopus.com/" class="uri">https://www.scopus.com/</a>)) that typically directs me to</p>
+<p><a href="%5Bhttps://www.nature.com/">*Nature*</a>,](<a href="https://www.nature.com/" class="uri">https://www.nature.com/</a>),)</p>
+<p><a href="%5Bhttps://www.science.org/">*Science*</a>,](<a href="https://www.science.org/" class="uri">https://www.science.org/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/nm/">*Nature Medicine*</a>,](<a href="https://www.nature.com/nm/" class="uri">https://www.nature.com/nm/</a>),)</p>
+<p><a href="%5Bhttps://www.science.org/journal/stm">*Science Translational Medicine*</a>](<a href="https://www.science.org/journal/stm" class="uri">https://www.science.org/journal/stm</a>))</p>
+<p>**Laboratory methods** in</p>
+<p><a href="%5Bhttps://www.nature.com/nmeth/">*Nature Methods*</a>,](<a href="https://www.nature.com/nmeth/" class="uri">https://www.nature.com/nmeth/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/nprot/">*Nature Protocols*</a>,](<a href="https://www.nature.com/nprot/" class="uri">https://www.nature.com/nprot/</a>),) and</p>
+<p><a href="%5Bhttps://experiments.springernature.com/">Springer|Nature Experiments</a>](<a href="https://experiments.springernature.com/" class="uri">https://experiments.springernature.com/</a>))</p>
+<p>**Cellular, Molecular Biology** in</p>
+<p><a href="%5Bhttps://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/">Bruce Albert’s ‘Molecular Biology of the Cell’</a>](<a href="https://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/" class="uri">https://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/</a>))</p>
+<p><a href="%5Bhttps://www.nature.com/nrm/">*Nature Reviews Molecular Cell Biology*</a>,](<a href="https://www.nature.com/nrm/" class="uri">https://www.nature.com/nrm/</a>),)</p>
+<p><a href="%5Bhttps://www.cell.com/">*Cell Press*</a>,](<a href="https://www.cell.com/" class="uri">https://www.cell.com/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/nsmb/">*Nature Structural &amp; Molecular Biology*</a>,](<a href="https://www.nature.com/nsmb/" class="uri">https://www.nature.com/nsmb/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/sigtrans/">*Signal Transduction and Targeted Therapy*</a>,](<a href="https://www.nature.com/sigtrans/" class="uri">https://www.nature.com/sigtrans/</a>),) and</p>
+<p><a href="%5Bhttps://www.science.org/journal/signaling">*Science Signaling*</a>](<a href="https://www.science.org/journal/signaling" class="uri">https://www.science.org/journal/signaling</a>))</p>
+<p>**Pharmacology of receptor theory** in</p>
+<p><a href="%5Bhttps://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer">Terry Kenakin’s ‘A Pharmacology Primer’</a>,](<a href="https://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer" class="uri">https://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer</a>),)</p>
+<p><a href="%5Bhttps://pharmrev.aspetjournals.org/">*Pharmacological Reviews*</a>,](<a href="https://pharmrev.aspetjournals.org/" class="uri">https://pharmrev.aspetjournals.org/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/nrd/">*Nature Reviews Drug Discovery*</a>,](<a href="https://www.nature.com/nrd/" class="uri">https://www.nature.com/nrd/</a>),) the</p>
+<p><a href="%5Bhttps://bpspubs.onlinelibrary.wiley.com/journal/14765381">*British Journal of Pharmacology* (BPJ)</a>,](<a href="https://bpspubs.onlinelibrary.wiley.com/journal/14765381" class="uri">https://bpspubs.onlinelibrary.wiley.com/journal/14765381</a>),) and the</p>
+<p><a href="%5Bhttps://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics">*Journal of Pharmacology and Experimental Therapeutics* (JPET)</a>](<a href="https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics" class="uri">https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics</a>))</p>
+<p>**Clinical microbiology, metagenomics and microbial ecology (microbiome sciences)** in</p>
+<p><a href="%5Bhttps://www.amazon.com/Clinical-Microbiology-Twelfth-Michael-Pfaller/dp/1555819834">Manual of Clinical Microbiology</a>](<a href="https://www.amazon.com/Clinical-Microbiology-Twelfth-Michael-Pfaller/dp/1555819834" class="uri">https://www.amazon.com/Clinical-Microbiology-Twelfth-Michael-Pfaller/dp/1555819834</a>))</p>
+<p><a href="%5Bhttps://www.amazon.com/Principles-Virology-Multi-ASM-Books/dp/1683670329/">Principles of Virology</a>](<a href="https://www.amazon.com/Principles-Virology-Multi-ASM-Books/dp/1683670329/" class="uri">https://www.amazon.com/Principles-Virology-Multi-ASM-Books/dp/1683670329/</a>))</p>
+<p><a href="%5Bhttps://www.nature.com/nrmicro/">*Nature Reviews Microbiology*</a>,](<a href="https://www.nature.com/nrmicro/" class="uri">https://www.nature.com/nrmicro/</a>),)</p>
+<p><a href="%5Bhttps://journals.asm.org/journal/cmr">*Clinical Microbiology Reviews*</a>,](<a href="https://journals.asm.org/journal/cmr" class="uri">https://journals.asm.org/journal/cmr</a>),)</p>
+<p><a href="%5Bhttps://journals.asm.org/journal/jcm">*Journal of Clinical Microbiology* (J Clin Micro)</a>,](<a href="https://journals.asm.org/journal/jcm" class="uri">https://journals.asm.org/journal/jcm</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/nmicrobiol/">*Nature Microbiology*</a>,](<a href="https://www.nature.com/nmicrobiol/" class="uri">https://www.nature.com/nmicrobiol/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/ismej/">*International Society for Microbial Ecology Journal* (ISMEJ)</a>,](<a href="https://www.nature.com/ismej/" class="uri">https://www.nature.com/ismej/</a>),)</p>
+<p><a href="%5Bhttps://www.cell.com/cell-host-microbe/">*Cell Host &amp; Microbe*</a>,](<a href="https://www.cell.com/cell-host-microbe/" class="uri">https://www.cell.com/cell-host-microbe/</a>),) the</p>
+<p><a href="%5Bhttps://www.nature.com/subjects/microbiology/nature">*Nature* subject/Microbiology</a>](<a href="https://www.nature.com/subjects/microbiology/nature" class="uri">https://www.nature.com/subjects/microbiology/nature</a>)) which includes the more narrow subjects</p>
+<p><a href="%5Bhttps://www.nature.com/subjects/microbiome/nature">*Nature* subject/Microbiome</a>,](<a href="https://www.nature.com/subjects/microbiome/nature" class="uri">https://www.nature.com/subjects/microbiome/nature</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/subjects/communities/nature">*Nature* subject/Communities</a>,](<a href="https://www.nature.com/subjects/communities/nature" class="uri">https://www.nature.com/subjects/communities/nature</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/subjects/metagenomics/nature">*Nature* subject/Metagenomics</a>,](<a href="https://www.nature.com/subjects/metagenomics/nature" class="uri">https://www.nature.com/subjects/metagenomics/nature</a>),) and the ecology &amp; evolution journals</p>
+<p><a href="%5Bhttps://www.annualreviews.org/journal/ecolsys">*Annual Review of Ecology, Evolution and Systematics*</a>,](<a href="https://www.annualreviews.org/journal/ecolsys" class="uri">https://www.annualreviews.org/journal/ecolsys</a>),) and</p>
+<p><a href="%5Bhttps://www.nature.com/natecolevol/">*Nature Ecology and Evolution*</a>](<a href="https://www.nature.com/natecolevol/" class="uri">https://www.nature.com/natecolevol/</a>))</p>
+<p>**Infectious Diseases and antimicrobial stewardship pharmacy practice** in</p>
+<p><a href="%5Bhttps://journals.asm.org/journal/aac">*Antimicrobial Agents and Chemotherapy* (AAC)</a>,](<a href="https://journals.asm.org/journal/aac" class="uri">https://journals.asm.org/journal/aac</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/subjects/antimicrobials/nature">*Nature* subject/Antimicrobials</a>,](<a href="https://www.nature.com/subjects/antimicrobials/nature" class="uri">https://www.nature.com/subjects/antimicrobials/nature</a>),)</p>
+<p><a href="%5Bhttps://academic.oup.com/cid">*Clinical Infectious Diseases* (CID)</a>,](<a href="https://academic.oup.com/cid" class="uri">https://academic.oup.com/cid</a>),)</p>
+<p><a href="%5Bhttps://www.thelancet.com/journals/laninf/home">*The Lancet Infectious Diseases*</a>,](<a href="https://www.thelancet.com/journals/laninf/home" class="uri">https://www.thelancet.com/journals/laninf/home</a>),)</p>
+<p><a href="%5Bhttps://www.nejm.org/infectious-disease">*NEJM Infectious Diseases*</a>,](<a href="https://www.nejm.org/infectious-disease" class="uri">https://www.nejm.org/infectious-disease</a>),) and the CDC’s</p>
+<p><a href="%5Bhttps://www.cdc.gov/mmwr/">*Morbidity and Mortality Weekly Report* (MMWR)</a>](<a href="https://www.cdc.gov/mmwr/" class="uri">https://www.cdc.gov/mmwr/</a>)) and</p>
+<p><a href="%5Bhttps://wwwnc.cdc.gov/eid/">*Emerging Infectious Diseases* (EID)</a>](<a href="https://wwwnc.cdc.gov/eid/" class="uri">https://wwwnc.cdc.gov/eid/</a>))</p>
+<p>**Nucleic Acid Biochemistry**</p>
+<p><a href="%5Bhttps://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/">Baxevanis, Bader &amp; Wishart’s ‘Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins’</a>,](<a href="https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/" class="uri">https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/</a>),)</p>
+<p><a href="%5Bhttps://academic.oup.com/bioinformatics/">*Bioinformatics*</a>,](<a href="https://academic.oup.com/bioinformatics/" class="uri">https://academic.oup.com/bioinformatics/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/ng/">*Nature Genetics*</a>,](<a href="https://www.nature.com/ng/" class="uri">https://www.nature.com/ng/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/nrg/">*Nature Reviews Genetics*</a>,](<a href="https://www.nature.com/nrg/" class="uri">https://www.nature.com/nrg/</a>),)</p>
+<p><a href="%5Bhttps://genomebiology.biomedcentral.com/">*Genome Biology*</a>,](<a href="https://genomebiology.biomedcentral.com/" class="uri">https://genomebiology.biomedcentral.com/</a>),)</p>
+<p><a href="%5Bhttps://academic.oup.com/nar/">*Nucleic Acids Research*</a>,](<a href="https://academic.oup.com/nar/" class="uri">https://academic.oup.com/nar/</a>),) the</p>
+<p><a href="%5Bhttps://www.annualreviews.org/journal/genet">*Annual Review of Genetics*</a>,](<a href="https://www.annualreviews.org/journal/genet" class="uri">https://www.annualreviews.org/journal/genet</a>),) and the</p>
+<p><a href="%5Bhttps://www.annualreviews.org/journal/genom">*Annual Review of Genomics and Human Genetics*</a>](<a href="https://www.annualreviews.org/journal/genom" class="uri">https://www.annualreviews.org/journal/genom</a>))</p>
+<p>**Immunology** in</p>
+<p><a href="%5Bhttps://www.nature.com/ni/">*Nature Immunology*</a>,](<a href="https://www.nature.com/ni/" class="uri">https://www.nature.com/ni/</a>),)</p>
+<p><a href="%5Bhttps://www.nature.com/nri/">*Nature Reviews Immunology*</a>,](<a href="https://www.nature.com/nri/" class="uri">https://www.nature.com/nri/</a>),)</p>
+<p><a href="%5Bhttps://www.science.org/toc/sciimmunol/current">*Science Immunology*</a>,](<a href="https://www.science.org/toc/sciimmunol/current" class="uri">https://www.science.org/toc/sciimmunol/current</a>),) and</p>
+<p><a href="%5Bhttps://www.nature.com/mi/">*Mucosal Immunology*</a>](<a href="https://www.nature.com/mi/" class="uri">https://www.nature.com/mi/</a>))</p>
+<p>**Artificial Intelligence** in</p>
+<p><a href="%5Bhttps://www.nature.com/natmachintell/">*Nature Machine Intelligence*</a>,](<a href="https://www.nature.com/natmachintell/" class="uri">https://www.nature.com/natmachintell/</a>),)</p>
+<p><a href="%5Bhttps://www.science.org/journal/scirobotics">*Science Robototics*</a>,](<a href="https://www.science.org/journal/scirobotics" class="uri">https://www.science.org/journal/scirobotics</a>),) the</p>
+<p><a href="%5Bhttps://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">*IEEE Transactions on Pattern Analysis and Machine Intelligence*</a>,](<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="uri">https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34</a>),)</p>
+<p><a href="%5Bhttps://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">*IEEE Transactions on Neural Networks and Learning Systems*</a>,](<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" class="uri">https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385</a>),) the</p>
+<p><a href="%5Bhttps://onlinelibrary.wiley.com/journal/1098111x">*International Journal of Intelligent Systems*</a>](<a href="https://onlinelibrary.wiley.com/journal/1098111x" class="uri">https://onlinelibrary.wiley.com/journal/1098111x</a>))</p>
+<p><a href="%5Bhttps://www.journals.elsevier.com/information-sciences">*Information Sciences*</a>,](<a href="https://www.journals.elsevier.com/information-sciences" class="uri">https://www.journals.elsevier.com/information-sciences</a>),) the</p>
+<p><a href="%5Bhttps://www.sciencedirect.com/journal/physics-of-life-reviews">*Physics of Life Review*</a>,](<a href="https://www.sciencedirect.com/journal/physics-of-life-reviews" class="uri">https://www.sciencedirect.com/journal/physics-of-life-reviews</a>),)</p>
+<p><a href="%5Bhttps://www.springer.com/journal/10462">*Artificial Intelligence Review*</a>,](<a href="https://www.springer.com/journal/10462" class="uri">https://www.springer.com/journal/10462</a>),)</p>
+<p><a href="%5Bhttps://www.journals.elsevier.com/knowledge-based-systems">*Knowledge-Based Systems*</a>,](<a href="https://www.journals.elsevier.com/knowledge-based-systems" class="uri">https://www.journals.elsevier.com/knowledge-based-systems</a>),)</p>
+<p><a href="%5Bhttps://www.journals.elsevier.com/neural-networks">*Neural Networks*</a>,](<a href="https://www.journals.elsevier.com/neural-networks" class="uri">https://www.journals.elsevier.com/neural-networks</a>),)</p>
+<p><a href="%5Bhttps://www.springer.com/journal/521">*Neural Computing and Applications*</a>,](<a href="https://www.springer.com/journal/521" class="uri">https://www.springer.com/journal/521</a>),) the</p>
+<p><a href="%5Bhttps://www.springer.com/journal/11263">*International Journal of Computer Vision*</a>,](<a href="https://www.springer.com/journal/11263" class="uri">https://www.springer.com/journal/11263</a>),) and the journal</p>
+<p><a href="%5Bhttps://www.sciencedirect.com/journal/pattern-recognition">*Pattern Recognition*</a>](<a href="https://www.sciencedirect.com/journal/pattern-recognition" class="uri">https://www.sciencedirect.com/journal/pattern-recognition</a>))</p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="pharmacology.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="pharmacy-practice.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/jkmcpherson/jkmcpherson/edit/master/04-Favorite_Journals.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["_main.pdf", "_main.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>
