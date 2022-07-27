@@ -1,5 +1,5 @@
 --- 
-title: "Computers Meet Pharmacology"
+title: "Jacob McPherson, PharmD"
 author: "Jacob McPherson"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site

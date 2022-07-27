@@ -2,78 +2,76 @@
 
 ## Pharmacy Practice
 
-[APhA's](%5Bhttps://www.pharmacist.com/)](<https://www.pharmacist.com/>)) [JAPhA](%5Bhttps://www.japha.org/),](<https://www.japha.org/>),)
+[APhA](https://www.pharmacist.com/){.uri} [JAPhA](https://www.japha.org/){.uri}
 
-[ASHP's](%5Bhttps://www.ashp.org/)](<https://www.ashp.org/>)) [AJHP](%5Bhttps://academic.oup.com/ajhp),](<https://academic.oup.com/ajhp>),)
+[ASHP](https://www.ashp.org/){.uri} [AJHP](https://academic.oup.com/ajhp){.uri}
 
-[ACCP's](%5Bhttps://www.accp.com/)](<https://www.accp.com/>)) [\*Pharmacotherapy\*](%5Bhttps://accpjournals.onlinelibrary.wiley.com/journal/18759114),](<https://accpjournals.onlinelibrary.wiley.com/journal/18759114>),)
+[ACCP](https://www.accp.com/){.uri} [Pharmacotherapy](https://accpjournals.onlinelibrary.wiley.com/journal/18759114){.uri}
 
-[TSHP](%5Bhttps://tshp.org/),](<https://tshp.org/>),)
+[TSHP](https://tshp.org/){.uri}
 
-[TPA](%5Bhttps://www.texaspharmacy.org/),](<https://www.texaspharmacy.org/>),)
+[TPA](https://www.texaspharmacy.org/){.uri}
 
-[TSBP](%5Bhttps://www.pharmacy.texas.gov/),](<https://www.pharmacy.texas.gov/>),)
+[TSBP](https://www.pharmacy.texas.gov/){.uri}
 
-[NABP](%5Bhttps://nabp.pharmacy/),](<https://nabp.pharmacy/>),)
+[NABP](https://nabp.pharmacy/){.uri}
 
-[FDA](%5Bhttps://www.fda.gov/),](<https://www.fda.gov/>),)
+[FDA](https://www.fda.gov/){.uri}
 
-[CMS](%5Bhttps://www.cms.gov/),](<https://www.cms.gov/>),)
+[CMS](https://www.cms.gov/){.uri}
 
-[JCo](%5Bhttps://www.jointcommission.org/),](<https://www.jointcommission.org/>),)
+[TJC](https://www.jointcommission.org/){.uri}
 
-[ISMP](%5Bhttps://www.ismp.org/),](<https://www.ismp.org/>),)
+[ISMP](https://www.ismp.org/){.uri}
 
-[Sanford Guide](%5Bhttps://www.sanfordguide.com/),](<https://www.sanfordguide.com/>),)
+[The Sanford Guide](https://www.sanfordguide.com/){.uri}
 
-[UpToDate](%5Bhttps://www.uptodate.com/login)](<https://www.uptodate.com/login>)) &
+[UpToDate](https://www.uptodate.com/login){.uri}
 
-[LexiComp](%5Bhttps://online.lexi.com/lco/action/home),](<https://online.lexi.com/lco/action/home>),)
+[Lexicomp](https://online.lexi.com/lco/action/home){.uri}
 
-[DailyMed](%5Bhttps://dailymed.nlm.nih.gov/dailymed/index.cfm),](<https://dailymed.nlm.nih.gov/dailymed/index.cfm>),)
+[Daily Med](https://dailymed.nlm.nih.gov/dailymed/index.cfm){.uri}
 
-[ClinicalTrials.gov](%5Bhttps://beta.clinicaltrials.gov/)](<https://beta.clinicaltrials.gov/>))
+[ClinicalTrials.Gov](https://beta.clinicaltrials.gov/){.uri}
 
 ## Clinical Guidelines
 
-[IDSA](%5Bhttps://www.idsociety.org/practice-guideline/alphabetical-guidelines/),](<https://www.idsociety.org/practice-guideline/alphabetical-guidelines/>),)
+[IDSA](https://www.idsociety.org/practice-guideline/alphabetical-guidelines/){.uri}
 
-[ACC](%5Bhttps://www.acc.org/guidelines),](<https://www.acc.org/guidelines>),)
+[ACC](https://www.acc.org/guidelines){.uri}
 
-[ACOG](%5Bhttps://www.acog.org/clinical/clinical-guidance/practice-bulletin),](<https://www.acog.org/clinical/clinical-guidance/practice-bulletin>),)
+[ACOG](https://www.acog.org/clinical/clinical-guidance/practice-bulletin){.uri}
 
-[ASH](%5Bhttps://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines)](<https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines>))
+[ASH](https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines){.uri}
 
-[ADA](%5Bhttps://diabetesjournals.org/care/issue/45/Supplement_1),](<https://diabetesjournals.org/care/issue/45/Supplement_1>),)
+[ADA](https://diabetesjournals.org/care/issue/45/Supplement_1){.uri}
 
-[ACG](%5Bhttps://gi.org/guidelines/),](<https://gi.org/guidelines/>),)
+[ACG](https://gi.org/guidelines/){.uri}
 
-[KDIGO](%5Bhttps://kdigo.org/guidelines/),](<https://kdigo.org/guidelines/>),)
+[KDIGO](https://kdigo.org/guidelines/){.uri}
 
-[AAN](%5Bhttps://www.aan.com/practice/guidelines),](<https://www.aan.com/practice/guidelines>),)
+[AAN](https://www.aan.com/practice/guidelines){.uri}
 
-[APA](%5Bhttps://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines),](<https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines>),)
+[APA](https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines){.uri}
 
-[ASCO](%5Bhttps://www.asco.org/practice-patients/guidelines),](<https://www.asco.org/practice-patients/guidelines>),)
+[NCCN](https://www.nccn.org/guidelines/category_1){.uri}
 
-[NCCN](%5Bhttps://www.nccn.org/guidelines/category_1),](<https://www.nccn.org/guidelines/category_1>),)
+[ASCO](https://www.asco.org/practice-patients/guidelines){.uri}
 
-[CHEST](%5Bhttps://journal.chestnet.org/guidelines),](<https://journal.chestnet.org/guidelines>),)
+[CHEST](https://journal.chestnet.org/guidelines){.uri}
 
-[ATS](%5Bhttps://www.thoracic.org/statements/index.php),](<https://www.thoracic.org/statements/index.php>),)
+[ATS](https://www.thoracic.org/statements/index.php){.uri}
 
-[ACR](%5Bhttps://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines),](<https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines>),)
+[ARA](https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines){.uri}
 
-[HIV.gov](%5Bhttps://clinicalinfo.hiv.gov/en/guidelines),](<https://clinicalinfo.hiv.gov/en/guidelines>),)
+[HIV.gov](https://clinicalinfo.hiv.gov/en/guidelines){.uri}
 
 ## Top Clinical Journals
 
-[\*The Lancet\*](%5Bhttps://www.thelancet.com/),](<https://www.thelancet.com/>),)
+[The Lancet](https://www.thelancet.com/){.uri}
 
-[\*New England Journal of Medicine\* (NEJM)](%5Bhttps://www.nejm.org/),](<https://www.nejm.org/>),)
+[New England Journal of Medicine](https://www.nejm.org/){.uri}
 
 ## My Favorite Clinical Review Journals
 
-[\*Nature Reviews Disease Primers\* (NRDP)](%5Bhttps://www.nature.com/nrdp/),](<https://www.nature.com/nrdp/>),) and
-
-[\*Physiological Reviews\*](%5Bhttps://journals.physiology.org/journal/physrev)](<https://journals.physiology.org/journal/physrev>))
+[Nature Reviews Disease Primers](https://www.nature.com/nrdp/){.uri}
