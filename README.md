@@ -4,7 +4,8 @@
 [![Twitter Followers](https://badgen.net/twitter/follow/IDPharmDPhD)](https://twitter.com/IDPharmDPhD)
 
 You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945)
-such as my first first-author publication in the journal Antimicrobial Agents and Chemotherapy [![DOI:10.1128/aac.02244-21](https://zenodo.org/badge/DOI/10.1128/aac.02244-21.svg)](https://doi.org/10.1128/aac.02244-21)
+
+My first first-author publication is out in the journal Antimicrobial Agents and Chemotherapy [![DOI:10.1128/aac.02244-21](https://zenodo.org/badge/DOI/10.1128/aac.02244-21.svg)](https://doi.org/10.1128/aac.02244-21)
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1128/aac.02244-21)](https://doi.org/10.1128/aac.02244-21)
 
 ## Check out [**My Gitbook**](https://jkmcpherson.netlify.app/) [![**Netlify Success**](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jkmcpherson/deploys)
