@@ -1,7 +1,6 @@
 ## Welcome to my [README](https://jkmcpherson.github.io/jkmcpherson/)
 
 [![GitHub followers](https://img.shields.io/github/followers/jkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jkmcpherson?tab=followers)
-[![Twitter Followers](https://badgen.net/twitter/follow/IDPharmDPhD)](https://twitter.com/IDPharmDPhD)
 
 You can find my publications at [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/), [Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jacob-Mcpherson), [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=57204192355), or [ORCID](https://orcid.org/0000-0001-5486-4945)
 
@@ -39,7 +38,6 @@ Made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui
 [![SIB](https://yt3.ggpht.com/ytc/AKedOLSGzDFnhzBwo43eki4EttC5ILDftOVIMO1mD3ZJgQ=s88-c-k-c0x00ffffff-no-rj)](https://www.sib.swiss/)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jkmcpherson)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmcpherson&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- badges: start -->
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
@@ -55,10 +53,3 @@ coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](
 [![Codecov test coverage](https://codecov.io/gh/tidyverse/purrr/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/purrr?branch=main)
 <!-- badges: end -->
 <a href="https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/thumbnails/purrr-cheatsheet-thumbs.png" width="630" height="252"/></a>
-
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nature)](https://twitter.com/Nature) 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=thelancet)](https://twitter.com/TheLancet) 
-
-[![GitHub forks](https://img.shields.io/github/forks/jkmcpherson/jkmcpherson?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
-[![GitHub stars](https://img.shields.io/github/stars/jkmcpherson/jkmcpherson?style=social&label=Star&maxAge=2592000)](https://GitHub.com/jkmcpherson/jkmcpherson/)
