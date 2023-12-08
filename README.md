@@ -35,8 +35,6 @@ Made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jkmcpherson)](https://github.com/LordDashMe/github-contribution-stats/)
-
 <!-- badges: start -->
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
 [![R-CMD-check](https://github.com/tidyverse/ggplot2/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
@@ -44,10 +42,3 @@ Made with [**Bookdown**](https://github.com/rstudio/bookdown) thanks to [*Yi Hui
 coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/ggplot2?branch=main)
 <!-- badges: end -->
 <a href="https://github.com/rstudio/cheatsheets/blob/master/data-visualization.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/master/pngs/thumbnails/data-visualization-cheatsheet-thumbs.png" width="630" height="252"/></a>
-
-<!-- badges: start -->
-[![CRAN status](https://www.r-pkg.org/badges/version/dplyr)](https://cran.r-project.org/package=purrr)
-[![R-CMD-check](https://github.com/tidyverse/purrr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tidyverse/purrr/actions/workflows/R-CMD-check.yaml)
-[![Codecov test coverage](https://codecov.io/gh/tidyverse/purrr/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/purrr?branch=main)
-<!-- badges: end -->
-<a href="https://github.com/rstudio/cheatsheets/blob/main/purrr.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/main/pngs/thumbnails/purrr-cheatsheet-thumbs.png" width="630" height="252"/></a>
