@@ -1,0 +1,698 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Jacob McPherson, PharmD},
+  pdfauthor={Jacob McPherson},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Jacob McPherson, PharmD}
+\author{Jacob McPherson}
+\date{2024-06-27}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\chapter{About}\label{about}
+
+This is a \emph{sample} book written in \textbf{Markdown}. You can use anything that Pandoc's Markdown supports; for example, a math equation \(a^2 + b^2 = c^2\).
+
+\section{Usage}\label{usage}
+
+Each \textbf{bookdown} chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter \emph{must} start with a first-level heading: \texttt{\#\ A\ good\ chapter}, and can contain one (and only one) first-level heading.
+
+Use second-level and higher headings within chapters like: \texttt{\#\#\ A\ short\ section} or \texttt{\#\#\#\ An\ even\ shorter\ section}.
+
+The \texttt{index.Rmd} file is required, and is also your first book chapter. It will be the homepage when you render the book.
+
+\section{Render book}\label{render-book}
+
+You can render the HTML version of this example book without changing anything:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Find the \textbf{Build} pane in the RStudio IDE, and
+\item
+  Click on \textbf{Build Book}, then select your output format, or select ``All formats'' if you'd like to use multiple formats from the same book source files.
+\end{enumerate}
+
+Or build the book from the R console:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{bookdown}\SpecialCharTok{::}\FunctionTok{render\_book}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+To render this example to PDF as a \texttt{bookdown::pdf\_book}, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): \url{https://yihui.org/tinytex/}.
+
+\section{Preview book}\label{preview-book}
+
+As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in ``Preview book'', or from the R console:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{bookdown}\SpecialCharTok{::}\FunctionTok{serve\_book}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\chapter{Statistics}\label{statistics}
+
+\section{Introductory R}\label{introductory-r}
+
+The official CRAN `*Intro2R'* \url{https://cran.r-project.org/doc/manuals/r-release/R-intro.html},
+
+Wickham and Grolemund's *`R4DS'* \url{https://r4ds.had.co.nz/},
+
+Douglas et al.'s `*Intro2R'* \url{https://intro2r.com/}
+
+\section{Advanced R}\label{advanced-r}
+
+Wickham's *`Advanced R'* \url{https://adv-r.hadley.nz/},
+
+Wickham \& Bryan's *`R Packages'* \url{https://r-pkgs.org/},
+
+Jeroen Janssens's *`DS at the CL'* \url{https://www.datascienceatthecommandline.com/1e/},
+
+Other readings can include the RMarkdown and Bookdown readings:
+
+Xie, Dervieux \& Riederer's *`R Markdown Cookbook'* \url{https://bookdown.org/yihui/rmarkdown-cookbook/} and Xie, Allaire \& Grolemund's R Markdown: `*The Definitive Guide'* \url{https://bookdown.org/yihui/rmarkdown/},
+
+Xie's *`bookdown'* \url{https://bookdown.org/yihui/bookdown/} \& *`blogdown'* \url{https://bookdown.org/yihui/blogdown/}
+
+Lovelace, Nowosad \& Muenchow's *`Geocomputation in R'* \url{https://geocompr.robinlovelace.net/},
+
+Fay et al.'s *`Engineering Production-Grade Shiny Apps'* \url{https://engineering-shiny.org/}
+
+\section{Introductory Statistical Programming}\label{introductory-statistical-programming}
+
+I've found W. Chang's *`Cookbook for R'* \url{http://www.cookbook-r.com/}, UCLA's Intro to R \url{https://stats.oarc.ucla.edu/stat/data/intro_r/intro_r_interactive_flat.html} \& BU's Basic Statistical Analysis \url{https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/R/R-Manual/R-Manual_print.html} the best single-page introduction for teaching R for statistics
+
+Once you learn R and want a blend of R and statistical theory, A. Swoeney's \url{https://antoinesoetewey.com/} excellent \href{\%5Bhttps://github.com/AntoineSoetewey/statsandr}{`Stats and R' Blogdown}\url{https://github.com/AntoineSoetewey/statsandr} provides a PDF in `What statistical test should I do?' \url{https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf} that users click the end-node links to follow.
+
+More theory can be found at *Statistics for Biologists* \url{https://www.nature.com/collections/qghhqm} and its sub-page *Points of Significance* \url{https://www.nature.com/collections/qghhqm/pointsofsignificance}
+
+*Handbook of Statistical Analyses Using R* HSAUR 3rd ed.~\url{https://rdrr.io/cran/HSAUR3/} entirely available online as individual chapter PDFs, with the associated HSAUR3 \url{https://cran.r-project.org/web/packages/HSAUR3/index.html} package in CRAN with Vignettes and official documentation reference manual \url{https://cran.r-project.org/web/packages/HSAUR3/HSAUR3.pdf}
+
+\section{Intermediate Statistical Programming}\label{intermediate-statistical-programming}
+
+Regression: I've struggled to find reputable open-sourced pages of regression education, let alone incorporation in R, but the PSU STAT 501 \url{https://online.stat.psu.edu/stat501/} has caught my attention
+
+Ecology statistics with Oksanen's *vegan* GitHub \url{https://github.com/vegandevs/vegan}, rdocumentation \url{https://rdocumentation.org/packages/vegan} and CRAN \url{https://cran.r-project.org/web/packages/vegan/index.html}
+
+\section{Advanced Statistical Programming}\label{advanced-statistical-programming}
+
+High dimensional statistics can be learned from Borg \& Groenen's `*Modern Multidmensional Scaling'* \url{https://link.springer.com/book/10.1007/0-387-28981-X}
+
+\section{Data Visualization}\label{data-visualization}
+
+Data visualization should use ggplot2 from the Tidyverse \url{https://www.tidyverse.org/},
+
+Wickham's `*ggplot2'* \url{https://ggplot2-book.org/},
+
+Wilke's *`Fundamentals of Data Visualization'* \url{https://clauswilke.com/dataviz/},
+
+W. Chang's *`R Graphics Cookbook'* 2e \url{https://r-graphics.org/}, and
+
+**DEFINNITELY** give the ggplot2 extensions gallery \url{https://exts.ggplot2.tidyverse.org/gallery/} a peek, that I most highly recommend Patil's *ggstatplot* \url{https://github.com/IndrajeetPatil/ggstatsplot/}
+
+\chapter{Genomics}\label{genomics}
+
+\section{**Scientific Programming: Bioinformatics \& Computational Biology**}\label{scientific-programming-bioinformatics-computational-biology}
+
+\subsection{Genomics}\label{genomics-1}
+
+\href{\%5Bhttps://ncbiinsights.ncbi.nlm.nih.gov/}{National Center for Biotechnology and Information (NCBI)}{]}(\url{https://ncbiinsights.ncbi.nlm.nih.gov/}))
+
+\href{\%5Bhttps://www.bv-brc.org/}{The Bacterial and Viral Bioinformatics Resource Center (BVBRC)}{]}(\url{https://www.bv-brc.org/}))
+
+\href{\%5Bhttps://www.embl.org/}{European Molecular Biology Laboratories (EMBL)}{]}(\url{https://www.embl.org/})) \href{\%5Bhttps://www.ebi.ac.uk/research}{European Bioinformatics Institute (EBI)}{]}(\url{https://www.ebi.ac.uk/research}))
+
+\href{\%5Bhttps://www.qiagen.com/us/knowledge-and-support/knowledge-hub}{QIAGEN's Knowledge Hub},{]}(\url{https://www.qiagen.com/us/knowledge-and-support/knowledge-hub}),) \href{\%5Bhttps://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide}{Bench Guide}{]}(\url{https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide})) and \href{\%5Bhttps://digitalinsights.qiagen.com/}{Digital Insights},{]}(\url{https://digitalinsights.qiagen.com/}),)
+
+\href{\%5Bhttps://www.sib.swiss/}{Swiss Institute for Bioinformatics (SIB)}{]}(\url{https://www.sib.swiss/})) which \href{\%5Bhttps://github.com/GeertvanGeest}{Geert van Geest}{]}(\url{https://github.com/GeertvanGeest})) introduced me to the SIB's \href{\%5Bhttps://github.com/sib-swiss/AWS-docker}{AWS-Docker}{]}(\url{https://github.com/sib-swiss/AWS-docker})) for getting RStudio Server, Jupyter and VSCode running on an AWS EC2 using Docker
+
+\href{\%5Bhttps://www.thermofisher.com/us/en/home/technical-resources/learning-centers.html}{Thermo Fisher's Learning Centers}{]}(\url{https://www.thermofisher.com/us/en/home/technical-resources/learning-centers.html})) and
+
+\href{\%5Bhttps://www.thermofisher.com/us/en/home/digital-science/thermo-fisher-connect.html}{Education Connect},{]}(\url{https://www.thermofisher.com/us/en/home/digital-science/thermo-fisher-connect.html}),)
+
+\href{\%5Bhttps://www.illumina.com/science/education.html}{Illumina},{]}(\url{https://www.illumina.com/science/education.html}),)
+
+The user manual for the \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Create_K_mer_Tree.html}{k-mer trees}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Create_K_mer_Tree.html})) and \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Create_SNP_Tree.html}{SNP trees}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Create_SNP_Tree.html})) are relatively more straight forward **WHEN USING WORKFLOWS**. Nonetheless, their visualization could use improvement; I naturally turn to **python** for bioinformatics and **R** for visualization
+
+\subsection{Metagenomics}\label{metagenomics}
+
+\href{\%5Bhttps://www.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/16s-rrna-sequencing.html}{16s rRNA gene sequencing with Illumina},{]}(\url{https://www.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/16s-rrna-sequencing.html}),) which feeds into either the current gold-standard open-source (python) tool \href{\%5Bhttps://qiime2.org/}{QIIME2}{]}(\url{https://qiime2.org/})) by \href{\%5Bhttps://www.nature.com/articles/s41587-019-0209-9}{Bolyen *et al.* 2019},{]}(\url{https://www.nature.com/articles/s41587-019-0209-9}),) the superseded (C++) gold-standard tool, \href{\%5Bhttps://github.com/mothur/mothur}{Mothur}{]}(\url{https://github.com/mothur/mothur})) by \href{\%5Bhttps://journals.asm.org/doi/10.1128/AEM.01541-09}{Schloss *et al.* 2009},{]}(\url{https://journals.asm.org/doi/10.1128/AEM.01541-09}),) which has a \href{\%5Bhttps://training.galaxyproject.org/archive/2021-10-01/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html}{16S rRNA gene sequencing tutorial}{]}(\url{https://training.galaxyproject.org/archive/2021-10-01/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html}))
+
+\href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Introduction_Metagenomics.html}{16s rRNA gene sequencing with CLC}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Introduction_Metagenomics.html})) with \href{\%5Bhttps://digitalinsights.qiagen.com/wp-content/uploads/2016/05/Characterizing-the-Microbiome-through-Targeted-Sequencing-of-Bacterial-16S-rRNA-and-Fungal-ITS-Regions_White-Paper_QIAGEN-Bioinformatics_0518_ww.pdf}{associated white paper}:{]}(\url{https://digitalinsights.qiagen.com/wp-content/uploads/2016/05/Characterizing-the-Microbiome-through-Targeted-Sequencing-of-Bacterial-16S-rRNA-and-Fungal-ITS-Regions_White-Paper_QIAGEN-Bioinformatics_0518_ww.pdf}):) The CLC workflow for 16S follows an \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Amplicon_based_OTU_clustering.html}{amplicon-based OTU clustering workflow}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Amplicon_based_OTU_clustering.html})) that uses \href{}{read trimming} using their \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcassemblycell/400/index.php?manual=Quality_trimming.html}{`clc\_quality\_trim' program},{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcassemblycell/400/index.php?manual=Quality_trimming.html}),) but **I would rather use** \href{\%5Bhttp://www.usadellab.org/cms/?page=trimmomatic}{trimmomatic}{]}(\url{http://www.usadellab.org/cms/?page=trimmomatic})) by \href{\%5Bhttps://pubmed.ncbi.nlm.nih.gov/24695404/}{Bolger, Lihse \& Usadel, 2014};{]}(\url{https://pubmed.ncbi.nlm.nih.gov/24695404/});) \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Filter_Samples_Based_on_Number_Reads.html}{filtering samples based on the number of reads};{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Filter_Samples_Based_on_Number_Reads.html});) *de novo* or reference-based {[}OTU clustering{]} \href{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=OTU_clustering_parameters.html}{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=OTU\_clustering\_parameters.html);};) \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Remove_OTUs_with_Low_Abundance.html}{removal of low abundance OTUs};{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Remove_OTUs_with_Low_Abundance.html});) \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Abundance_analysis.html}{OTU abundance analysis}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Abundance_analysis.html})) **but I prefer R for this;**
+
+\href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Align_OTUs_with_MUSCLE.html}{OTU nucleotide alignment with MUSCLE}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Align_OTUs_with_MUSCLE.html})) by \href{\%5Bhttps://academic.oup.com/nar/article/32/5/1792/2380623?login=true}{Edgar, 2004}{]}(\url{https://academic.oup.com/nar/article/32/5/1792/2380623?login=true})) to \href{\%5Bhttp://resources.qiagenbioinformatics.com/manuals/clcgenomicsworkbench/current/index.php?manual}{generate a maximum likelihood phylogenetic tree},{]}(\url{http://resources.qiagenbioinformatics.com/manuals/clcgenomicsworkbench/current/index.php?manual}),) input for the \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Estimate_Alpha_Beta_Diversities_workflow.html}{alpha- and beta-diversity workflow}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Estimate_Alpha_Beta_Diversities_workflow.html})) **but I prefer \href{\%5Bhttps://vegandevs.github.io/vegan/index.html}{vegan}{]}(\url{https://vegandevs.github.io/vegan/index.html})) for this**
+
+The microbial , \href{\%5Bhttps://github.com/picrust/picrust2}{PICRUST2},{]}(\url{https://github.com/picrust/picrust2}),) and the \href{\%5Bhttps://portal.hmpdacc.org/}{interactive Human Microbiome Project (iHMP)}{]}(\url{https://portal.hmpdacc.org/}))
+
+\href{\%5Bhttps://www.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/shotgun-metagenomic-sequencing.html}{Illumina SGS}{]}(\url{https://www.illumina.com/areas-of-interest/microbiology/microbial-sequencing-methods/shotgun-metagenomic-sequencing.html}))
+
+In CLC, whole metagenome shotgun sequencing \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Functional_analysis.html}{functional analysis}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Functional_analysis.html})) first includes the user \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=De_Novo_Assemble_Metagenome.html\#sec:de_novo_assemble_metagenome}{*de novo* assembling a metagenome},{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=De_Novo_Assemble_Metagenome.html\#sec:de_novo_assemble_metagenome}),) followed by annotation of the coding sequence (CDS) track with
+
+\href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Annotate_CDS_with_Best_BLAST_Hit.html\#sec:annotate_cds_with_blast}{BLAST},{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Annotate_CDS_with_Best_BLAST_Hit.html\#sec:annotate_cds_with_blast}),) \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Annotate_CDS_with_Pfam_Domains.html\#sec:annotate_cds_with_pfam}{Pfam domains},{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Annotate_CDS_with_Pfam_Domains.html\#sec:annotate_cds_with_pfam}),) and/or
+
+\href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Download_GO_Database.html\#sec:download_go}{Gene Ontology (GO)}.{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Download_GO_Database.html\#sec:download_go}).) Then you map the original reads back to the annotated contigs using the `Map Reads to Reference' in the \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Build_Functional_Profile.html\#sec:functional_profile}{Build Functional Profile}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Build_Functional_Profile.html\#sec:functional_profile})) tool. The resulting output can be visualized using stacked bar charts and sunburst plots in \href{\%5Bhttps://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Visualization_OTU_abundance_tables.html\#sec:visualizationotu}{Visualization of the OTU abundance table}{]}(\url{https://resources.qiagenbioinformatics.com/manuals/clcmgm/300/index.php?manual=Visualization_OTU_abundance_tables.html\#sec:visualizationotu})) **but as you guessed, I prefer R for this.** As you might expect, **I might use** the open-source Linux OS (python) tool \href{\%5Bhttps://github.com/picrust/picrust2}{PICRUSt2}{]}(\url{https://github.com/picrust/picrust2})) by \href{\%5Bhttps://www.nature.com/articles/s41587-020-0548-6}{Douglas *et al.* 2020}{]}(\url{https://www.nature.com/articles/s41587-020-0548-6})) to do this too.
+
+\chapter{Pharmacology}\label{pharmacology}
+
+\section{Receptor Theory}\label{receptor-theory}
+
+Terry Kenakin's `A Pharmacology Primer' \url{https://www.sciencedirect.com/book/9780128139578/a-pharmacology-primer}
+
+\emph{Pharmacological Reviews} \url{https://pharmrev.aspetjournals.org/}
+
+\emph{Nature Reviews Drug Discovery} \url{https://www.nature.com/nrd/}
+
+\emph{British Journal of Pharmacology} (BPJ) \url{https://bpspubs.onlinelibrary.wiley.com/journal/14765381}
+
+\emph{Journal of Pharmacology and Experimental Therapeutics} (JPET) \url{https://www.aspet.org/aspet/journals/the-journal-of-pharmacology-and-experimental-therapeutics}
+
+\chapter{Favorite Journals}\label{favorite-journals}
+
+**Academic Journals** starting with
+
+\href{\%5Bhttps://www.scopus.com/}{SCOUPS}{]}(\url{https://www.scopus.com/})) that typically directs me to
+
+\href{\%5Bhttps://www.nature.com/}{*Nature*},{]}(\url{https://www.nature.com/}),)
+
+\href{\%5Bhttps://www.science.org/}{*Science*},{]}(\url{https://www.science.org/}),)
+
+\href{\%5Bhttps://www.nature.com/nm/}{*Nature Medicine*},{]}(\url{https://www.nature.com/nm/}),)
+
+\href{\%5Bhttps://www.science.org/journal/stm}{*Science Translational Medicine*}{]}(\url{https://www.science.org/journal/stm}))
+
+**Laboratory methods** in
+
+\href{\%5Bhttps://www.nature.com/nmeth/}{*Nature Methods*},{]}(\url{https://www.nature.com/nmeth/}),)
+
+\href{\%5Bhttps://www.nature.com/nprot/}{*Nature Protocols*},{]}(\url{https://www.nature.com/nprot/}),) and
+
+\href{\%5Bhttps://experiments.springernature.com/}{Springer\textbar Nature Experiments}{]}(\url{https://experiments.springernature.com/}))
+
+**Cellular, Molecular Biology** in
+
+\href{\%5Bhttps://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/}{Bruce Albert's `Molecular Biology of the Cell'}{]}(\url{https://brucealberts.ucsf.edu/current-projects/molecular-biology-of-the-cell/}))
+
+\href{\%5Bhttps://www.nature.com/nrm/}{*Nature Reviews Molecular Cell Biology*},{]}(\url{https://www.nature.com/nrm/}),)
+
+\href{\%5Bhttps://www.cell.com/}{*Cell Press*},{]}(\url{https://www.cell.com/}),)
+
+\href{\%5Bhttps://www.nature.com/nsmb/}{*Nature Structural \& Molecular Biology*},{]}(\url{https://www.nature.com/nsmb/}),)
+
+\href{\%5Bhttps://www.nature.com/sigtrans/}{*Signal Transduction and Targeted Therapy*},{]}(\url{https://www.nature.com/sigtrans/}),) and
+
+\href{\%5Bhttps://www.science.org/journal/signaling}{*Science Signaling*}{]}(\url{https://www.science.org/journal/signaling}))
+
+**Clinical microbiology, metagenomics and microbial ecology (microbiome sciences)** in
+
+\href{\%5Bhttps://www.amazon.com/Clinical-Microbiology-Twelfth-Michael-Pfaller/dp/1555819834}{Manual of Clinical Microbiology}{]}(\url{https://www.amazon.com/Clinical-Microbiology-Twelfth-Michael-Pfaller/dp/1555819834}))
+
+\href{\%5Bhttps://www.amazon.com/Principles-Virology-Multi-ASM-Books/dp/1683670329/}{Principles of Virology}{]}(\url{https://www.amazon.com/Principles-Virology-Multi-ASM-Books/dp/1683670329/}))
+
+\href{\%5Bhttps://www.nature.com/nrmicro/}{*Nature Reviews Microbiology*},{]}(\url{https://www.nature.com/nrmicro/}),)
+
+\href{\%5Bhttps://journals.asm.org/journal/cmr}{*Clinical Microbiology Reviews*},{]}(\url{https://journals.asm.org/journal/cmr}),)
+
+\href{\%5Bhttps://journals.asm.org/journal/jcm}{*Journal of Clinical Microbiology* (J Clin Micro)},{]}(\url{https://journals.asm.org/journal/jcm}),)
+
+\href{\%5Bhttps://www.nature.com/nmicrobiol/}{*Nature Microbiology*},{]}(\url{https://www.nature.com/nmicrobiol/}),)
+
+\href{\%5Bhttps://www.nature.com/ismej/}{*International Society for Microbial Ecology Journal* (ISMEJ)},{]}(\url{https://www.nature.com/ismej/}),)
+
+\href{\%5Bhttps://www.cell.com/cell-host-microbe/}{*Cell Host \& Microbe*},{]}(\url{https://www.cell.com/cell-host-microbe/}),) the
+
+\href{\%5Bhttps://www.nature.com/subjects/microbiology/nature}{*Nature* subject/Microbiology}{]}(\url{https://www.nature.com/subjects/microbiology/nature})) which includes the more narrow subjects
+
+\href{\%5Bhttps://www.nature.com/subjects/microbiome/nature}{*Nature* subject/Microbiome},{]}(\url{https://www.nature.com/subjects/microbiome/nature}),)
+
+\href{\%5Bhttps://www.nature.com/subjects/communities/nature}{*Nature* subject/Communities},{]}(\url{https://www.nature.com/subjects/communities/nature}),)
+
+\href{\%5Bhttps://www.nature.com/subjects/metagenomics/nature}{*Nature* subject/Metagenomics},{]}(\url{https://www.nature.com/subjects/metagenomics/nature}),) and the ecology \& evolution journals
+
+\href{\%5Bhttps://www.annualreviews.org/journal/ecolsys}{*Annual Review of Ecology, Evolution and Systematics*},{]}(\url{https://www.annualreviews.org/journal/ecolsys}),) and
+
+\href{\%5Bhttps://www.nature.com/natecolevol/}{*Nature Ecology and Evolution*}{]}(\url{https://www.nature.com/natecolevol/}))
+
+**Infectious Diseases and antimicrobial stewardship pharmacy practice** in
+
+\href{\%5Bhttps://journals.asm.org/journal/aac}{*Antimicrobial Agents and Chemotherapy* (AAC)},{]}(\url{https://journals.asm.org/journal/aac}),)
+
+\href{\%5Bhttps://www.nature.com/subjects/antimicrobials/nature}{*Nature* subject/Antimicrobials},{]}(\url{https://www.nature.com/subjects/antimicrobials/nature}),)
+
+\href{\%5Bhttps://academic.oup.com/cid}{*Clinical Infectious Diseases* (CID)},{]}(\url{https://academic.oup.com/cid}),)
+
+\href{\%5Bhttps://www.thelancet.com/journals/laninf/home}{*The Lancet Infectious Diseases*},{]}(\url{https://www.thelancet.com/journals/laninf/home}),)
+
+\href{\%5Bhttps://www.nejm.org/infectious-disease}{*NEJM Infectious Diseases*},{]}(\url{https://www.nejm.org/infectious-disease}),) and the CDC's
+
+\href{\%5Bhttps://www.cdc.gov/mmwr/}{*Morbidity and Mortality Weekly Report* (MMWR)}{]}(\url{https://www.cdc.gov/mmwr/})) and
+
+\href{\%5Bhttps://wwwnc.cdc.gov/eid/}{*Emerging Infectious Diseases* (EID)}{]}(\url{https://wwwnc.cdc.gov/eid/}))
+
+**Nucleic Acid Biochemistry**
+
+\href{\%5Bhttps://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/}{Baxevanis, Bader \& Wishart's `Bioinformatics: A Practical Guide to the Analysis of Genes and Proteins'},{]}(\url{https://www.amazon.com/Bioinformatics-Practical-Guide-Analysis-Proteins/dp/1119335582/}),)
+
+\href{\%5Bhttps://academic.oup.com/bioinformatics/}{*Bioinformatics*},{]}(\url{https://academic.oup.com/bioinformatics/}),)
+
+\href{\%5Bhttps://www.nature.com/ng/}{*Nature Genetics*},{]}(\url{https://www.nature.com/ng/}),)
+
+\href{\%5Bhttps://www.nature.com/nrg/}{*Nature Reviews Genetics*},{]}(\url{https://www.nature.com/nrg/}),)
+
+\href{\%5Bhttps://genomebiology.biomedcentral.com/}{*Genome Biology*},{]}(\url{https://genomebiology.biomedcentral.com/}),)
+
+\href{\%5Bhttps://academic.oup.com/nar/}{*Nucleic Acids Research*},{]}(\url{https://academic.oup.com/nar/}),) the
+
+\href{\%5Bhttps://www.annualreviews.org/journal/genet}{*Annual Review of Genetics*},{]}(\url{https://www.annualreviews.org/journal/genet}),) and the
+
+\href{\%5Bhttps://www.annualreviews.org/journal/genom}{*Annual Review of Genomics and Human Genetics*}{]}(\url{https://www.annualreviews.org/journal/genom}))
+
+**Immunology** in
+
+\href{\%5Bhttps://www.nature.com/ni/}{*Nature Immunology*},{]}(\url{https://www.nature.com/ni/}),)
+
+\href{\%5Bhttps://www.nature.com/nri/}{*Nature Reviews Immunology*},{]}(\url{https://www.nature.com/nri/}),)
+
+\href{\%5Bhttps://www.science.org/toc/sciimmunol/current}{*Science Immunology*},{]}(\url{https://www.science.org/toc/sciimmunol/current}),) and
+
+\href{\%5Bhttps://www.nature.com/mi/}{*Mucosal Immunology*}{]}(\url{https://www.nature.com/mi/}))
+
+**Artificial Intelligence** in
+
+\href{\%5Bhttps://www.nature.com/natmachintell/}{*Nature Machine Intelligence*},{]}(\url{https://www.nature.com/natmachintell/}),)
+
+\href{\%5Bhttps://www.science.org/journal/scirobotics}{*Science Robototics*},{]}(\url{https://www.science.org/journal/scirobotics}),) the
+
+\href{\%5Bhttps://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34}{*IEEE Transactions on Pattern Analysis and Machine Intelligence*},{]}(\url{https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34}),)
+
+\href{\%5Bhttps://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385}{*IEEE Transactions on Neural Networks and Learning Systems*},{]}(\url{https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385}),) the
+
+\href{\%5Bhttps://onlinelibrary.wiley.com/journal/1098111x}{*International Journal of Intelligent Systems*}{]}(\url{https://onlinelibrary.wiley.com/journal/1098111x}))
+
+\href{\%5Bhttps://www.journals.elsevier.com/information-sciences}{*Information Sciences*},{]}(\url{https://www.journals.elsevier.com/information-sciences}),) the
+
+\href{\%5Bhttps://www.sciencedirect.com/journal/physics-of-life-reviews}{*Physics of Life Review*},{]}(\url{https://www.sciencedirect.com/journal/physics-of-life-reviews}),)
+
+\href{\%5Bhttps://www.springer.com/journal/10462}{*Artificial Intelligence Review*},{]}(\url{https://www.springer.com/journal/10462}),)
+
+\href{\%5Bhttps://www.journals.elsevier.com/knowledge-based-systems}{*Knowledge-Based Systems*},{]}(\url{https://www.journals.elsevier.com/knowledge-based-systems}),)
+
+\href{\%5Bhttps://www.journals.elsevier.com/neural-networks}{*Neural Networks*},{]}(\url{https://www.journals.elsevier.com/neural-networks}),)
+
+\href{\%5Bhttps://www.springer.com/journal/521}{*Neural Computing and Applications*},{]}(\url{https://www.springer.com/journal/521}),) the
+
+\href{\%5Bhttps://www.springer.com/journal/11263}{*International Journal of Computer Vision*},{]}(\url{https://www.springer.com/journal/11263}),) and the journal
+
+\href{\%5Bhttps://www.sciencedirect.com/journal/pattern-recognition}{*Pattern Recognition*}{]}(\url{https://www.sciencedirect.com/journal/pattern-recognition}))
+
+\chapter{Pharmacy Practice}\label{pharmacy-practice}
+
+\section{Pharmacy Practice}\label{pharmacy-practice-1}
+
+\href{https://www.pharmacist.com/}{APhA} \href{https://www.japha.org/}{JAPhA}
+
+\href{https://www.ashp.org/}{ASHP} \href{https://academic.oup.com/ajhp}{AJHP}
+
+\href{https://www.accp.com/}{ACCP} \href{https://accpjournals.onlinelibrary.wiley.com/journal/18759114}{Pharmacotherapy}
+
+\href{https://tshp.org/}{TSHP}
+
+\href{https://www.texaspharmacy.org/}{TPA}
+
+\href{https://www.pharmacy.texas.gov/}{TSBP}
+
+\href{https://nabp.pharmacy/}{NABP}
+
+\href{https://www.fda.gov/}{FDA}
+
+\href{https://www.cms.gov/}{CMS}
+
+\href{https://www.jointcommission.org/}{TJC}
+
+\href{https://www.ismp.org/}{ISMP}
+
+\href{https://www.sanfordguide.com/}{The Sanford Guide}
+
+\href{https://www.uptodate.com/login}{UpToDate}
+
+\href{https://online.lexi.com/lco/action/home}{Lexicomp}
+
+\href{https://dailymed.nlm.nih.gov/dailymed/index.cfm}{Daily Med}
+
+\href{https://beta.clinicaltrials.gov/}{ClinicalTrials.Gov}
+
+\section{Clinical Guidelines}\label{clinical-guidelines}
+
+\href{https://www.idsociety.org/practice-guideline/alphabetical-guidelines/}{IDSA}
+
+\href{https://www.acc.org/guidelines}{ACC}
+
+\href{https://www.acog.org/clinical/clinical-guidance/practice-bulletin}{ACOG}
+
+\href{https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines}{ASH}
+
+\href{https://diabetesjournals.org/care/issue/45/Supplement_1}{ADA}
+
+\href{https://gi.org/guidelines/}{ACG}
+
+\href{https://kdigo.org/guidelines/}{KDIGO}
+
+\href{https://www.aan.com/practice/guidelines}{AAN}
+
+\href{https://www.psychiatry.org/psychiatrists/practice/clinical-practice-guidelines}{APA}
+
+\href{https://www.nccn.org/guidelines/category_1}{NCCN}
+
+\href{https://www.asco.org/practice-patients/guidelines}{ASCO}
+
+\href{https://journal.chestnet.org/guidelines}{CHEST}
+
+\href{https://www.thoracic.org/statements/index.php}{ATS}
+
+\href{https://www.rheumatology.org/Practice-Quality/Clinical-Support/Clinical-Practice-Guidelines}{ARA}
+
+\href{https://clinicalinfo.hiv.gov/en/guidelines}{HIV.gov}
+
+\section{Top Clinical Journals}\label{top-clinical-journals}
+
+\href{https://www.thelancet.com/}{The Lancet}
+
+\href{https://www.nejm.org/}{New England Journal of Medicine}
+
+\section{My Favorite Clinical Review Journals}\label{my-favorite-clinical-review-journals}
+
+\href{https://www.nature.com/nrdp/}{Nature Reviews Disease Primers}
+
+\chapter{Artificial Intelligence}\label{artificial-intelligence}
+
+**Artificial Intelligence** in
+
+\href{\%5Bhttps://www.nature.com/natmachintell/}{*Nature Machine Intelligence*},{]}(\url{https://www.nature.com/natmachintell/}),)
+
+\href{\%5Bhttps://www.science.org/journal/scirobotics}{*Science Robototics*},{]}(\url{https://www.science.org/journal/scirobotics}),) the
+
+\href{\%5Bhttps://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34}{*IEEE Transactions on Pattern Analysis and Machine Intelligence*},{]}(\url{https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34}),)
+
+\href{\%5Bhttps://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385}{*IEEE Transactions on Neural Networks and Learning Systems*},{]}(\url{https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385}),) the
+
+\href{\%5Bhttps://onlinelibrary.wiley.com/journal/1098111x}{*International Journal of Intelligent Systems*}{]}(\url{https://onlinelibrary.wiley.com/journal/1098111x}))
+
+\href{\%5Bhttps://www.journals.elsevier.com/information-sciences}{*Information Sciences*},{]}(\url{https://www.journals.elsevier.com/information-sciences}),) the
+
+\href{\%5Bhttps://www.sciencedirect.com/journal/physics-of-life-reviews}{*Physics of Life Review*},{]}(\url{https://www.sciencedirect.com/journal/physics-of-life-reviews}),)
+
+\href{\%5Bhttps://www.springer.com/journal/10462}{*Artificial Intelligence Review*},{]}(\url{https://www.springer.com/journal/10462}),)
+
+\href{\%5Bhttps://www.journals.elsevier.com/knowledge-based-systems}{*Knowledge-Based Systems*},{]}(\url{https://www.journals.elsevier.com/knowledge-based-systems}),)
+
+\href{\%5Bhttps://www.journals.elsevier.com/neural-networks}{*Neural Networks*},{]}(\url{https://www.journals.elsevier.com/neural-networks}),)
+
+\href{\%5Bhttps://www.springer.com/journal/521}{*Neural Computing and Applications*},{]}(\url{https://www.springer.com/journal/521}),) the
+
+\href{\%5Bhttps://www.springer.com/journal/11263}{*International Journal of Computer Vision*},{]}(\url{https://www.springer.com/journal/11263}),) and the journal
+
+\href{\%5Bhttps://www.sciencedirect.com/journal/pattern-recognition}{*Pattern Recognition*}{]}(\url{https://www.sciencedirect.com/journal/pattern-recognition}))
+
+\href{\%5Bhttps://github.com/deepmind}{DeepMind}{]}(\url{https://github.com/deepmind})) is an excellent gold-standard for the capability of deep-learning in the biological sciences, \href{\%5Bhttps://github.com/deepmind/alphafold}{AlphaFold}{]}(\url{https://github.com/deepmind/alphafold})) and the other \href{\%5Bhttps://github.com/deepmind/deepmind-research}{amazing discoveries}{]}(\url{https://github.com/deepmind/deepmind-research})) at DeepMind. The \href{\%5Bhttps://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb}{AlphaFold Colab}{]}(\url{https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb})) is also freely available as a simplified implementation.
+
+\href{\%5Bhttps://github.com/RosettaCommons/RoseTTAFold}{RoseTTAfold}{]}(\url{https://github.com/RosettaCommons/RoseTTAFold})) by \href{\%5Bhttps://www.science.org/doi/10.1126/science.abj8754}{Baek et al., 2021}{]}(\url{https://www.science.org/doi/10.1126/science.abj8754})) and \href{\%5Bhttps://twitter.com/peng_illinois/status/1538536909814874113}{OmegaFold}{]}(\url{https://twitter.com/peng_illinois/status/1538536909814874113}))
+
+I think \href{\%5Bhttps://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html}{AWS SageMaker}{]}(\url{https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-training.html})) is best for its freedom of scalability; requires knowledge of \href{\%5Bhttps://github.com/data-science-on-aws/data-science-on-aws}{AWS Data Science},{]}(\url{https://github.com/data-science-on-aws/data-science-on-aws}),) and a review of the \href{\%5Bhttps://github.com/awslabs/amazon-sagemaker-workshop}{Sagemaker Workshop}{]}(\url{https://github.com/awslabs/amazon-sagemaker-workshop})) and \href{\%5Bhttps://github.com/aws/amazon-sagemaker-examples}{Examples}{]}(\url{https://github.com/aws/amazon-sagemaker-examples}))
+
+The Microsoft \href{\%5Bhttps://github.com/py-why/dowhy}{DoWhy}{]}(\url{https://github.com/py-why/dowhy})) library for \href{\%5Bhttps://www.microsoft.com/en-us/research/blog/dowhy-a-library-for-causal-inference/}{causal inference}{]}(\url{https://www.microsoft.com/en-us/research/blog/dowhy-a-library-for-causal-inference/})) recently popped on my radar
+
+Further reading can be found at
+
+\href{\%5Bhttps://github.com/keras-team/keras}{Keras},{]}(\url{https://github.com/keras-team/keras}),)
+
+\href{\%5Bhttps://github.com/tensorflow/tensorflow}{TensorFlow},{]}(\url{https://github.com/tensorflow/tensorflow}),)
+
+\href{\%5Bhttps://github.com/scikit-learn/scikit-learn}{Scikit-Learn},{]}(\url{https://github.com/scikit-learn/scikit-learn}),)
+
+\href{\%5Bhttps://www.statlearning.com/}{*`An Intro to Statistical Learning'*}{]}(\url{https://www.statlearning.com/}))
+
+\href{\%5Bhttps://github.com/ageron/handson-ml3}{A. Geron's *Hands-On Machine-Learning*, 3rd ed.}{]}(\url{https://github.com/ageron/handson-ml3}))
+
+\href{\%5Bhttps://github.com/fchollet/deep-learning-with-python-notebooks}{F. Chollet's *Deep-Learning with Python*}{]}(\url{https://github.com/fchollet/deep-learning-with-python-notebooks}))
+
+\href{\%5Bhttps://github.com/NVIDIA/DeepLearningExamples}{Nvidia's `Deep-Learning Examples' in Python}{]}(\url{https://github.com/NVIDIA/DeepLearningExamples}))
+
+\href{\%5Bhttps://machinelearningmastery.com/machine-learning-with-r/}{*Machine Learning with R*}{]}(\url{https://machinelearningmastery.com/machine-learning-with-r/}))
+
+\href{\%5Bhttps://livebook.manning.com/book/deep-learning-with-r-second-edition/welcome/v-1/1}{*`Deep learning with R'* 2nd ed.}{]}(\url{https://livebook.manning.com/book/deep-learning-with-r-second-edition/welcome/v-1/1}))
+
+\chapter{Computer Science}\label{computer-science}
+
+\section{Computer science communities}\label{computer-science-communities}
+
+\href{\%5Bhttps://www.r-project.org/}{R},{]}(\url{https://www.r-project.org/}),)
+
+\href{\%5Bhttps://www.rstudio.com/}{RStudio},{]}(\url{https://www.rstudio.com/}),)
+
+\href{\%5Bhttps://www.tidyverse.org/}{Tidyverse},{]}(\url{https://www.tidyverse.org/}),)
+
+\href{\%5Bhttps://bookdown.org/}{Bookdown},{]}(\url{https://bookdown.org/}),)
+
+\href{\%5Bhttps://www.python.org/}{Python},{]}(\url{https://www.python.org/}),)
+
+\href{\%5Bhttps://biopython.org/}{BioPython},{]}(\url{https://biopython.org/}),)
+
+\href{\%5Bhttps://www.anaconda.com/}{Anaconda}{]}(\url{https://www.anaconda.com/})) ,
+
+\href{\%5Bhttps://julialang.org/}{Julia},{]}(\url{https://julialang.org/}),)
+
+\href{\%5Bhttps://www.docker.com/}{Docker},{]}(\url{https://www.docker.com/}),)
+
+\href{\%5Bhttps://git-scm.com/}{Git},{]}(\url{https://git-scm.com/}),)
+
+\href{\%5Bhttps://github.com/features/copilot}{GitHub **Co-pilot**},{]}(\url{https://github.com/features/copilot}),)
+
+\href{\%5Bhttps://www.latex-project.org/}{LaTeX},{]}(\url{https://www.latex-project.org/}),)
+
+\href{\%5Bhttps://code.visualstudio.com/}{VSCode},{]}(\url{https://code.visualstudio.com/}),)
+
+\href{\%5Bhttps://aws.amazon.com/}{AWS},{]}(\url{https://aws.amazon.com/}),)
+
+\href{\%5Bhttps://www.ubuntu.com}{Ubuntu}{]}(\url{https://www.ubuntu.com}))
+
+\section{Containerization Learning Resources}\label{containerization-learning-resources}
+
+\href{\%5Bhttps://github.com/docker/labs}{The Official Docker Labs}{]}(\url{https://github.com/docker/labs})) by \href{\%5Bhttps://github.com/docker}{Docker},{]}(\url{https://github.com/docker}),)
+
+\href{\%5Bhttps://dockerlabs.collabnix.com/}{The \#1 Docker Labs}{]}(\url{https://dockerlabs.collabnix.com/})) and \href{\%5Bhttps://collabnix.github.io/kubelabs/}{Kubernetes Labs}{]}(\url{https://collabnix.github.io/kubelabs/})) by \href{\%5Bhttps://github.com/collabnix/}{Collabnix},{]}(\url{https://github.com/collabnix/}),)
+
+\href{\%5Bhttps://container.training/}{Containerization Training}{]}(\url{https://container.training/})) by \href{\%5Bhttps://github.com/jpetazzo/}{J. Petazzo},{]}(\url{https://github.com/jpetazzo/}),)
+
+\href{\%5Bhttps://docker-curriculum.com/}{The Docker *for beginniners* Curriculum}{]}(\url{https://docker-curriculum.com/})) by \href{\%5Bhttps://github.com/prakhar1989/}{P. Srivastav}{]}(\url{https://github.com/prakhar1989/}))
+
+\section{**Academic Programming**}\label{academic-programming}
+
+Read in \href{\%5Bhttps://github.com/zotero/zotero}{Zotero}{]}(\url{https://github.com/zotero/zotero})) and cite using \href{\%5Bhttps://github.com/crsh/citr}{citr}{]}(\url{https://github.com/crsh/citr})) for RStudio; optional: VSCode using \href{\%5Bhttps://github.com/mblode/vscode-zotero}{Citation Picker}{]}(\url{https://github.com/mblode/vscode-zotero})) and \href{\%5Bhttps://github.com/retorquere/zotero-better-bibtex}{Better BibTeX}{]}(\url{https://github.com/retorquere/zotero-better-bibtex}))
+
+**I made a public \href{\%5Bhttps://www.zotero.org/groups/4734738/jacobs_public_papers/library}{Zotero}{]}(\url{https://www.zotero.org/groups/4734738/jacobs_public_papers/library}))
+
+for your reading enjoyment**
+
+\chapter{Structural Biology}\label{structural-biology}
+
+Structural biology is The Holy Grail of pharmacology; the dynamic states of pharmacological target activation/inactivation as determined by receptor theory
+
+\section{Cryogenic electronic microscopy (CryoEM)}\label{cryogenic-electronic-microscopy-cryoem}
+
+The \href{}{Theoretical and Computational Biophysics Group (TCBG)} provides \href{\%5Bhttps://www.ks.uiuc.edu/Training/Tutorials/}{tutorial-based training}{]}(\url{https://www.ks.uiuc.edu/Training/Tutorials/})) and a database of software for 3D molecular \href{\%5Bhttps://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=3}{building},{]}(\url{https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=3}),) \href{\%5Bhttps://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=2}{dynamics}{]}(\url{https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=2})) and \href{\%5Bhttps://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=1}{visualization}{]}(\url{https://www.ks.uiuc.edu/Development/biosoftdb/biosoft.cgi?&category=1}))
+
+Further resources can be found notably at the \href{\%5Bhttps://www.ebi.ac.uk/training/search-results?query=structural-biology}{EMBLI-EBI},{]}(\url{https://www.ebi.ac.uk/training/search-results?query=structural-biology}),) Stanford
+
+The NIH established the following \href{\%5Bhttps://www.cryoemcenters.org/cryoem-centers/}{CryoEM Centers}{]}(\url{https://www.cryoemcenters.org/cryoem-centers/})) through \href{\%5Bhttps://www.nih.gov/news-events/news-releases/nih-funds-three-national-cryo-em-service-centers-training-new-microscopists}{awards}{]}(\url{https://www.nih.gov/news-events/news-releases/nih-funds-three-national-cryo-em-service-centers-training-new-microscopists})) to the
+
+\href{\%5Bhttps://nccat.nysbc.org/}{National Center for CryoEM Access and Training (NCCAT)}{]}(\url{https://nccat.nysbc.org/})) at the \href{\%5Bhttps://nysbc.org/}{New York Structural Biology Center (NYSBC)},{]}(\url{https://nysbc.org/}),) the
+
+\href{\%5Bhttps://pncc.labworks.org/}{Pacific Northwest Center for Cryo-EM}{]}(\url{https://pncc.labworks.org/})) at the \href{\%5Bhttps://www.pnnl.gov/}{Pacific Northwest National Laboratory(PNNL)},{]}(\url{https://www.pnnl.gov/}),) the
+
+\href{\%5Bhttps://cryoem-s2c2.slac.stanford.edu/}{Stanford-SLACC Cryo-EM Center}{]}(\url{https://cryoem-s2c2.slac.stanford.edu/})) at the \href{\%5Bhttps://www6.slac.stanford.edu/}{National Accelerator Laboratory}{]}(\url{https://www6.slac.stanford.edu/}))
+
+**Online learning resources include**:
+
+\href{\%5Bhttps://em-learning.com/}{Thermo Fisher's EM-Learning}{]}(\url{https://em-learning.com/})) and
+
+\href{\%5Bhttps://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html}{CryoEM Learning Center}{]}(\url{https://www.thermofisher.com/us/en/home/electron-microscopy/life-sciences/learning-center.html})) by
+
+\href{\%5Bhttps://cryo-em-course.caltech.edu/}{Grant Jensen, CalTech},{]}(\url{https://cryo-em-course.caltech.edu/}),) and
+
+\href{\%5Bhttps://research.pasteur.fr/en/team/nanoimaging/}{Matthijn Vos, the Pasteur Institute}{]}(\url{https://research.pasteur.fr/en/team/nanoimaging/}))
+
+\href{\%5Bhttps://cryoem.yale.edu/cryo-em/workshops-and-online-courses}{Yale CryoEM},{]}(\url{https://cryoem.yale.edu/cryo-em/workshops-and-online-courses}),)
+
+\href{\%5Bhttps://www.med.unc.edu/cryo-em/}{UNC CryoEM Core}{]}(\url{https://www.med.unc.edu/cryo-em/})) lists \href{\%5Bhttps://www.med.unc.edu/cryo-em/cryoem-links-and-resources/}{resources available},{]}(\url{https://www.med.unc.edu/cryo-em/cryoem-links-and-resources/}),) and
+
+\href{\%5Bhttps://nramm.nysbc.org/workshops-and-courses/}{NIGMS National Resource for Automated Molecular Microscopy (NRAMM)}{]}(\url{https://nramm.nysbc.org/workshops-and-courses/}))
+
+\section{X-Ray Crystallography}\label{x-ray-crystallography}
+
+\chapter{References:}\label{references}
+
+\section{Genomics}\label{genomics-2}
+
+\href{https://doi.org/10.3390/jcm9010132}{Pereira, et al.~2020} `Bioinformatics and Computational Tools for Next-Generation Sequencing Analysis in Clinical Genetics'
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.0178}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.5660}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.4151}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Wet-lab Protocols
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Dry-Lab Protocols
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Thermo Fisher & \href{https://www.thermofisher.com/us/en/home/references/protocols.html}{Protocols} & \\
+QIAGEN & \href{https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide}{Bench Guide} & \\
+Illumina & \href{https://www.illumina.com/science/technology/next-generation-sequencing/beginners/tutorials.html}{NGS for Beginners}, \href{https://www.illumina.com/science/technology/next-generation-sequencing/beginners/glossary.html}{NGS Glossary}, \& \href{https://www.illumina.com/science/technology/next-generation-sequencing/beginners/ngs-workflow.html}{NGS Workflow Steps}
+
+\href{https://support.illumina.com/bulletins/2016/05/dnarna-isolation-considerations-when-using-truseq-library-prep-kits.html}{DNA/RNA Isolation Considerations}, \href{https://support.illumina.com/bulletins/2016/05/library-quantification-and-quality-control-quick-reference-guide.html}{Library Quality Control}, \href{https://www.illumina.com/techniques/sequencing/ngs-library-prep.html}{NGS Library Preparation} \& \href{https://www.illumina.com/techniques/sequencing/ngs-library-prep/automation.html}{Library Prep Automation},
+
+\href{https://www.illumina.com/systems/sequencing-platforms.html}{Sequencing Platforms}, \href{https://www.illumina.com/science/sequencing-method-explorer.html}{Sequencing Methods Explorer}, \href{https://www.illumina.com/science/technology/next-generation-sequencing/sequencing-technology.html}{Sequencing by Synthesis} & \href{https://www.illumina.com/informatics.html}{Bioinformatics},
+
+\href{https://www.illumina.com/informatics/infrastructure-pipeline-setup/genomic-data-storage-security.html}{Cloud NGS Data}
+
+\href{https://doi.org/10.1038/nmeth.2276}{Bokulich et al., Nature Methods 2013}
+
+\href{https://en.wikipedia.org/wiki/FASTQ_format}{FastQ\_format}, \href{https://www.illumina.com/science/technology/next-generation-sequencing/plan-experiments/quality-scores.html}{Phred Scores}, \href{https://www.bioinformatics.babraham.ac.uk/projects/fastqc/}{FastQC} (\href{https://www.youtube.com/watch?v=GnWSXwQeJ_U}{NIAID YT} and \href{https://www.hadriengourle.com/tutorials/qc/}{Tutorial})
+
+\href{https://github.com/timflutre/trimmomatic}{Trimmomatic} (\href{https://www.youtube.com/watch?v=xZbzPpW0NTk}{NIAID YT}) \\
+\end{longtable}
+
+\href{https://www.youtube.com/watch?v=U1KH9GCz4Xs&list=PLbVDKwGpb3XnwBACQ5w8L8NzjZ-6D0M8u}{Intro to Bioinformatics by QIIME2\_YT}
+
+\href{https://www.youtube.com/watch?v=M2iXewkYHE0&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT}{Intro to QIIME2 Playlist} including \href{https://www.youtube.com/watch?v=QMqKd7HGBbQ&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=9}{Importing \& Demultiplexing}, \href{https://www.youtube.com/watch?v=PmtqSa4Z1TQ&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=11}{Denoising/Clustering} (\href{https://youtu.be/181bMy9YB9I?t=116}{DADA2} by \href{https://github.com/benjjneb/dada2}{The Callahan Lab}), \href{https://www.youtube.com/watch?v=Z9w2VZHJMZs&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=15}{Taxonomic Classification}, \href{https://www.youtube.com/watch?v=g5BdGP4V5YA&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=17}{Rarefaction} and \href{https://www.youtube.com/watch?v=0nEabGxFxlY&t=5s}{Phylogenetic}\href{https://www.youtube.com/watch?v=0nEabGxFxlY&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=14}{Reconstruction}, \href{https://www.youtube.com/watch?v=tucm8y5xi88&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=20}{Alpha}and \href{https://www.youtube.com/watch?v=7H_LhmGafOc&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=22}{Beta-Diversity} and \href{https://www.youtube.com/watch?v=K3gzz5DGTc0&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=28}{Longitudinal Studies} in \href{https://docs.qiime2.org/2022.2/}{Qiime2}
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}

@@ -1,5 +1,0 @@
-# *In Silico* Docking 
-
-[Schrodinger]([https://www.schrodinger.com/)](https://www.schrodinger.com/))
-
-Swiss Institute for Bioinformatics (SIB) Drug Discovery Resources

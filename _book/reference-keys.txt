@@ -29,7 +29,5 @@ academic-programming
 structural-biology
 cryogenic-electronic-microscopy-cryoem
 x-ray-crystallography
-in-silico-docking
-microscopy
 references
 genomics-2
