@@ -16,11 +16,6 @@ metagenomics
 pharmacology
 receptor-theory
 favorite-journals
-pharmacy-practice
-pharmacy-practice-1
-clinical-guidelines
-top-clinical-journals
-my-favorite-clinical-review-journals
 artificial-intelligence
 computer-science
 computer-science-communities
