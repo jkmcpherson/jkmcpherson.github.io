@@ -36,46 +36,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\usepackage{color}
-\usepackage{fancyvrb}
-\newcommand{\VerbBar}{|}
-\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
-\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
-% Add ',fontsize=\small' for more characters per line
-\usepackage{framed}
-\definecolor{shadecolor}{RGB}{248,248,248}
-\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
-\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
-\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
-\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\BuiltInTok}[1]{#1}
-\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
-\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
-\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
-\newcommand{\ExtensionTok}[1]{#1}
-\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\ImportTok}[1]{#1}
-\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\NormalTok}[1]{#1}
-\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
-\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
-\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\RegionMarkerTok}[1]{#1}
-\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
-\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -120,7 +80,7 @@
 
 \title{Jacob McPherson, PharmD}
 \author{Jacob McPherson}
-\date{2024-06-29}
+\date{2025-01-07}
 
 \begin{document}
 \maketitle
@@ -155,23 +115,7 @@ You can render the HTML version of this example book without changing anything:
 
 Or build the book from the R console:
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{bookdown}\SpecialCharTok{::}\FunctionTok{render\_book}\NormalTok{()}
-\end{Highlighting}
-\end{Shaded}
-
 To render this example to PDF as a \texttt{bookdown::pdf\_book}, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): \url{https://yihui.org/tinytex/}.
-
-\section{Preview book}\label{preview-book}
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in ``Preview book'', or from the R console:
-
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{bookdown}\SpecialCharTok{::}\FunctionTok{serve\_book}\NormalTok{()}
-\end{Highlighting}
-\end{Shaded}
 
 \chapter{Statistics}\label{statistics}
 
@@ -610,10 +554,6 @@ Illumina & \href{https://www.illumina.com/science/technology/next-generation-seq
 
 \href{https://github.com/timflutre/trimmomatic}{Trimmomatic} (\href{https://www.youtube.com/watch?v=xZbzPpW0NTk}{NIAID YT}) \\
 \end{longtable}
-
-\href{https://www.youtube.com/watch?v=U1KH9GCz4Xs&list=PLbVDKwGpb3XnwBACQ5w8L8NzjZ-6D0M8u}{Intro to Bioinformatics by QIIME2\_YT}
-
-\href{https://www.youtube.com/watch?v=M2iXewkYHE0&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT}{Intro to QIIME2 Playlist} including \href{https://www.youtube.com/watch?v=QMqKd7HGBbQ&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=9}{Importing \& Demultiplexing}, \href{https://www.youtube.com/watch?v=PmtqSa4Z1TQ&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=11}{Denoising/Clustering} (\href{https://youtu.be/181bMy9YB9I?t=116}{DADA2} by \href{https://github.com/benjjneb/dada2}{The Callahan Lab}), \href{https://www.youtube.com/watch?v=Z9w2VZHJMZs&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=15}{Taxonomic Classification}, \href{https://www.youtube.com/watch?v=g5BdGP4V5YA&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=17}{Rarefaction} and \href{https://www.youtube.com/watch?v=0nEabGxFxlY&t=5s}{Phylogenetic}\href{https://www.youtube.com/watch?v=0nEabGxFxlY&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=14}{Reconstruction}, \href{https://www.youtube.com/watch?v=tucm8y5xi88&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=20}{Alpha}and \href{https://www.youtube.com/watch?v=7H_LhmGafOc&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=22}{Beta-Diversity} and \href{https://www.youtube.com/watch?v=K3gzz5DGTc0&list=PLbVDKwGpb3XmkQmoBy1wh3QfWlWdn_pTT&index=28}{Longitudinal Studies} in \href{https://docs.qiime2.org/2022.2/}{Qiime2}
 
   \bibliography{book.bib,packages.bib}
 

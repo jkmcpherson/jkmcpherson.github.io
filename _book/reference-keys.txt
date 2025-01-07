@@ -1,7 +1,6 @@
 about
 usage
 render-book
-preview-book
 statistics
 introductory-r
 advanced-r
