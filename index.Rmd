@@ -25,6 +25,8 @@ The `index.Rmd` file is required, and is also your first book chapter. It will b
 
 ## Render book
 
+UPDATE: to render this bookdown gitbook, it is easiest to open the repo in Posit Cloud or other RStudio: maximum efficiency with git pull/push and build book button
+
 You can render the HTML version of this example book without changing anything:
 
 1.  Find the **Build** pane in the RStudio IDE, and
