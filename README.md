@@ -1,9 +1,9 @@
-## Welcome to my [About Me](https://jacobkmcpherson.github.io/JacobKMcPherson/)
+## Welcome to my [Home Page](https://jacobkmcpherson.github.io/JacobKMcPherson/)
 
 [![GitHub followers](https://img.shields.io/github/followers/jacobkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jacobkmcpherson?tab=followers) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jacobkmcpherson?style=social)](https://twitter.com/jacobkmcpherson)
 
-## Scholarly Works 
+## Scholarly Works [AuthorLink](https://author.link/JacobKMcPherson)
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)
