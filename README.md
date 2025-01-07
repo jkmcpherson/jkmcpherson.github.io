@@ -35,9 +35,10 @@
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+
 
 <!-- badges: start -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
 [![R-CMD-check](https://github.com/tidyverse/ggplot2/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
 [![Codecov test
