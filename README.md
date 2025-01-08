@@ -10,7 +10,7 @@
 [![Scopus](https://img.shields.io/badge/Scopus-22a6b3?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 
-## GitHub Sites
+## My GitHub Pages
 * [**My GitBook**](https://jacobkmcpherson.netlify.app/) [**(PDF)**](https://github.com/JacobKMcPherson/JacobKMcPherson/blob/master/_book/_main.pdf) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
 
 ## Languages, Tools, and Skills 🛠
