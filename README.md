@@ -3,14 +3,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/jacobkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jacobkmcpherson?tab=followers) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jacobkmcpherson?style=social)](https://twitter.com/jacobkmcpherson)
 
-## Find my Scholarly Works at my [AuthorLink](https://author.link/JacobKMcPherson)
+## My Scholarly Works at [AuthorLink](https://author.link/JacobKMcPherson)
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)
 [![Scopus](https://img.shields.io/badge/Scopus-22a6b3?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 
-## Find my Interactive GitHub Pages
+## My GitHub Pages
 * [**My GitBook**](https://jacobkmcpherson.netlify.app/) [**(PDF)**](https://github.com/JacobKMcPherson/JacobKMcPherson/blob/master/_book/_main.pdf) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
 
 ## Languages, Tools, and Skills 🛠
