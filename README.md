@@ -1,21 +1,20 @@
-## [**The-McPherson-Lab**](https://The-Mcpherson-Lab.github.io/The-McPherson-Lab/)
+# Welcome! Please check out...
 
-## Welcome to [**My Page**](https://jacobkmcpherson.github.io/JacobKMcPherson/)
+* This [**README**](https://jacobkmcpherson.github.io/JacobKMcPherson/)
+* My [**GitBook**](https://jacobkmcpherson.netlify.app/) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
+* My [**AuthorLink**](https://author.link/JacobKMcPherson)
+* [**The-McPherson-Lab**](https://The-Mcpherson-Lab.github.io/The-McPherson-Lab/)
 
-[![GitHub followers](https://img.shields.io/github/followers/jacobkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jacobkmcpherson?tab=followers) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jacobkmcpherson?style=social)](https://twitter.com/jacobkmcpherson)
-
-## My Scholarly Works at [AuthorLink](https://author.link/JacobKMcPherson)
+## My Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)
 [![Scopus](https://img.shields.io/badge/Scopus-22a6b3?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
+[![GitHub followers](https://img.shields.io/github/followers/jacobkmcpherson.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jacobkmcpherson?tab=followers) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/jacobkmcpherson?style=social)](https://twitter.com/jacobkmcpherson)
 
-## My GitHub Pages
-* [**My GitBook**](https://jacobkmcpherson.netlify.app/) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
-
-## Languages, Tools, and Skills 🛠
+## Favorite Languages, and Tools 🛠
 
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -37,13 +36,3 @@
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-
-
-<!-- badges: start -->
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
-[![R-CMD-check](https://github.com/tidyverse/ggplot2/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
-[![Codecov test
-coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/ggplot2?branch=main)
-<!-- badges: end -->
-<a href="https://github.com/rstudio/cheatsheets/blob/master/data-visualization.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/master/pngs/thumbnails/data-visualization-cheatsheet-thumbs.png" width="630" height="252"/></a>
