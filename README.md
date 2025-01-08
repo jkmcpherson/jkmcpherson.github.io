@@ -6,7 +6,7 @@
 * My [**AuthorLink**](https://author.link/JacobKMcPherson)
 
 
-## My Scholarly Works and Socials 
+## Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)
