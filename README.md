@@ -37,3 +37,7 @@
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
+
+### To Edit the [**GitBook**](https://jacobkmcpherson.netlify.app/) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
+Just open this repo in an RStudio Posit Cloud directory, edit the .RMD files, and compile the book using the native environment button
