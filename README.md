@@ -40,4 +40,4 @@
 
 
 ### To Edit the [**GitBook**](https://jacobkmcpherson.netlify.app/) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
-Just open this repo in an RStudio Posit Cloud directory, edit the .RMD files, and compile the book using the native environment button
+Just open this repo in an RStudio Posit Cloud directory, edit the .RMD files, compile & render the book using the native environment button, and Git push back to repo
